@@ -1,0 +1,119 @@
+\documentclass[journal]{IEEEtran}
+\usepackage{ifpdf}
+\usepackage{cite}
+\usepackage{amsmath}
+\usepackage{algorithmic}
+\usepackage{array}
+\usepackage{dblfloatfix}
+\usepackage{url}
+\usepackage{xcolor}
+
+\interdisplaylinepenalty = 2500
+
+\usepackage[pdftex]{graphicx}
+\graphicspath{{../pdf/}{../jpeg/}}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+
+\usepackage[caption=false,font=footnotesize]{subfig}
+
+\newcommand{\MYorigsubfloat}{\subfloat}
+\renewcommand{\subfloat}[2][\relax]{\MYorigsubfloat[]{#2}}
+\newcommand{\todo}{\textcolor{red}{TO-DO.} }
+
+\begin{document}
+
+	\title{Predicting Opioid Outcomes\\ Using Machine Learning}
+	\author{Sonora~Sandoval, Theodore~Wachtler, and~Haiyan~Cheng*%
+	\thanks{Manuscript composed April 2026.
+	This work was supported and funded by the Computing Research Association through the UR2PhD-REU program.
+	The first two authors contributed equally to this work.
+	\textit{Asterisk indicates corresponding author}.}%
+	\thanks{S. Sandoval and T. Wachtler are with Willamette University, Salem, OR 97301 USA (e-mail: {ssandoval, thwachtler}@willamette.edu)}%
+	\thanks{H. Cheng is with the School of Computing \& Information Sciences at Willamette University, Salem, OR, 97301 USA (email: hcheng@willamette.edu)}}
+
+	\markboth{Computing~Research~Association, April~2026}%
+	{Shell \MakeLowercase{\textit{et al.}}: Opioid Outcomes}
+
+	\maketitle
+
+	\begin{abstract}
+		The abstract goes here.
+	\end{abstract}
+
+	\begin{IEEEkeywords}
+		Machine Learning, Predictive Modeling, Opioids, Prescriptions, Medicaid, Medicare.
+	\end{IEEEkeywords}
+
+	\IEEEpeerreviewmaketitle
+
+	\section{Research Context and Problem Statement}
+	% What is the context for the work you are doing, why should people care about your work, and what is the specific problem you will solve?
+	% In this section you should give the motivation for the area you are working in (why should people care) and the general context for the problem. You should include links to previous work in this section and discuss how others have others addressed this problem and why are their solutions not sufficient. You should conclude this section with a concise statement of the specific research problem(s) your group will be trying to solve.
+
+	Opioid misuse has been linked to an increasing number of overdose deaths since 1999.
+	Opioid misuse is caused by many different factors, but one of the most important factors when predicting future misuse and overdoses are the Social Determinants of Health (SDoH)~\cite{cdc_understanding_2025}.
+	By understanding predictors of opioid misuse, we can identify geographic and temporal patterns and implement policies that reduce the number of overdoses~\cite{cdc_understanding_2025}.
+
+	\todo
+
+	\section{Proposed Solution}
+	% What is your specific proposed solution to the problem you identified in part 1?
+	% In this section you will describe the specific work you will be doing, and explain how that work is a solution to the problem you laid out in the first section. Be as detailed as possible here, but make sure you present all of your work as a solution the your problem. The reader should never wonder, "Why are they going to do that?"
+
+	Over the course of our work, we plan to develop preliminary questions, conduct exploratory data analysis (EDA) using national data with specificity up to the city level, solidify questions, build, test, train, and debug the model, and use the insight gained from the model to provide foresight in opioid misuse patterns for the development of future policymaking.
+	We will meet both synchronously and asynchronously with each other and with our mentor.
+	Additionally, we plan to meet professors from our university's Public Health department to consult for domain knowledge.
+
+	\todo
+
+	\section{Evaluation and Implementation Plan}
+	% How will you know if your research was successful? And how will you organize your work to get it done in the time you have?
+
+	\subsection{Evaluation Plan}
+	% Describe the method that you will use to ensure that your solution is successful (or to measure how successful it is). This will include information like what experiments you will run, what data you will collect, how you will analyze this data and what results would show success (or failure). Be as detailed as possible here. You can always change this later.
+
+	We expect to produce a research paper for publication and a poster for presentation that leverages public datasets regarding opioid prescription and overdose rates, as well as social determinants of health across geographical regions.
+
+	\todo
+
+	\subsection{Timeline}
+	% Make a timeline (in as much detail as possible) for completing your work for the rest of this academic year. While you will have time to do work until the end of the academic year, make sure you reserve plenty of time for evaluating your work and preparing your poster. Research always takes longer than you think!
+
+	Our timeline is as follows:
+
+	\renewcommand{\arraystretch}{1.3}
+
+	\begin{table}[!t]
+		\renewcommand{\arraystretch}{1.3}
+		\caption{Timeline}
+		\label{timeline}
+		\centering
+		\begin{tabular}{c|p{6cm}}
+			\textbf{Date} & \textbf{Task} \\
+			\hline
+			April 2 & \todo \\
+			April 9 & \todo \\
+			April 23 & \todo \\
+			April 30 & \todo \\
+			April 27 & \todo \\
+			May 4 & Break. \\
+			May 11 & \todo \\
+			May 18 & \todo \\
+			May 25 & \todo \\
+			June 1 & \todo \\
+			June 8 & \todo \\
+			June 15 & \todo \\
+			June 22 & \todo \\
+			June 29 & \todo \\
+			July 6 & \todo \\
+			July 13 & \todo \\
+			July 20 & Project completed. \\
+		\end{tabular}
+	\end{table}
+
+	\todo
+
+	\bibliographystyle{IEEEtran}
+	\bibliography{library}
+
+\end{document}

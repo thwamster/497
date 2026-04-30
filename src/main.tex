@@ -1,20 +1,21 @@
 \documentclass[journal]{IEEEtran}
 \usepackage{ifpdf}
-\usepackage{cite}
+\usepackage[numbers]{natbib}
 \usepackage{amsmath}
 \usepackage{algorithmic}
 \usepackage{array}
-\usepackage{dblfloatfix}
 \usepackage{url}
 \usepackage{xcolor}
+\usepackage{comment}
 
+\hbadness=10000
 \interdisplaylinepenalty = 2500
 
 \usepackage[pdftex]{graphicx}
 \graphicspath{{../pdf/}{../jpeg/}}
 \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
 
-\usepackage[caption=false,font=footnotesize]{subfig}
+\usepackage[caption=false, font=footnotesize]{subfig}
 
 \newcommand{\MYorigsubfloat}{\subfloat}
 \renewcommand{\subfloat}[2][\relax]{\MYorigsubfloat[]{#2}}
@@ -24,47 +25,57 @@
 
 	\title{Predicting Opioid Outcomes\\ Using Machine Learning}
 	\author{Sonora~Sandoval, Theodore~Wachtler, and~Haiyan~Cheng*%
-	\thanks{Manuscript composed April 2026.
-	This work was supported and funded by the Computing Research Association through the UR2PhD-REU program.
+	\thanks{Composed March 2026.
+	This work was supported by the Computing Research Association through the UR2PhD program.
 	The first two authors contributed equally to this work.
 	\textit{Asterisk indicates corresponding author}.}%
-	\thanks{S. Sandoval and T. Wachtler are with Willamette University, Salem, OR 97301 USA (e-mail: {ssandoval, thwachtler}@willamette.edu)}%
+	\thanks{S. Sandoval and T. Wachtler are with Willamette University, Salem, OR 97301 USA (e-mails: \{ssandoval, thwachtler\}@willamette.edu)}%
 	\thanks{H. Cheng is with the School of Computing \& Information Sciences at Willamette University, Salem, OR, 97301 USA (email: hcheng@willamette.edu)}}
 
-	\markboth{Computing~Research~Association, April~2026}%
+	\markboth{March~2026}%
 	{Shell \MakeLowercase{\textit{et al.}}: Opioid Outcomes}
 
 	\maketitle
 
-	\begin{abstract}
-		The abstract goes here.
-	\end{abstract}
-
 	\begin{IEEEkeywords}
-		Machine Learning, Predictive Modeling, Opioids, Prescriptions, Medicaid, Medicare.
+		Data Science, Machine Learning, Predictive Modeling, Public Health, Opioids, Overdoses, Prescriptions, Medicaid, Medicare, Social Determinants of Health.
 	\end{IEEEkeywords}
 
 	\IEEEpeerreviewmaketitle
+
+	\section{Introduction}
+
+	The rising costs of the opioid epidemic include a substantial social toll on communities across the U.S. and abroad \cite{cdcUnderstandingOpioidOverdose2025}. The economic burden the epidemic inflicts through increased medical, commercial, and criminal justice expenditures and decreased productivity has been made clear \cite{murphyCostOpioidUse2020}. However, the larger costs are upon people and communities directly; the opioid epidemic entrenches the downward spirals of poverty, disability, and chronic illness while perpetuating food insecurity, mental health crises, and unemployment \cite{dasguptaOpioidCrisisNo2018}. \citeauthor{juddOpioidEpidemicReview2023} goes further to reveal how the epidemic entrenches the vulnerability of already marginalized populations, such as those in low-income or rural areas \cite{juddOpioidEpidemicReview2023}. The impacts of the epidemic on these populations can be qualitatively viewed through the lens of the social determinants of health (SDoH), or by considering how the environment in which people are born, work, live, and age influence their health outcomes \cite{cdcSocialDeterminantsHealth2024, markatouSocialDeterminantsHealth2023}. Essentially, this perspective integrates a comprehensive view of social and cultural trends with a highly individualized perspective of the real-life impacts of the opioid epidemic.
+
+	As epidemic has enters its fourth wave, this lens is increasingly important to integrate into data-driven public action \cite{ciccaroneRiseIllicitFentanyls2021, juddOpioidEpidemicReview2023}. As \citeauthor{blancoDataNeedsModels2022} describes, the strain the opioid epidemic induces on the healthcare system necessitates efficient data collection and processing \cite{blancoDataNeedsModels2022}. Statistical and predictive modeling methods, especially those assisted by novel machine learning technologies, are thus employed to identify risk-prone areas or individual patients based on this data, and their results are used by public health services and private providers to inform their policy decisions \cite{blancoDataNeedsModels2022, sharmaAIDrivenPatientRisk2023}. However, these trends often substantially differ across geographical regions and among distinct populations \cite{wilkesDemographicRegionalComparison2021}. The utility and reliability of these models is continually evaluated throughout a vibrant literature base.
 
 	\section{Research Context and Problem Statement}
 	% What is the context for the work you are doing, why should people care about your work, and what is the specific problem you will solve?
 	% In this section you should give the motivation for the area you are working in (why should people care) and the general context for the problem. You should include links to previous work in this section and discuss how others have others addressed this problem and why are their solutions not sufficient. You should conclude this section with a concise statement of the specific research problem(s) your group will be trying to solve.
 
-	Opioid misuse has been linked to an increasing number of overdose deaths since 1999.
-	Opioid misuse is caused by many different factors, but one of the most important factors when predicting future misuse and overdoses are the Social Determinants of Health (SDoH)~\cite{cdc_understanding_2025}.
-	By understanding predictors of opioid misuse, we can identify geographic and temporal patterns and implement policies that reduce the number of overdoses~\cite{cdc_understanding_2025}.
+	\subsection{Previous Work}
 
-	\todo
+	Existing research has utilized diverse statistical and research methods in the field of public health to analyze the opioid epidemic and its relationship with the SDoH. For instance, \citeauthor{lo-ciganicDevelopingValidatingMachinelearning2022} trained an artificial intelligence (AI) model on Medicaid data in Pennsylvania and tested it against another Pennsylvania dataset from a different time period as well as a dataset in Arizona during the same time period \cite{lo-ciganicDevelopingValidatingMachinelearning2022}. Their approach achieved highly accurate results and demonstrated that machine learning is a valuable tool in identifying medical risk factors across geographic regions \cite{lo-ciganicDevelopingValidatingMachinelearning2022}. \citeauthor{allenOpportunitiesOpioidOverdose2022}'s comment on \citeauthor{lo-ciganicDevelopingValidatingMachinelearning2022}'s work praises the importance of their effective integration of machine learning and actively calls for further spatio-temporal research with population-wide datasets \cite{allenOpportunitiesOpioidOverdose2022}. Additionally, \citeauthor{partonMachineLearningApproach2026} employed a model trained on opioid overdose data specific to a particular geographic region, in this case the state of Alabama, in order to identify risk patterns, and their approach was largely successful while remaining substantially limited in geographic scope \cite{partonMachineLearningApproach2026}. \citeauthor{wuDeepLearningbasedSpatiotemporal2026} utilized deep learning techniques trained to classify households within the state of Alabama based on socio-temporal perspectives \cite{wuDeepLearningbasedSpatiotemporal2026}. Unlike other researchers, \citeauthor{wuDeepLearningbasedSpatiotemporal2026} did not use Medicare or Medicaid data to assist in model training \cite{wuDeepLearningbasedSpatiotemporal2026}. The availability of data in Alabama and the lack of data in other states may have contributed to this limitation.
+
+	Additional research has sought to wield machine learning to create highly accessible resources for clinicians and policymakers. \citeauthor{repsWisdomCROUDDevelopment2020} trained a regularized logistic regression model on medical and demographic data in order to produce a simple eight-question yes-no survey that clinicians can administer when prescribing opioids to a patient for the first time \cite{repsWisdomCROUDDevelopment2020}. Even though their datasets were predicated on medical data, not a range of social data, their questionnaire was a insightful demonstration of how machine learning can be highly effective and generalizable \cite{repsWisdomCROUDDevelopment2020}. Similarly, \citeauthor{kimMachineLearningBasedPrediction2025} developed a survey to predict substance abuse in adolescents based upon international datasets \cite{kimMachineLearningBasedPrediction2025}. These models show promise for the utility and applicability of machine learning models to predict drug misuse in clinical and general contexts.
+
+	Meta-analyses of data-driven research regarding the opioid epidemic are elucidative of the best practices in the field. \citeauthor{gabrielReviewLeveragingArtificial2025}'s review of current machine learning applications remarks on multiple important considerations for AI models, including ensuring the model is built and trained in a transparent and ethical manner \cite{gabrielReviewLeveragingArtificial2025}. Their approach noted that the deployment of machine learning tools by medical professionals and institutions is substantially based on the clarity and reliability of the models \cite{gabrielReviewLeveragingArtificial2025}. \citeauthor{bharatBigDataPredictive2021} describes the importance of correcting model biases, integrating data linkages into training, and analyzing opioid risks at a population level rather than an individual level  \cite{bharatBigDataPredictive2021}. Particularly, \citeauthor{bharatBigDataPredictive2021} notes that machine learning models may reproduce statistical biases present in the limitations of the datasets used in training as well as the cognitive biases from the researchers themselves \cite{bharatBigDataPredictive2021}. Adjusting for this bias requires tuning the model throughout its development to balance fairness and equality without sacrificing an unacceptable level of accuracy \cite{bharatBigDataPredictive2021}.
+
+	\subsection{Problem Statement}
+
+	While there is substantial research regarding the use of predictive modeling using machine learning techniques in the context of clinical sciences through healthcare services, and there is research regarding how the SDoH influence opioid misuse, there is only marginal research connecting the two. While the two domains are both individually impactful for clinicians and policymakers, the technical and social perspectives often operate disjunctively \cite{blancoAmericasOpioidCrisis2020}. The collection and utilization of social data to produce modern technological solutions is an important yet underdeveloped subset of public health research that has contributed to parallel health crises \cite{bharatBigDataPredictive2021, blancoAmericasOpioidCrisis2020, baduDataDrivenEpidemiologicalApproach2025}. This research seeks to bridge the void and merge the two domains by applying machine learning algorithms to the opioid epidemic through a spatio-temporal perspective.
+
+	This research also hopes to provide clinicians and policymakers with an effective tool for judging the risk of patients and targeting legislation to benefit the communities most in need. our research will employ consistent ethical audits throughout the process in order to ensure we meet transparency standards \cite{gabrielReviewLeveragingArtificial2025, bharatBigDataPredictive2021, centerfordevicesandradiologicalhealthTransparencyMachineLearningEnabled2024}. Additionally, we will employ linked population datasets to ensure generalizable and applicable results \cite{allenOpportunitiesOpioidOverdose2022}.
+
+	Therefore, the central question that this research seeks to analyze is: "How can machine learning technology assist in identifying social patterns of opioid overdoses across distinct geographic regions?" To answer that question, this research will develop, train, test, and evaluate an AI model that draws upon datasets regarding the SDoH, population statistics, and overdoses in order to predict future opioid misuse outcomes.
 
 	\section{Proposed Solution}
 	% What is your specific proposed solution to the problem you identified in part 1?
 	% In this section you will describe the specific work you will be doing, and explain how that work is a solution to the problem you laid out in the first section. Be as detailed as possible here, but make sure you present all of your work as a solution the your problem. The reader should never wonder, "Why are they going to do that?"
 
-	Over the course of our work, we plan to develop preliminary questions, conduct exploratory data analysis (EDA) using national data with specificity up to the city level, solidify questions, build, test, train, and debug the model, and use the insight gained from the model to provide foresight in opioid misuse patterns for the development of future policymaking.
-	We will meet both synchronously and asynchronously with each other and with our mentor.
-	Additionally, we plan to meet professors from our university's Public Health department to consult for domain knowledge.
+	Over the course of our work, we plan to develop preliminary questions, conduct exploratory data analysis (EDA) using national data with specificity up to the city level, solidify questions based on the results from our EDA to guide us in building a machine learning model. We plan on exploring three different machine learning models, including Penalized Logistic Regression, Random Forests, and Gradient Boosting \cite{partonMachineLearningApproach2026}. We will then train our model on a subset of our data before testing it's prediction accuracy. After the initial round of training and testing our model, we will complete any debugging needed in order to produce more accurate predictions of opioid misuse. We plan to use the insight gained from the machine learning model to provide foresight in opioid misuse patterns for the development of future policymaking. With identifiable patterns and predictions, public health practitioners can create more targeted public health interventions aimed at preventing future overdoses within a particular population cohort of concern \cite{blancoDataNeedsModels2022}.
 
-	\todo
+	Within our model, we will employ Synthetic Minority Over-sampling Technique (SMOTE), a technique particularly suited to the prevalence of imbalanced datasets in public health, in order to increase the accuracy of our model \cite{partonMachineLearningApproach2026, chawlaSMOTESyntheticMinority2002}. Before implementing our model, we will conduct a preliminary investigation of our data to determine the most suited machine learning structure to our task. However, at this point, we plan to use both non-fatal and fatal opioid overdose data provided by the CDC with statistics across all aspects of the SDoH. \cite{cdcDOSESYSDashboardNonfatal2026, cdcSUDORSDashboardFatal2026}. This approach will assist us in analyzing patterns across criterion and in isolating particular determinants that are most influential in predicting the likelihood of opioid misuse.
 
 	\section{Evaluation and Implementation Plan}
 	% How will you know if your research was successful? And how will you organize your work to get it done in the time you have?
@@ -72,14 +83,24 @@
 	\subsection{Evaluation Plan}
 	% Describe the method that you will use to ensure that your solution is successful (or to measure how successful it is). This will include information like what experiments you will run, what data you will collect, how you will analyze this data and what results would show success (or failure). Be as detailed as possible here. You can always change this later.
 
-	We expect to produce a research paper for publication and a poster for presentation that leverages public datasets regarding opioid prescription and overdose rates, as well as social determinants of health across geographical regions.
+	Our machine learning model will be evaluated in the following ways, drawing upon standard practices in the field:
 
-	\todo
+	\subsubsection{Training}
+
+	We will continuously audit our machine learning model throughout the process of training it in order to ensure our model meets standards of ethics and transparency, similar to the considerations emphasized by Gabriel \cite{gabrielReviewLeveragingArtificial2025}. We will follow the TRIPOD reporting guidelines to ensure reproducible documentation of our model \cite{moonsTransparentReportingMultivariable2015}.
+
+	\subsubsection{Testing}
+
+	We will subject our model to rigorous testing and cross-validation across datasets to ensure its precision and accuracy. We will determine the exact testing techniques we will utilize after determining which machine learning model we will employ. Performance will possibly be assessed using metrics such as the Area Under the Receiver Operating Characteristic curve (AUROC) and F1-score \cite{taiUtilizingMachineLearning2025, partonMachineLearningApproach2026}.
+
+	\subsubsection{Review}
+
+	We will apply cross-validation after the initial round of training and testing of our machine learning model to help determine accuracy. If deemed necessary, we will perform further rounds of training and testing to our model. We plan to subject the results of our model to internal review within our team and external review with our mentor, other public health professors, consultants in the field of public health. This process will ensure that our model accomplishes the broader goal of being useful and accessible to a range of users.
 
 	\subsection{Timeline}
 	% Make a timeline (in as much detail as possible) for completing your work for the rest of this academic year. While you will have time to do work until the end of the academic year, make sure you reserve plenty of time for evaluating your work and preparing your poster. Research always takes longer than you think!
 
-	Our timeline is as follows:
+	Our timeline is as shown in Table~\ref{timeline}. We plan to conduct our research primarily in the ten-week span between May 11, 2026 and July 12, 2026 with additional space for review and evaluation after we complete our paper. Our presentation and corresponding poster will be finalized after our project is complete.
 
 	\renewcommand{\arraystretch}{1.3}
 
@@ -89,31 +110,36 @@
 		\label{timeline}
 		\centering
 		\begin{tabular}{c|p{6cm}}
-			\textbf{Date} & \textbf{Task} \\
-			\hline
-			April 2 & \todo \\
-			April 9 & \todo \\
-			April 23 & \todo \\
-			April 30 & \todo \\
-			April 27 & \todo \\
-			May 4 & Break. \\
-			May 11 & \todo \\
-			May 18 & \todo \\
-			May 25 & \todo \\
-			June 1 & \todo \\
-			June 8 & \todo \\
-			June 15 & \todo \\
-			June 22 & \todo \\
-			June 29 & \todo \\
-			July 6 & \todo \\
-			July 13 & \todo \\
-			July 20 & Project completed. \\
+			\textbf{Date} & \textbf{Benchmark} \\
+			May 11 & Determine the exact datasets planned for use.
+			\newline Conduct data wrangling—clean, structure, and enrich the raw data into a usable format.
+			\newline Perform exploratory data analysis.
+			\newline Isolate the primary themes in our data and create a tentative hypothesis for crucial characteristics.\\
+			May 18 & Explore options for machine learning models that best fit our data.
+			\newline Discuss our model choice with our mentor. \\
+			May 25 & Develop our machine learning model.
+			\newline Implement transparency audits. \\
+			June 1 & Train our model.
+			\newline Test our model. \\
+			June 8 & Review results.
+			\newline Meet with domain experts to identify areas of improvement. \\
+			June 15 & Identify further questions. \\
+			June 22 & Revise our model.
+			\newline Further train our model. \\
+			June 29 & Further test our model. \\
+			July 6 & Further review our results.
+			\newline Draft our research paper.
+			\newline Meet with mentor to review our draft. \\
+			July 13 & Complete research paper and submit for review. \\
+			July 20 & Finalize project presentation. \\
 		\end{tabular}
 	\end{table}
 
-	\todo
+	\section*{Acknowledgment}
 
-	\bibliographystyle{IEEEtran}
+	The authors would like to thank Prof. Nicole Iroz-Elardo from the Willamette University Public Health department for domain insight and guidance throughout the process of composing this proposal.
+
+	\bibliographystyle{IEEEtranN}
 	\bibliography{library}
 
 \end{document}

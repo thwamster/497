@@ -1,0 +1,682 @@
+[1mdiff --git a/auxil/main.aux b/auxil/main.aux[m
+[1mindex ce47f1e..2f831dd 100644[m
+[1m--- a/auxil/main.aux[m
+[1m+++ b/auxil/main.aux[m
+[36m@@ -1,15 +1,90 @@[m
+ \relax [m
+[31m-\citation{cdc_understanding_2025}[m
+[31m-\citation{cdc_understanding_2025}[m
+[31m-\bibstyle{IEEEtran}[m
+[32m+[m[32m\citation{cdcUnderstandingOpioidOverdose2025}[m
+[32m+[m[32m\citation{murphyCostOpioidUse2020}[m
+[32m+[m[32m\citation{dasguptaOpioidCrisisNo2018}[m
+[32m+[m[32m\citation{juddOpioidEpidemicReview2023}[m
+[32m+[m[32m\citation{juddOpioidEpidemicReview2023}[m
+[32m+[m[32m\citation{cdcSocialDeterminantsHealth2024,markatouSocialDeterminantsHealth2023}[m
+[32m+[m[32m\citation{ciccaroneRiseIllicitFentanyls2021,juddOpioidEpidemicReview2023}[m
+[32m+[m[32m\citation{blancoDataNeedsModels2022}[m
+[32m+[m[32m\citation{blancoDataNeedsModels2022}[m
+[32m+[m[32m\citation{blancoDataNeedsModels2022,sharmaAIDrivenPatientRisk2023}[m
+[32m+[m[32m\citation{wilkesDemographicRegionalComparison2021}[m
+[32m+[m[32m\citation{lo-ciganicDevelopingValidatingMachinelearning2022}[m
+[32m+[m[32m\citation{lo-ciganicDevelopingValidatingMachinelearning2022}[m
+[32m+[m[32m\citation{lo-ciganicDevelopingValidatingMachinelearning2022}[m
+[32m+[m[32m\citation{allenOpportunitiesOpioidOverdose2022}[m
+[32m+[m[32m\citation{lo-ciganicDevelopingValidatingMachinelearning2022}[m
+[32m+[m[32m\citation{allenOpportunitiesOpioidOverdose2022}[m
+[32m+[m[32m\citation{partonMachineLearningApproach2026}[m
+[32m+[m[32m\citation{partonMachineLearningApproach2026}[m
+[32m+[m[32m\citation{wuDeepLearningbasedSpatiotemporal2026}[m
+[32m+[m[32m\citation{wuDeepLearningbasedSpatiotemporal2026}[m
+[32m+[m[32m\citation{wuDeepLearningbasedSpatiotemporal2026}[m
+[32m+[m[32m\citation{wuDeepLearningbasedSpatiotemporal2026}[m
+[32m+[m[32m\citation{repsWisdomCROUDDevelopment2020}[m
+[32m+[m[32m\citation{repsWisdomCROUDDevelopment2020}[m
+[32m+[m[32m\citation{repsWisdomCROUDDevelopment2020}[m
+[32m+[m[32m\citation{kimMachineLearningBasedPrediction2025}[m
+[32m+[m[32m\citation{kimMachineLearningBasedPrediction2025}[m
+[32m+[m[32m\citation{gabrielReviewLeveragingArtificial2025}[m
+[32m+[m[32m\citation{gabrielReviewLeveragingArtificial2025}[m
+[32m+[m[32m\citation{gabrielReviewLeveragingArtificial2025}[m
+[32m+[m[32m\citation{bharatBigDataPredictive2021}[m
+[32m+[m[32m\citation{bharatBigDataPredictive2021}[m
+[32m+[m[32m\citation{bharatBigDataPredictive2021}[m
+[32m+[m[32m\citation{bharatBigDataPredictive2021}[m
+[32m+[m[32m\citation{bharatBigDataPredictive2021}[m
+[32m+[m[32m\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {section}{\numberline {II}Research Context and Problem Statement}{1}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-A}}Previous Work}{1}{}\protected@file@percent }[m
+[32m+[m[32m\citation{blancoAmericasOpioidCrisis2020}[m
+[32m+[m[32m\citation{bharatBigDataPredictive2021,blancoAmericasOpioidCrisis2020,baduDataDrivenEpidemiologicalApproach2025}[m
+[32m+[m[32m\citation{gabrielReviewLeveragingArtificial2025,bharatBigDataPredictive2021,centerfordevicesandradiologicalhealthTransparencyMachineLearningEnabled2024}[m
+[32m+[m[32m\citation{allenOpportunitiesOpioidOverdose2022}[m
+[32m+[m[32m\citation{partonMachineLearningApproach2026}[m
+[32m+[m[32m\citation{blancoDataNeedsModels2022}[m
+[32m+[m[32m\citation{partonMachineLearningApproach2026,chawlaSMOTESyntheticMinority2002}[m
+[32m+[m[32m\citation{cdcDOSESYSDashboardNonfatal2026,cdcSUDORSDashboardFatal2026}[m
+[32m+[m[32m\citation{gabrielReviewLeveragingArtificial2025}[m
+[32m+[m[32m\citation{moonsTransparentReportingMultivariable2015}[m
+[32m+[m[32m\citation{taiUtilizingMachineLearning2025,partonMachineLearningApproach2026}[m
+[32m+[m[32m\bibstyle{IEEEtranN}[m
+ \bibdata{library}[m
+[31m-\bibcite{cdc_understanding_2025}{1}[m
+[31m-\@writefile{toc}{\contentsline {section}{\numberline {I}Research Context and Problem Statement}{1}{}\protected@file@percent }[m
+[31m-\@writefile{toc}{\contentsline {section}{\numberline {II}Proposed Solution}{1}{}\protected@file@percent }[m
+[31m-\@writefile{toc}{\contentsline {section}{\numberline {III}Evaluation and Implementation Plan}{1}{}\protected@file@percent }[m
+[31m-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-A}}Evaluation Plan}{1}{}\protected@file@percent }[m
+[31m-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-B}}Timeline}{1}{}\protected@file@percent }[m
+[31m-\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Timeline}}{1}{}\protected@file@percent }[m
+[31m-\newlabel{timeline}{{I}{1}{}{table.1}{}}[m
+[31m-\@writefile{toc}{\contentsline {section}{References}{1}{}\protected@file@percent }[m
+[31m-\gdef \@abspage@last{1}[m
+[32m+[m[32m\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-B}}Problem Statement}{2}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {section}{\numberline {III}Proposed Solution}{2}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {section}{\numberline {IV}Evaluation and Implementation Plan}{2}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-A}}Evaluation Plan}{2}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {IV-A}1}Training}{2}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {IV-A}2}Testing}{2}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {IV-A}3}Review}{2}{}\protected@file@percent }[m
+[32m+[m[32m\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-B}}Timeline}{2}{}\protected@file@percent }[m
+[32m+[m[32m\bibcite{cdcUnderstandingOpioidOverdose2025}{{1}{2025}{{CDC}}{{}}}[m
+[32m+[m[32m\bibcite{murphyCostOpioidUse2020}{{2}{2020}{{Murphy}}{{}}}[m
+[32m+[m[32m\bibcite{dasguptaOpioidCrisisNo2018}{{3}{2018}{{Dasgupta et~al.}}{{Dasgupta, Beletsky, and Ciccarone}}}[m
+[32m+[m[32m\bibcite{juddOpioidEpidemicReview2023}{{4}{2023}{{Judd et~al.}}{{Judd, King, and Galke}}}[m
+[32m+[m[32m\bibcite{cdcSocialDeterminantsHealth2024}{{5}{2024}{{CDC}}{{}}}[m
+[32m+[m[32m\bibcite{markatouSocialDeterminantsHealth2023}{{6}{2023}{{Markatou et~al.}}{{Markatou, Kennedy, Brachmann, Mukhopadhyay, Dharia, and Talal}}}[m
+[32m+[m[32m\bibcite{ciccaroneRiseIllicitFentanyls2021}{{7}{2021}{{Ciccarone}}{{}}}[m
+[32m+[m[32m\bibcite{blancoDataNeedsModels2022}{{8}{2022}{{Blanco et~al.}}{{Blanco, Wall, and Olfson}}}[m
+[32m+[m[32m\bibcite{sharmaAIDrivenPatientRisk2023}{{9}{2023}{{Sharma et~al.}}{{Sharma, Adekunle, Ogeawuchi, Abayomi, and Onifade}}}[m
+[32m+[m[32m\bibcite{wilkesDemographicRegionalComparison2021}{{10}{2021}{{Wilkes et~al.}}{{Wilkes, Montalban, Pringle, Monroe, Miller, Zapata, Brooks, and Ross}}}[m
+[32m+[m[32m\bibcite{lo-ciganicDevelopingValidatingMachinelearning2022}{{11}{2022}{{{Lo-Ciganic} et~al.}}{{{Lo-Ciganic}, Donohue, Yang, Huang, Chang, Weiss, Guo, Zhang, Cochran, Gordon, Malone, Kwoh, Wilson, Kuza, and Gellad}}}[m
+[32m+[m[32m\bibcite{allenOpportunitiesOpioidOverdose2022}{{12}{2022}{{Allen and Cerda}}{{}}}[m
+[32m+[m[32m\bibcite{partonMachineLearningApproach2026}{{13}{2026}{{Parton et~al.}}{{Parton, Wang, Wang, Hanson, and Higginbotham}}}[m
+[32m+[m[32m\bibcite{wuDeepLearningbasedSpatiotemporal2026}{{14}{2026}{{Wu et~al.}}{{Wu, Cao, and Gong}}}[m
+[32m+[m[32m\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Timeline}}{3}{}\protected@file@percent }[m
+[32m+[m[32m\newlabel{timeline}{{I}{3}{}{table.1}{}}[m
+[32m+[m[32m\bibcite{repsWisdomCROUDDevelopment2020}{{15}{2020}{{Reps et~al.}}{{Reps, Cepeda, and Ryan}}}[m
+[32m+[m[32m\bibcite{kimMachineLearningBasedPrediction2025}{{16}{2025}{{Kim et~al.}}{{Kim, Kim, Kim, Lee, Hammoodi, Choi, Kim, Smith, Kim, Fond, Boyer, Baik, Lee, Park, Kwon, Woo, and Yon}}}[m
+[32m+[m[32m\bibcite{gabrielReviewLeveragingArtificial2025}{{17}{2025}{{Gabriel et~al.}}{{Gabriel, Park, Hsu, and Macias}}}[m
+[32m+[m[32m\bibcite{bharatBigDataPredictive2021}{{18}{2021}{{Bharat et~al.}}{{Bharat, Hickman, Barbieri, and Degenhardt}}}[m
+[32m+[m[32m\bibcite{blancoAmericasOpioidCrisis2020}{{19}{2020}{{Blanco et~al.}}{{Blanco, Wiley, Lloyd, Lopez, and Volkow}}}[m
+[32m+[m[32m\bibcite{baduDataDrivenEpidemiologicalApproach2025}{{20}{2025}{{Badu}}{{}}}[m
+[32m+[m[32m\bibcite{centerfordevicesandradiologicalhealthTransparencyMachineLearningEnabled2024}{{21}{2024}{{Center for Devices and Radiological Health}}{{}}}[m
+[32m+[m[32m\bibcite{chawlaSMOTESyntheticMinority2002}{{22}{2002}{{Chawla et~al.}}{{Chawla, Bowyer, Hall, and Kegelmeyer}}}[m
+[32m+[m[32m\bibcite{cdcDOSESYSDashboardNonfatal2026}{{23}{2026{}}{{CDC}}{{}}}[m
+[32m+[m[32m\bibcite{cdcSUDORSDashboardFatal2026}{{24}{2026{}}{{CDC}}{{}}}[m
+[32m+[m[32m\bibcite{moonsTransparentReportingMultivariable2015}{{25}{2015}{{Moons et~al.}}{{Moons, Altman, Reitsma, Ioannidis, Macaskill, Steyerberg, Vickers, Ransohoff, and Collins}}}[m
+[32m+[m[32m\bibcite{taiUtilizingMachineLearning2025}{{26}{2025}{{Tai et~al.}}{{Tai, Kazemi, Kim, Schmeckenbecher, Kitchin, Suen, Moro, and Krausz}}}[m
+[32m+[m[32m\gdef \@abspage@last{4}[m
+[1mdiff --git a/src/library.bib b/src/library.bib[m
+[1mindex bb742f9..b259769 100644[m
+[1m--- a/src/library.bib[m
+[1m+++ b/src/library.bib[m
+[36m@@ -1,160 +1,632 @@[m
+[32m+[m[32m@misc{abuseDrugOverdoseDeaths2024,[m
+[32m+[m[32m  title = {Drug {{Overdose Deaths}}: {{Facts}} and {{Figures}} \textbar{} {{National Institute}} on {{Drug Abuse}} ({{NIDA}})},[m
+[32m+[m[32m  shorttitle = {Drug {{Overdose Deaths}}},[m
+[32m+[m[32m  author = {Abuse, National Institute on Drug},[m
+[32m+[m[32m  year = 2024,[m
+[32m+[m[32m  month = aug,[m
+[32m+[m[32m  url = {https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates},[m
+[32m+[m[32m  urldate = {2026-04-08},[m
+[32m+[m[32m  abstract = {See facts and figures on overdose deaths as reported by the U.S. Centers for Disease Control and Prevention},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\EYVKSMZY\overdose-death-rates.html}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{allenOpportunitiesOpioidOverdose2022,[m
+[32m+[m[32m  title = {Opportunities for Opioid Overdose Prediction: Building a Population Health Approach},[m
+[32m+[m[32m  shorttitle = {Opportunities for Opioid Overdose Prediction},[m
+[32m+[m[32m  author = {Allen, Bennett and Cerda, Magdalena},[m
+[32m+[m[32m  year = 2022,[m
+[32m+[m[32m  month = jun,[m
+[32m+[m[32m  journal = {The Lancet Digital Health},[m
+[32m+[m[32m  volume = {4},[m
+[32m+[m[32m  pages = {e403-e404},[m
+[32m+[m[32m  doi = {10.1016/S2589-7500(22)00097-8}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{baduDataDrivenEpidemiologicalApproach2025,[m
+[32m+[m[32m  title = {A {{Data-Driven Epidemiological Approach}} to {{Preventing Opioid Overdose Escalation}} in {{U}}.{{S}}. {{Communities}}: {{Integrating Predictive Analytics}}, {{Geospatial Modeling}}, and {{Community Intervention}}},[m
+[32m+[m[32m  shorttitle = {A {{Data-Driven Epidemiological Approach}} to {{Preventing Opioid Overdose Escalation}} in {{U}}.{{S}}. {{Communities}}},[m
+[32m+[m[32m  author = {Badu, Sandra Gyamfuaa},[m
+[32m+[m[32m  year = 2025,[m
+[32m+[m[32m  month = aug,[m
+[32m+[m[32m  journal = {International Journal of Medical and Health Research},[m
+[32m+[m[32m  volume = {3},[m
+[32m+[m[32m  number = {3},[m
+[32m+[m[32m  pages = {92--111},[m
+[32m+[m[32m  issn = {3078-4824},[m
+[32m+[m[32m  doi = {10.61424/ijmhr.v3i3.490},[m
+[32m+[m[32m  url = {https://bluemarkpublishers.com/index.php/IJMHR/article/view/490},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  abstract = {The opioid epidemic represents one of the most severe public health crises facing the United States in the 21st century. Despite substantial intervention efforts over the past two decades, opioid-related mortality continues to exact devastating tolls on American communities, with approximately 79,358 opioid-involved deaths occurring in 2023 alone. This research presents a comprehensive epidemiological framework that integrates advanced predictive analytics, machine learning methodologies, geospatial analysis, and community-based interventions to proactively identify and prevent opioid overdose escalation before crisis levels are reached. Through systematic analysis of multi-source data including mortality statistics, prescription monitoring programs, emergency department encounters, and sociodemographic determinants, this study develops a hybrid predictive-intervention model capable of forecasting opioid overdose risks at granular geographic scales. The proposed framework encompasses four integrated components: a predictive risk modeling system utilizing machine learning algorithms, a community-driven intervention toolkit tailored to forecasted risks, an early warning dashboard for real-time visualization, and evidence-based harm reduction strategies. By synthesizing epidemiological surveillance with computational modeling and community engagement, this approach represents a paradigm shift from reactive crisis response toward proactive prevention, offering actionable pathways for reducing opioid-related morbidity and mortality across diverse community contexts.},[m
+[32m+[m[32m  copyright = {Copyright (c) 2025 Sandra Gyamfuaa Badu},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  keywords = {epidemiology,geospatial analysis,harm reduction,machine learning,Opioid epidemic,predictive modeling,public health intervention},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\QYRM9C4K\Badu - 2025 - A Data-Driven Epidemiological Approach to Preventing Opioid Overdose Escalation in U.S. Communities.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{bharatBigDataPredictive2021,[m
+[32m+[m[32m  title = {Big Data and Predictive Modelling for the Opioid Crisis: Existing Research and Future Potential},[m
+[32m+[m[32m  shorttitle = {Big Data and Predictive Modelling for the Opioid Crisis},[m
+[32m+[m[32m  author = {Bharat, Chrianna and Hickman, Matthew and Barbieri, Sebastiano and Degenhardt, Louisa},[m
+[32m+[m[32m  year = 2021,[m
+[32m+[m[32m  month = jun,[m
+[32m+[m[32m  journal = {The Lancet Digital Health},[m
+[32m+[m[32m  volume = {3},[m
+[32m+[m[32m  number = {6},[m
+[32m+[m[32m  pages = {e397-e407},[m
+[32m+[m[32m  publisher = {Elsevier},[m
+[32m+[m[32m  issn = {2589-7500},[m
+[32m+[m[32m  doi = {10.1016/S2589-7500(21)00058-3},[m
+[32m+[m[32m  url = {https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00058-3/fulltext},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  pmid = {34045004},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\7DSQ626M\Bharat et al. - 2021 - Big data and predictive modelling for the opioid crisis existing research and future potential.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{blancoAmericasOpioidCrisis2020,[m
+[32m+[m[32m  title = {America's Opioid Crisis: The Need for an Integrated Public Health Approach},[m
+[32m+[m[32m  shorttitle = {America's Opioid Crisis},[m
+[32m+[m[32m  author = {Blanco, Carlos and Wiley, Tisha R. A. and Lloyd, Jacqueline J. and Lopez, Marsha F. and Volkow, Nora D.},[m
+[32m+[m[32m  year = 2020,[m
+[32m+[m[32m  month = may,[m
+[32m+[m[32m  journal = {Translational Psychiatry},[m
+[32m+[m[32m  volume = {10},[m
+[32m+[m[32m  number = {1},[m
+[32m+[m[32m  pages = {167},[m
+[32m+[m[32m  publisher = {Nature Publishing Group},[m
+[32m+[m[32m  issn = {2158-3188},[m
+[32m+[m[32m  doi = {10.1038/s41398-020-0847-1},[m
+[32m+[m[32m  url = {https://www.nature.com/articles/s41398-020-0847-1},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  abstract = {Continued increases in overdose deaths and recent declines in life expectancy call for need to adopt comprehensive public health approaches to the United States opioid crisis and to establish an infrastructure to avert future crises. Successfully addressing the challenges posed by the crisis requires a translational, integrated approach that combines the contribution of neuroscience, pharmacology, epidemiology, treatment services and prevention. It also is critical to integrate interventions across settings, including healthcare, justice, education and social service systems. This review highlights four interconnected themes: (1) social determinants of health and disease; (2) person-centered approaches for prevention and treatment; (3) bridging the gap between implementation science and practice; and (4) using data to build learning systems of care, relevant to public health approaches to address the opioid crisis. We discuss how across these four themes taking into account the influence of developmental factors on brain function and sensitivity to environmental stimuli including drugs, addressing the complex interactions between biological and social factors, and promoting an ongoing dialogue across disciplines and settings will help accelerate public health advances that are evidenced based and sustainable to address the current opioid crisis and avert future ones.},[m
+[32m+[m[32m  copyright = {2020 The Author(s)},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  keywords = {Addiction,Diseases},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\BD3I9YWU\Blanco et al. - 2020 - America’s opioid crisis the need for an integrated public health approach.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{blancoDataNeedsModels2022,[m
+[32m+[m[32m  title = {Data Needs and Models for the Opioid Epidemic},[m
+[32m+[m[32m  author = {Blanco, Carlos and Wall, Melanie M. and Olfson, Mark},[m
+[32m+[m[32m  year = 2022,[m
+[32m+[m[32m  journal = {Molecular Psychiatry},[m
+[32m+[m[32m  volume = {27},[m
+[32m+[m[32m  number = {2},[m
+[32m+[m[32m  pages = {787--792},[m
+[32m+[m[32m  issn = {1359-4184},[m
+[32m+[m[32m  doi = {10.1038/s41380-021-01356-y},[m
+[32m+[m[32m  url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC8554508/},[m
+[32m+[m[32m  urldate = {2026-03-25},[m
+[32m+[m[32m  abstract = {The evolving nature of the opioid epidemic and continued increases in overdose deaths highlight a need for fundamental change in the collection and use of surveillance data to link them to implementation of effective service, treatment, and prevention approaches. Yet at present, the quality and timeliness of US surveillance data often limits data-driven approaches. We review current information needs, summarize limitations of existing data, propose complementary surveillance resources, and provide examples of promising approaches designed to meet the needs of data end-users. We conclude that there is a need for an approach that focuses on the needs of data end-users, such as public health systems leaders, policy makers, public, nonprofit and prepaid healthcare systems, and other systems, such as the justice system. Such an approach, which may require investments in new infrastructure, should prioritize improvements in data timeliness, sample representativeness, database linkage, and increased flexibility to adapt to shifts in the environment, while preserving the privacy of survey participants. Use of simulations, distributed research and data networks, alternative data sources, such as wastewater or digital data collection and use of blockchain technology, are some of promising avenues toward an improved and more user-centered surveillance system.},[m
+[32m+[m[32m  pmcid = {PMC8554508},[m
+[32m+[m[32m  pmid = {34716409},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\99U3XV72\Blanco et al. - 2022 - Data needs and models for the opioid epidemic.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@misc{cdcDOSESYSDashboardNonfatal2026,[m
+[32m+[m[32m  title = {{{DOSE-SYS Dashboard}}: {{Nonfatal Overdose Syndromic Surveillance Data}}},[m
+[32m+[m[32m  shorttitle = {{{DOSE-SYS Dashboard}}},[m
+[32m+[m[32m  author = {CDC},[m
+[32m+[m[32m  year = 2026,[m
+[32m+[m[32m  month = mar,[m
+[32m+[m[32m  journal = {Overdose Prevention},[m
+[32m+[m[32m  url = {https://www.cdc.gov/overdose-prevention/data-research/facts-stats/dose-dashboard-nonfatal-surveillance-data.html},[m
+[32m+[m[32m  urldate = {2026-04-08},[m
+[32m+[m[32m  abstract = {DOSE-SYS captures electronic health record information in syndromic surveillance systems.},[m
+[32m+[m[32m  langid = {american},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\9EUDFS3F\dose-dashboard-nonfatal-surveillance-data.html}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@misc{cdcSocialDeterminantsHealth2024,[m
+[32m+[m[32m  title = {Social {{Determinants}} of {{Health}} ({{SDOH}})},[m
+[32m+[m[32m  author = {CDC},[m
+[32m+[m[32m  year = 2024,[m
+[32m+[m[32m  month = oct,[m
+[32m+[m[32m  journal = {About CDC},[m
+[32m+[m[32m  url = {https://www.cdc.gov/about/priorities/why-is-addressing-sdoh-important.html},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  abstract = {Defines social determinants of health and relevance to CDC's work},[m
+[32m+[m[32m  langid = {american}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@misc{cdcSUDORSDashboardFatal2026,[m
+[32m+[m[32m  title = {{{SUDORS Dashboard}}: {{Fatal Drug Overdose Data}}},[m
+[32m+[m[32m  shorttitle = {{{SUDORS Dashboard}}},[m
+[32m+[m[32m  author = {CDC},[m
+[32m+[m[32m  year = 2026,[m
+[32m+[m[32m  month = feb,[m
+[32m+[m[32m  journal = {Overdose Prevention},[m
+[32m+[m[32m  url = {https://www.cdc.gov/overdose-prevention/data-research/facts-stats/sudors-dashboard-fatal-overdose-data.html},[m
+[32m+[m[32m  urldate = {2026-04-08},[m
+[32m+[m[32m  abstract = {View comprehensive data on unintentional and undetermined intent drug overdose deaths.},[m
+[32m+[m[32m  langid = {american},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\QM68GVDD\sudors-dashboard-fatal-overdose-data.html}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@misc{cdcUnderstandingOpioidOverdose2025,[m
+[32m+[m[32m  title = {Understanding the {{Opioid Overdose Epidemic}}},[m
+[32m+[m[32m  author = {CDC},[m
+[32m+[m[32m  year = 2025,[m
+[32m+[m[32m  month = jul,[m
+[32m+[m[32m  journal = {Overdose Prevention},[m
+[32m+[m[32m  url = {https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html},[m
+[32m+[m[32m  urldate = {2026-03-19},[m
+[32m+[m[32m  abstract = {CDC is committed to fighting the opioid overdose epidemic and supporting states and communities.},[m
+[32m+[m[32m  langid = {american}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{centerfordevicesandradiologicalhealthTransparencyMachineLearningEnabled2024,[m
+[32m+[m[32m  title = {Transparency for {{Machine Learning-Enabled Medical Devices}}: {{Guiding Principles}}},[m
+[32m+[m[32m  shorttitle = {Transparency for {{Machine Learning-Enabled Medical Devices}}},[m
+[32m+[m[32m  author = {{Center for Devices and Radiological Health}},[m
+[32m+[m[32m  year = 2024,[m
+[32m+[m[32m  journal = {FDA},[m
+[32m+[m[32m  publisher = {FDA},[m
+[32m+[m[32m  url = {https://www.fda.gov/medical-devices/software-medical-device-samd/transparency-machine-learning-enabled-medical-devices-guiding-principles},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  abstract = {For a MLMDs, effective transparency ensures that information that could impact patient risks and outcomes is communicated to all interacting with the device.},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\M9EKLPD4\transparency-machine-learning-enabled-medical-devices-guiding-principles.html}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{chawlaSMOTESyntheticMinority2002,[m
+[32m+[m[32m  title = {{{SMOTE}}: {{Synthetic Minority Over-sampling Technique}}},[m
+[32m+[m[32m  shorttitle = {{{SMOTE}}},[m
+[32m+[m[32m  author = {Chawla, N. V. and Bowyer, K. W. and Hall, L. O. and Kegelmeyer, W. P.},[m
+[32m+[m[32m  year = 2002,[m
+[32m+[m[32m  month = jun,[m
+[32m+[m[32m  journal = {Journal of Artificial Intelligence Research},[m
+[32m+[m[32m  volume = {16},[m
+[32m+[m[32m  pages = {321--357},[m
+[32m+[m[32m  issn = {1076-9757},[m
+[32m+[m[32m  doi = {10.1613/jair.953},[m
+[32m+[m[32m  url = {https://www.jair.org/index.php/jair/article/view/10302},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  abstract = {An approach to the construction of classifiers from    imbalanced datasets is described. A dataset is imbalanced if the    classification categories are not approximately equally    represented. Often real-world data sets are predominately composed of    ``normal'' examples with only a small percentage of ``abnormal'' or    ``interesting'' examples. It is also the case that the cost of    misclassifying an abnormal (interesting) example as a normal example    is often much higher than the cost of the reverse    error. Under-sampling of the majority (normal) class has been proposed    as a good means of increasing the sensitivity of a classifier to the    minority class. This paper shows that a combination of our method of    over-sampling the minority (abnormal) class and under-sampling the    majority (normal) class can achieve better classifier performance (in    ROC space) than only under-sampling the majority class.  This paper    also shows that a combination of our method of over-sampling the    minority class and under-sampling the majority class can achieve    better classifier performance (in ROC space) than varying the loss    ratios in Ripper or class priors in Naive Bayes. Our method of    over-sampling the minority class involves creating synthetic minority    class examples.  Experiments are performed using C4.5, Ripper and a    Naive Bayes classifier. The method is evaluated using the area under    the Receiver Operating Characteristic curve (AUC) and the ROC convex    hull strategy.},[m
+[32m+[m[32m  copyright = {Copyright (c)},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  note = {SMOTE source article},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\CYBF2C52\Chawla et al. - 2002 - SMOTE Synthetic Minority Over-sampling Technique.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{ciccaroneRiseIllicitFentanyls2021,[m
+[32m+[m[32m  title = {The {{Rise}} of {{Illicit Fentanyls}}, {{Stimulants}} and the {{Fourth Wave}} of the {{Opioid Overdose Crisis}}},[m
+[32m+[m[32m  author = {Ciccarone, Daniel},[m
+[32m+[m[32m  year = 2021,[m
+[32m+[m[32m  month = jul,[m
+[32m+[m[32m  journal = {Current opinion in psychiatry},[m
+[32m+[m[32m  volume = {34},[m
+[32m+[m[32m  number = {4},[m
+[32m+[m[32m  pages = {344--350},[m
+[32m+[m[32m  issn = {0951-7367},[m
+[32m+[m[32m  doi = {10.1097/YCO.0000000000000717},[m
+[32m+[m[32m  url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC8154745/},[m
+[32m+[m[32m  urldate = {2026-03-25},[m
+[32m+[m[32m  abstract = {Purpose of review: This review provides an update on recent published literature on the rise of illicit fentanyls, risks for overdose, combinations with other substances, e.g. stimulants, consequences and treatment. Recent findings: Overdose due to illicit synthetic opioids (e.g. fentanyl and fentanyl analogs) continues to rise in the US both preceding and during the COVID-19 pandemic. Fentanyl-related overdose is rising in new geographic areas e.g. the western US. Stimulant-related overdose is also increasing nationwide driven by methamphetamine and cocaine. Polysubstance use, e.g. the use of a stimulant along with an opioid is driving stimulant-related overdose. Other medical consequences of injection drug use are rising including HIV and hepatitis C infections. Medication approaches to treating opioid use disorder remain the standard of care and there are new promising pharmacological approaches to treating methamphetamine use disorder. Summary: A `fourth wave' of high mortality involving methamphetamine and cocaine use has been gathering force in the US. Availability and use of illicit fentanyls are still the major drivers of overdose deaths and the current rise in stimulant-related deaths appears entwined with the ongoing opioid epidemic.},[m
+[32m+[m[32m  pmcid = {PMC8154745},[m
+[32m+[m[32m  pmid = {33965972},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\GE25BCS7\Ciccarone - 2021 - The Rise of Illicit Fentanyls, Stimulants and the Fourth Wave of the Opioid Overdose Crisis.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{daroliaSocialCommunityConsequences2022,[m
+[32m+[m[32m  title = {The {{Social}} and {{Community Consequences}} of the {{Opioid Epidemic}}},[m
+[32m+[m[32m  author = {Darolia, Rajeev and Heflin, Colleen},[m
+[32m+[m[32m  year = 2022,[m
+[32m+[m[32m  month = sep,[m
+[32m+[m[32m  journal = {The ANNALS of the American Academy of Political and Social Science},[m
+[32m+[m[32m  volume = {703},[m
+[32m+[m[32m  number = {1},[m
+[32m+[m[32m  pages = {7--14},[m
+[32m+[m[32m  publisher = {SAGE Publications Inc},[m
+[32m+[m[32m  issn = {0002-7162},[m
+[32m+[m[32m  doi = {10.1177/00027162231157569},[m
+[32m+[m[32m  url = {https://doi.org/10.1177/00027162231157569},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  abstract = {We provide a brief orientation to the articles that comprise this volume, which is an effort to understand the consequences of the opioid epidemic in a variety of societal and community domains. These domains include child welfare, living arrangements, education, food insecurity, housing, and public budgets, and they are often paid scant attention compared to research that focuses on the direct effects of opioid use. We give an overview of the articles that comprise this volume and discuss the ways in which they contribute new empirical insights on the consequences of the opioid crisis in the U.S. and Canada. We conclude with thoughts on the challenges inherent in this work, insights about how this volume of research might help us understand the broader reach of the epidemic, and how it helps in the development of prosocial public policies.},[m
+[32m+[m[32m  langid = {english}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{dasguptaOpioidCrisisNo2018,[m
+[32m+[m[32m  title = {Opioid {{Crisis}}: {{No Easy Fix}} to {{Its Social}} and {{Economic Determinants}}},[m
+[32m+[m[32m  shorttitle = {Opioid {{Crisis}}},[m
+[32m+[m[32m  author = {Dasgupta, Nabarun and Beletsky, Leo and Ciccarone, Daniel},[m
+[32m+[m[32m  year = 2018,[m
+[32m+[m[32m  month = feb,[m
+[32m+[m[32m  journal = {American Journal of Public Health},[m
+[32m+[m[32m  volume = {108},[m
+[32m+[m[32m  number = {2},[m
+[32m+[m[32m  pages = {182--186},[m
+[32m+[m[32m  publisher = {American Public Health Association},[m
+[32m+[m[32m  issn = {0090-0036},[m
+[32m+[m[32m  doi = {10.2105/AJPH.2017.304187},[m
+[32m+[m[32m  url = {https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.304187},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  abstract = {The accepted wisdom about the US overdose crisis singles out prescribing as the causative vector. Although drug supply is a key factor, we posit that the crisis is fundamentally fueled by economic and social upheaval, its etiology closely linked to the role of opioids as a refuge from physical and psychological trauma, concentrated disadvantage, isolation, and hopelessness. Overreliance on opioid medications is emblematic of a health care system that incentivizes quick, simplistic answers to complex physical and mental health needs. In an analogous way, simplistic measures to cut access to opioids offer illusory solutions to this multidimensional societal challenge. We trace the crisis' trajectory through the intertwined use of opioid analgesics, heroin, and fentanyl analogs, and we urge engaging the structural determinants lens to address this formidable public health emergency. A broad focus on suffering should guide both patient- and community-level interventions.},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\9BHHH8EW\Dasgupta et al. - 2018 - Opioid Crisis No Easy Fix to Its Social and Economic Determinants.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{dongMachineLearningBased2020,[m
+[32m+[m[32m  title = {Machine {{Learning Based Opioid Overdose Prediction Using Electronic Health Records}}},[m
+[32m+[m[32m  author = {Dong, Xinyu and Rashidian, Sina and Wang, Yu and Hajagos, Janos and Zhao, Xia and Rosenthal, Richard N. and Kong, Jun and Saltz, Mary and Saltz, Joel and Wang, Fusheng},[m
+[32m+[m[32m  year = 2020,[m
+[32m+[m[32m  month = mar,[m
+[32m+[m[32m  journal = {AMIA Annual Symposium Proceedings},[m
+[32m+[m[32m  volume = {2019},[m
+[32m+[m[32m  pages = {389--398},[m
+[32m+[m[32m  issn = {1942-597X},[m
+[32m+[m[32m  url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC7153049/},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  abstract = {Opioid addiction in the United States has come to national attention as opioid overdose (OD) related deaths have risen at alarming rates. Combating opioid epidemic becomes a high priority for not only governments but also healthcare providers. This depends on critical knowledge to understand the risk of opioid overdose of patients. In this paper, we present our work on building machine learning based prediction models to predict opioid overdose of patients based on the history of patients' electronic health records (EHR). We performed two studies using New York State claims data (SPARCS) with 440,000 patients and Cerner's Health Facts database with 110,000 patients. Our experiments demonstrated that EHR based prediction can achieve best recall with random forest method (precision: 95.3\%, recall: 85.7\%, F1 score: 90.3\%), best precision with deep learning (precision: 99.2\%, recall: 77.8\%, F1 score: 87.2\%). We also discovered that clinical events are among critical features for the predictions.},[m
+[32m+[m[32m  pmcid = {PMC7153049},[m
+[32m+[m[32m  pmid = {32308832}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{gabrielReviewLeveragingArtificial2025,[m
+[32m+[m[32m  title = {A {{Review}} of {{Leveraging Artificial Intelligence}} to {{Predict Persistent Postoperative Opioid Use}} and {{Opioid Use Disorder}} and Its {{Ethical Considerations}}},[m
+[32m+[m[32m  author = {Gabriel, Rodney A. and Park, Brian H. and Hsu, Chun-Nan and Macias, Alvaro A.},[m
+[32m+[m[32m  year = 2025,[m
+[32m+[m[32m  month = jan,[m
+[32m+[m[32m  journal = {Current Pain and Headache Reports},[m
+[32m+[m[32m  volume = {29},[m
+[32m+[m[32m  number = {1},[m
+[32m+[m[32m  pages = {30},[m
+[32m+[m[32m  issn = {1534-3081},[m
+[32m+[m[32m  doi = {10.1007/s11916-024-01319-2},[m
+[32m+[m[32m  abstract = {PURPOSE OF REVIEW: Artificial intelligence (AI) offers a new frontier for aiding in the management of both acute and chronic pain, which may potentially transform opioid prescribing practices and addiction prevention strategies. In this review paper, not only do we discuss some of the current literature around predicting various opioid-related outcomes, but we also briefly point out the next steps to improve trustworthiness of these AI models prior to real-time use in clinical workflow. RECENT FINDINGS: Machine learning-based predictive models for identifying risk for persistent postoperative opioid use have been reported for spine surgery, knee arthroplasty, hip arthroplasty, arthroscopic joint surgery, outpatient surgery, and mixed surgical populations. Several machine learning-based models have been described to predict an individual's propensity for opioid use disorder and opioid overdose. Natural language processing and large language model approaches have been described to detect opioid use disorder and persistent postsurgical opioid use from clinical notes. AI holds significant promise in enhancing the management of acute and chronic opioids, which may offer tools to help optimize dosing, predict addiction risks, and personalize pain management strategies. By harnessing the power of AI, healthcare providers can potentially improve patient outcomes, reduce the burden of opioid addiction, and contribute to solving the opioid crisis.},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  pmcid = {PMC11758157},[m
+[32m+[m[32m  pmid = {39847176},[m
+[32m+[m[32m  keywords = {Analgesics Opioid,Artificial intelligence,Artificial Intelligence,Humans,Machine learning,Machine Learning,Opioid use disorder,Opioid-Related Disorders,Persistent opioid use,Postoperative Pain,Surgery}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{hastingsPredictingHighriskOpioid2020,[m
+[32m+[m[32m  title = {Predicting High-Risk Opioid Prescriptions before They Are Given},[m
+[32m+[m[32m  author = {Hastings, Justine S. and Howison, Mark and Inman, Sarah E.},[m
+[32m+[m[32m  year = 2020,[m
+[32m+[m[32m  month = jan,[m
+[32m+[m[32m  journal = {Proceedings of the National Academy of Sciences},[m
+[32m+[m[32m  volume = {117},[m
+[32m+[m[32m  number = {4},[m
+[32m+[m[32m  pages = {1917--1923},[m
+[32m+[m[32m  publisher = {Proceedings of the National Academy of Sciences},[m
+[32m+[m[32m  doi = {10.1073/pnas.1905355117},[m
+[32m+[m[32m  url = {https://www.pnas.org/doi/10.1073/pnas.1905355117},[m
+[32m+[m[32m  urldate = {2026-03-19},[m
+[32m+[m[32m  abstract = {Misuse of prescription opioids is a leading cause of premature death in the United States. We use state government administrative data and machine learning methods to examine whether the risk of future opioid dependence, abuse, or poisoning can be predicted in advance of an initial opioid prescription. Our models accurately predict these outcomes and identify particular prior nonopioid prescriptions, medical history, incarceration, and demographics as strong predictors. Using our estimates, we simulate a hypothetical policy which restricts new opioid prescriptions to only those with low predicted risk. The policy's potential benefits likely outweigh costs across demographic subgroups, even for lenient definitions of ``high risk.'' Our findings suggest new avenues for prevention using state administrative data, which could aid providers in making better, data-informed decisions when weighing the medical benefits of opioid therapy against the risks.}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@inproceedings{heADASYNAdaptiveSynthetic2008,[m
+[32m+[m[32m  title = {{{ADASYN}}: {{Adaptive}} Synthetic Sampling Approach for Imbalanced Learning},[m
+[32m+[m[32m  shorttitle = {{{ADASYN}}},[m
+[32m+[m[32m  booktitle = {2008 {{IEEE International Joint Conference}} on {{Neural Networks}} ({{IEEE World Congress}} on {{Computational Intelligence}})},[m
+[32m+[m[32m  author = {He, Haibo and Bai, Yang and Garcia, Edwardo A. and Li, Shutao},[m
+[32m+[m[32m  year = 2008,[m
+[32m+[m[32m  month = jun,[m
+[32m+[m[32m  pages = {1322--1328},[m
+[32m+[m[32m  issn = {2161-4407},[m
+[32m+[m[32m  doi = {10.1109/IJCNN.2008.4633969},[m
+[32m+[m[32m  url = {https://ieeexplore.ieee.org/document/4633969},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  abstract = {This paper presents a novel adaptive synthetic (ADASYN) sampling approach for learning from imbalanced data sets. The essential idea of ADASYN is to use a weighted distribution for different minority class examples according to their level of difficulty in learning, where more synthetic data is generated for minority class examples that are harder to learn compared to those minority examples that are easier to learn. As a result, the ADASYN approach improves learning with respect to the data distributions in two ways: (1) reducing the bias introduced by the class imbalance, and (2) adaptively shifting the classification decision boundary toward the difficult examples. Simulation analyses on several machine learning data sets show the effectiveness of this method across five evaluation metrics.},[m
+[32m+[m[32m  keywords = {Accuracy,Algorithm design and analysis,Classification algorithms,Decision trees,Machine learning,Machine learning algorithms,Training data},[m
+[32m+[m[32m  note = {Another SMOTE-like approach explained},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\YE86IPF7\4633969.html}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{juddOpioidEpidemicReview2023,[m
+[32m+[m[32m  title = {The {{Opioid Epidemic}}: {{A Review}} of the {{Contributing Factors}}, {{Negative Consequences}}, and {{Best Practices}}},[m
+[32m+[m[32m  shorttitle = {The {{Opioid Epidemic}}},[m
+[32m+[m[32m  author = {Judd, Dallin and King, Connor R and Galke, Curtis},[m
+[32m+[m[32m  year = 2023,[m
+[32m+[m[32m  month = jul,[m
+[32m+[m[32m  journal = {Cureus},[m
+[32m+[m[32m  volume = {15},[m
+[32m+[m[32m  number = {7},[m
+[32m+[m[32m  pages = {e41621},[m
+[32m+[m[32m  issn = {2168-8184},[m
+[32m+[m[32m  doi = {10.7759/cureus.41621},[m
+[32m+[m[32m  url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC10410480/},[m
+[32m+[m[32m  urldate = {2026-03-25},[m
+[32m+[m[32m  abstract = {The opioid epidemic is a significant public health crisis that has caused extensive harm and devastation in the United States. This literature review aimed to identify the contributing factors and negative consequences of the epidemic, as well as best practices for healthcare providers in managing the epidemic. Overprescribing opiates and opioids, lack of education and opportunity, and being unmarried or divorced were some of the identified contributing factors to dependence on opioids. The epidemic's negative consequences are substantial, leading to increased access to opioids for vulnerable populations, which consequently cause~accidental death among men and the degradation of rural community health services. As part of the literature review, we also analyzed the best practices for healthcare providers, including implementing prescription drug monitoring programs (PDMPs). However, we found that while PDMPs~resulted in a decrease in opioid overprescription and an increase in provider confidence when prescribing medication, the evidence for their effectiveness in improving rural community health services or reducing opioid overdoses and opioid-related deaths was inconclusive. Our review highlights that the greatest challenge to overcome is a lack of legal mandates and proper education for healthcare providers on best practices for addressing the epidemic. To regulate and control opioids effectively, tracking and standardizing prescription models by federal agencies and medical institutions is necessary but not enough. Legal action is vital for the successful containment of the opioid crisis.},[m
+[32m+[m[32m  pmcid = {PMC10410480},[m
+[32m+[m[32m  pmid = {37565101},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\4WJ9WBJ8\Judd et al. - The Opioid Epidemic A Review of the Contributing Factors, Negative Consequences, and Best Practices.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{kimMachineLearningBasedPrediction2025,[m
+[32m+[m[32m  title = {Machine {{Learning-Based Prediction}} of {{Substance Use}} in {{Adolescents}} in {{Three Independent Worldwide Cohorts}}: {{Algorithm Development}} and {{Validation Study}}},[m
+[32m+[m[32m  shorttitle = {Machine {{Learning-Based Prediction}} of {{Substance Use}} in {{Adolescents}} in {{Three Independent Worldwide Cohorts}}},[m
+[32m+[m[32m  author = {Kim, Soeun and Kim, Hyejun and Kim, Seokjun and Lee, Hojae and Hammoodi, Ahmed and Choi, Yujin and Kim, Hyeon Jin and Smith, Lee and Kim, Min Seo and Fond, Guillaume and Boyer, Laurent and Baik, Sung Wook and Lee, Hayeon and Park, Jaeyu and Kwon, Rosie and Woo, Selin and Yon, Dong Keon},[m
+[32m+[m[32m  year = 2025,[m
+[32m+[m[32m  month = feb,[m
+[32m+[m[32m  journal = {Journal of Medical Internet Research},[m
+[32m+[m[32m  volume = {27},[m
+[32m+[m[32m  pages = {e62805},[m
+[32m+[m[32m  issn = {1438-8871},[m
+[32m+[m[32m  doi = {10.2196/62805},[m
+[32m+[m[32m  abstract = {BACKGROUND: To address gaps in global understanding of cultural and social variations, this study used a high-performance machine learning (ML) model to predict adolescent substance use across three national datasets. OBJECTIVE: This study aims to develop a generalizable predictive model for adolescent substance use using multinational datasets and ML. METHODS: The study used the Korea Youth Risk Behavior Web-Based Survey (KYRBS) from South Korea (n=1,098,641) to train ML models. For external validation, we used the Youth Risk Behavior Survey (YRBS) from the United States (n=2,511,916) and Norwegian nationwide Ungdata surveys (Ungdata) from Norway (n=700,660). After developing various ML models, we evaluated the final model's performance using multiple metrics. We also assessed feature importance using traditional methods and further analyzed variable contributions through SHapley Additive exPlanation values. RESULTS: The study used nationwide adolescent datasets for ML model development and validation, analyzing data from 1,098,641 KYRBS adolescents, 2,511,916 YRBS participants, and 700,660 from Ungdata. The XGBoost model was the top performer on the KYRBS, achieving an area under receiver operating characteristic~curve (AUROC) score of 80.61\% (95\% CI 79.63-81.59) and precision of 30.42 (95\% CI 28.65-32.16) with detailed analysis on sensitivity of 31.30 (95\% CI 29.47-33.20), specificity of 99.16 (95\% CI 99.12-99.20), accuracy of 98.36 (95\% CI 98.31-98.42), balanced accuracy of 65.23 (95\% CI 64.31-66.17), F1-score of 30.85 (95\% CI 29.25-32.51), and area under precision-recall curve of 32.14 (95\% CI 30.34-33.95). The model achieved an AUROC score of 79.30\% and a precision of 68.37\% on the YRBS dataset, while in external validation using the Ungdata dataset, it recorded an AUROC score of 76.39\% and a precision of 12.74\%. Feature importance and SHapley Additive exPlanation value analyses identified smoking status, BMI, suicidal ideation, alcohol consumption, and feelings of sadness and despair as key contributors to the risk of substance use, with smoking status emerging as the most influential factor. CONCLUSIONS: Based on multinational datasets from South Korea, the United States, and Norway, this study shows the potential of ML models, particularly the XGBoost model, in predicting adolescent substance use. These findings provide a solid basis for future research exploring additional influencing factors or developing targeted intervention strategies.},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  pmcid = {PMC11894353},[m
+[32m+[m[32m  pmid = {39993291},[m
+[32m+[m[32m  keywords = {adolescent,Adolescent,Adolescent Behavior,adolescents,alcohol,Algorithms,Cohort Studies,Female,Humans,intervention,interventions,machine learning,Machine Learning,Male,ML,Norway,prediction,random forest,Republic of Korea,risk behavior,smoking,South Korea,substance,substance use,Substance-Related Disorders,survey,Surveys and Questionnaires,United States,web-based survey,XGBoost}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{kimScalableInfrastructureSupporting2023,[m
+[32m+[m[32m  title = {Scalable {{Infrastructure Supporting Reproducible Nationwide Healthcare Data Analysis}} toward {{FAIR Stewardship}}},[m
+[32m+[m[32m  author = {Kim, Ji-Woo and Kim, Chungsoo and Kim, Kyoung-Hoon and Lee, Yujin and Yu, Dong Han and Yun, Jeongwon and Baek, Hyeran and Park, Rae Woong and You, Seng Chan},[m
+[32m+[m[32m  year = 2023,[m
+[32m+[m[32m  month = oct,[m
+[32m+[m[32m  journal = {Scientific Data},[m
+[32m+[m[32m  volume = {10},[m
+[32m+[m[32m  number = {1},[m
+[32m+[m[32m  pages = {674},[m
+[32m+[m[32m  issn = {2052-4463},[m
+[32m+[m[32m  doi = {10.1038/s41597-023-02580-7},[m
+[32m+[m[32m  abstract = {Transparent and FAIR disclosure of meta-information about healthcare data and infrastructure is essential but has not been well publicized. In this paper, we provide a transparent disclosure of the process of standardizing a common data model and developing a national data infrastructure using national claims data. We established an Observational Medical Outcome Partnership (OMOP) common data model database for national claims data of the Health Insurance Review and Assessment Service of South Korea. To introduce a data openness policy, we built a distributed data analysis environment and released metadata based on the FAIR principle. A total of 10,098,730,241 claims and 56,579,726 patients' data were converted as OMOP common data model. We also built an analytics environment for distributed research and made the metadata publicly available. Disclosure of this infrastructure to researchers will help to eliminate information inequality and contribute to the generation of high-quality medical evidence.},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  pmcid = {PMC10550904},[m
+[32m+[m[32m  pmid = {37794003}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{liMultitaskLearningDynamic2023,[m
+[32m+[m[32m  title = {Multi-Task Learning with Dynamic Re-Weighting to Achieve Fairness in Healthcare Predictive Modeling},[m
+[32m+[m[32m  author = {Li, Can and Ding, Sirui and Zou, Na and Hu, Xia and Jiang, Xiaoqian and Zhang, Kai},[m
+[32m+[m[32m  year = 2023,[m
+[32m+[m[32m  month = jul,[m
+[32m+[m[32m  journal = {Journal of Biomedical Informatics},[m
+[32m+[m[32m  volume = {143},[m
+[32m+[m[32m  pages = {104399},[m
+[32m+[m[32m  issn = {1532-0464},[m
+[32m+[m[32m  doi = {10.1016/j.jbi.2023.104399},[m
+[32m+[m[32m  url = {https://www.sciencedirect.com/science/article/pii/S153204642300120X},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  abstract = {The emphasis on fairness in predictive healthcare modeling has increased in popularity as an approach for overcoming biases in automated decision-making systems. The aim is to guarantee that sensitive characteristics like gender, race, and ethnicity do not influence prediction outputs. Numerous algorithmic strategies have been proposed to reduce bias in prediction results, mitigate prejudice toward minority groups and promote prediction fairness. The goal of these strategies is to ensure that model prediction performance does not exhibit significant disparity among sensitive groups. In this study, we propose a novel fairness-achieving scheme based on multitask learning, which fundamentally differs from conventional fairness-achieving techniques, including altering data distributions and constraint optimization through regularizing fairness metrics or tampering with prediction outcomes. By dividing predictions on different sub-populations into separate tasks, we view the fairness problem as a task-balancing problem. To ensure fairness during the model-training process, we suggest a novel dynamic re-weighting approach. Fairness is achieved by dynamically modifying the gradients of various prediction tasks during neural network back-propagation, and this novel technique applies to a wide range of fairness criteria. We conduct tests on a real-world use case to predict sepsis patients' mortality risk. Our approach satisfies that it can reduce the disparity between subgroups by 98\% while only losing less than 4\% of prediction accuracy.},[m
+[32m+[m[32m  keywords = {Fairness,Healthcare predictive modeling,Multi-task learning},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\TDX3DJL2\S153204642300120X.html}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{liUsingMachineLearning2018,[m
+[32m+[m[32m  title = {Using {{Machine Learning}} to {{Predict Opioid Overdoses Among Prescription Opioid Users}}},[m
+[32m+[m[32m  author = {Li, X. and Chaovalitwongse, W. A. and Curran, G. and Tilford, J. M. and Felix, H. and Martin, B. C.},[m
+[32m+[m[32m  year = 2018,[m
+[32m+[m[32m  month = may,[m
+[32m+[m[32m  journal = {Value in Health},[m
+[32m+[m[32m  volume = {21},[m
+[32m+[m[32m  pages = {S245},[m
+[32m+[m[32m  publisher = {Elsevier},[m
+[32m+[m[32m  issn = {1098-3015, 1524-4733},[m
+[32m+[m[32m  doi = {10.1016/j.jval.2018.04.1663},[m
+[32m+[m[32m  url = {https://www.valueinhealthjournal.com/article/S1098-3015(18)31985-5/fulltext},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\6B3FXLRL\Li et al. - 2018 - Using Machine Learning to Predict Opioid Overdoses Among Prescription Opioid Users.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{lo-ciganicDevelopingValidatingMachinelearning2022,[m
+[32m+[m[32m  title = {Developing and Validating a Machine-Learning Algorithm to Predict Opioid Overdose in {{Medicaid}} Beneficiaries in Two {{US}} States: A Prognostic Modelling Study},[m
+[32m+[m[32m  shorttitle = {Developing and Validating a Machine-Learning Algorithm to Predict Opioid Overdose in {{Medicaid}} Beneficiaries in Two {{US}} States},[m
+[32m+[m[32m  author = {{Lo-Ciganic}, Wei-Hsuan and Donohue, Julie M. and Yang, Qingnan and Huang, James L. and Chang, Ching-Yuan and Weiss, Jeremy C. and Guo, Jingchuan and Zhang, Hao H. and Cochran, Gerald and Gordon, Adam J. and Malone, Daniel C. and Kwoh, Chian K. and Wilson, Debbie L. and Kuza, Courtney C. and Gellad, Walid F.},[m
+[32m+[m[32m  year = 2022,[m
+[32m+[m[32m  month = jun,[m
+[32m+[m[32m  journal = {The Lancet Digital Health},[m
+[32m+[m[32m  volume = {4},[m
+[32m+[m[32m  number = {6},[m
+[32m+[m[32m  pages = {e455-e465},[m
+[32m+[m[32m  publisher = {Elsevier},[m
+[32m+[m[32m  issn = {2589-7500},[m
+[32m+[m[32m  doi = {10.1016/S2589-7500(22)00062-0},[m
+[32m+[m[32m  url = {https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00062-0/fulltext},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  pmid = {35623798}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{markatouSocialDeterminantsHealth2023,[m
+[32m+[m[32m  title = {Social Determinants of Health Derived from People with Opioid Use Disorder: {{Improving}} Data Collection, Integration and Use with Cross-Domain Collaboration and Reproducible, Data-Centric, Notebook-Style Workflows},[m
+[32m+[m[32m  shorttitle = {Social Determinants of Health Derived from People with Opioid Use Disorder},[m
+[32m+[m[32m  author = {Markatou, Marianthi and Kennedy, Oliver and Brachmann, Michael and Mukhopadhyay, Raktim and Dharia, Arpan and Talal, Andrew H.},[m
+[32m+[m[32m  year = 2023,[m
+[32m+[m[32m  month = mar,[m
+[32m+[m[32m  journal = {Frontiers in Medicine},[m
+[32m+[m[32m  volume = {10},[m
+[32m+[m[32m  pages = {1076794},[m
+[32m+[m[32m  issn = {2296-858X},[m
+[32m+[m[32m  doi = {10.3389/fmed.2023.1076794},[m
+[32m+[m[32m  url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC10017859/},[m
+[32m+[m[32m  urldate = {2026-03-25},[m
+[32m+[m[32m  abstract = {Deriving social determinants of health from underserved populations is an important step in the process of improving the well-being of these populations and in driving policy improvements to facilitate positive change in health outcomes. Collection, integration, and effective use of clinical data for this purpose presents a variety of specific challenges. We assert that combining expertise from three distinct domains, specifically, medical, statistical, and computer and data science can be applied along with provenance-aware, self-documenting workflow tools. This combination permits data integration and facilitates the creation of reproducible workflows and usable (reproducible) results from the sensitive and disparate sources of clinical data that exist for underserved populations.},[m
+[32m+[m[32m  pmcid = {PMC10017859},[m
+[32m+[m[32m  pmid = {36936205},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\CG3XD8P6\Markatou et al. - 2023 - Social determinants of health derived from people with opioid use disorder Improving data collectio.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{moonsTransparentReportingMultivariable2015,[m
+[32m+[m[32m  title = {Transparent {{Reporting}} of a Multivariable Prediction Model for {{Individual Prognosis}} or {{Diagnosis}} ({{TRIPOD}}): Explanation and Elaboration},[m
+[32m+[m[32m  shorttitle = {Transparent {{Reporting}} of a Multivariable Prediction Model for {{Individual Prognosis}} or {{Diagnosis}} ({{TRIPOD}})},[m
+[32m+[m[32m  author = {Moons, Karel G. M. and Altman, Douglas G. and Reitsma, Johannes B. and Ioannidis, John P. A. and Macaskill, Petra and Steyerberg, Ewout W. and Vickers, Andrew J. and Ransohoff, David F. and Collins, Gary S.},[m
+[32m+[m[32m  year = 2015,[m
+[32m+[m[32m  month = jan,[m
+[32m+[m[32m  journal = {Annals of Internal Medicine},[m
+[32m+[m[32m  volume = {162},[m
+[32m+[m[32m  number = {1},[m
+[32m+[m[32m  pages = {W1-73},[m
+[32m+[m[32m  issn = {1539-3704},[m
+[32m+[m[32m  doi = {10.7326/M14-0698},[m
+[32m+[m[32m  abstract = {The TRIPOD (Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis) Statement includes a 22-item checklist, which aims to improve the reporting of studies developing, validating, or updating a prediction model, whether for diagnostic or prognostic purposes. The TRIPOD Statement aims to improve the transparency of the reporting of a prediction model study regardless of the study methods used. This explanation and elaboration document describes the rationale; clarifies the meaning of each item; and discusses why transparent reporting is important, with a view to assessing risk of bias and clinical usefulness of the prediction model. Each checklist item of the TRIPOD Statement is explained in detail and accompanied by published examples of good reporting. The document also provides a valuable reference of issues to consider when designing, conducting, and analyzing prediction model studies. To aid the editorial process and help peer reviewers and, ultimately, readers and systematic reviewers of prediction model studies, it is recommended that authors include a completed checklist in their submission. The TRIPOD checklist can also be downloaded from www.tripod-statement.org.},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  pmid = {25560730},[m
+[32m+[m[32m  keywords = {Checklist,Decision Support Techniques,Diagnosis,Guidelines as Topic,Humans,Models Statistical,Multivariate Analysis,Prognosis,Publishing,Reproducibility of Results}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{murphyCostOpioidUse2020,[m
+[32m+[m[32m  title = {The {{Cost}} of {{Opioid Use Disorder}} and the {{Value}} of {{Aversion}}},[m
+[32m+[m[32m  author = {Murphy, Sean M.},[m
+[32m+[m[32m  year = 2020,[m
+[32m+[m[32m  month = dec,[m
+[32m+[m[32m  journal = {Drug and alcohol dependence},[m
+[32m+[m[32m  volume = {217},[m
+[32m+[m[32m  pages = {108382},[m
+[32m+[m[32m  issn = {0376-8716},[m
+[32m+[m[32m  doi = {10.1016/j.drugalcdep.2020.108382},[m
+[32m+[m[32m  url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC7737485/},[m
+[32m+[m[32m  urldate = {2026-04-29},[m
+[32m+[m[32m  abstract = {Background: The objective of this study was twofold. First, to update and estimate the economic burden of opioid use disorder (OUD) to the U.S. from the perspectives of the healthcare sector, taxpayer, and society, overall and by age. Second, to estimate the mean present value of averting an OUD, overall and by age, for use in economic evaluations of prevention-focused interventions. Methods: This was a retrospective secondary analysis using 2018 data from the National Survey on Drug Use and Health, and the CDC WONDER Database on all U.S. persons, at least 12 years old, with an OUD, or who died of opioid overdose. Total OUD-related costs were estimated according to age and stakeholder perspective. Mean costs weighted by insurance type and the probability of mortality were estimated for each age, then used to estimate the mean present value of OUD aversion according to age and stakeholder perspective. Results: The total annual OUD-related costs to the U.S. in 2018 were \$786.8 billion to society, \$93 billion to taxpayers, and \$89.1 billion to the healthcare sector. The mean present value of averting an OUD, across all ages, was \$2.2 million, \$325,125, and \$244,030 from the societal, taxpayer, and healthcare sector perspectives, respectively. Conclusions and Relevance: The age-specific values of averting an OUD allow for more robust and targeted economic evaluations of competing interventions to reduce the burden of opioids on multiple stakeholders. The rise in the annual OUD-related cost largely reflects the increase in overdose deaths attributable to synthetic opioids (e.g., fentanyl).},[m
+[32m+[m[32m  pmcid = {PMC7737485},[m
+[32m+[m[32m  pmid = {33183909},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\6KFJG494\Murphy - 2020 - The Cost of Opioid Use Disorder and the Value of Aversion.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{partonMachineLearningApproach2026,[m
+[32m+[m[32m  title = {A Machine Learning Approach for Opioid Overdose Risk Prediction among {{Alabama Medicaid}} Beneficiaries with Opioid Prescriptions},[m
+[32m+[m[32m  author = {Parton, Jason and Wang, Qin and Wang, Eric C. and Hanson, Courtney and Higginbotham, John A.},[m
+[32m+[m[32m  year = 2026,[m
+[32m+[m[32m  month = jan,[m
+[32m+[m[32m  journal = {Scientific Reports},[m
+[32m+[m[32m  volume = {16},[m
+[32m+[m[32m  number = {1},[m
+[32m+[m[32m  pages = {5171},[m
+[32m+[m[32m  issn = {2045-2322},[m
+[32m+[m[32m  doi = {10.1038/s41598-026-36047-7},[m
+[32m+[m[32m  url = {https://www.nature.com/articles/s41598-026-36047-7},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  abstract = {The goal of this study is to develop and validate a machine learning approach for predicting opioid overdose risk and identifying associated risk factors among Alabama Medicaid beneficiaries during the period of 2016--2023. Using the administrative claims data, we trained three machine learning models, penalized logistic regression, random forest and gradient boosting machines, on the 2016--2018 data with 168,625 records, and test and validate the models on the 2019--2023 data with 229,212 records. A modern sampling approach, SMOTE, was incorporated into the study to deal with the imbalance in the overdose outcome. The machine learning models demonstrated strong performance assessed by C-statistics, sensitivity and specificity, precision and recall rates, etc. Several risk factors were identified including changes in prescription patterns, beneficiary's age, and prescription denials. Differences in ROC-AUC and PR-AUC between models with and without SMOTE were modest; interpretation therefore emphasizes improvements in recall rather than overall discrimination. SMOTE-based performance metrics were averaged across 50 resampling iterations to reduce instability from single-run oversampling.},[m
+[32m+[m[32m  copyright = {2026 The Author(s)},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  keywords = {Health care,Mathematics and computing,Medical research,Risk factors},[m
+[32m+[m[32m  note = {Sonora's favorite article for machine learning approaches, medicaid data approach, SMOTE approach},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\4B7UZ3PI\Parton et al. - 2026 - A machine learning approach for opioid overdose ri.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{ramirezmedinaSystematicReviewMachine2025,[m
+[32m+[m[32m  title = {A Systematic Review of Machine Learning Applications in Predicting Opioid Associated Adverse Events},[m
+[32m+[m[32m  author = {Ram{\'i}rez Medina, Carlos R. and {Benitez-Aurioles}, Jose and Jenkins, David A. and Jani, Meghna},[m
+[32m+[m[32m  year = 2025,[m
+[32m+[m[32m  month = jan,[m
+[32m+[m[32m  journal = {npj Digital Medicine},[m
+[32m+[m[32m  volume = {8},[m
+[32m+[m[32m  number = {1},[m
+[32m+[m[32m  pages = {30},[m
+[32m+[m[32m  publisher = {Nature Publishing Group},[m
+[32m+[m[32m  issn = {2398-6352},[m
+[32m+[m[32m  doi = {10.1038/s41746-024-01312-4},[m
+[32m+[m[32m  url = {https://www.nature.com/articles/s41746-024-01312-4},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  abstract = {Machine learning has increasingly been applied to predict opioid-related harms due to its ability to handle complex interactions and generating actionable predictions. This review evaluated the types and quality of ML methods in opioid safety research, identifying 44 studies using supervised ML through searches of Ovid MEDLINE, PubMed and SCOPUS databases. Commonly predicted outcomes included postoperative opioid use (n\,=\,15, 34\%) opioid overdose (n\,=\,8, 18\%), opioid use disorder (n\,=\,8, 18\%) and persistent opioid use (n\,=\,5, 11\%) with varying definitions. Most studies (96\%) originated from North America, with only 7\% reporting external validation. Model performance was moderate to strong, but calibration was often missing (41\%). Transparent reporting of model development was often incomplete, with key aspects such as calibration, imbalance correction, and handling of missing data absent. Infrequent external validation limited the generalizability of current models. Addressing these aspects is critical for transparency, interpretability, and future implementation of the results.},[m
+[32m+[m[32m  copyright = {2025 The Author(s)},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  keywords = {Epidemiology,Outcomes research},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\T8JP9EME\Ramírez Medina et al. - 2025 - A systematic review of machine learning applications in predicting opioid associated adverse events.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{repsWisdomCROUDDevelopment2020,[m
+[32m+[m[32m  title = {Wisdom of the {{CROUD}}: {{Development}} and Validation of a Patient-Level Prediction Model for Opioid Use Disorder Using Population-Level Claims Data},[m
+[32m+[m[32m  shorttitle = {Wisdom of the {{CROUD}}},[m
+[32m+[m[32m  author = {Reps, Jenna Marie and Cepeda, M. Soledad and Ryan, Patrick B.},[m
+[32m+[m[32m  year = 2020,[m
+[32m+[m[32m  month = feb,[m
+[32m+[m[32m  journal = {PLOS ONE},[m
+[32m+[m[32m  volume = {15},[m
+[32m+[m[32m  number = {2},[m
+[32m+[m[32m  pages = {e0228632},[m
+[32m+[m[32m  publisher = {Public Library of Science},[m
+[32m+[m[32m  issn = {1932-6203},[m
+[32m+[m[32m  doi = {10.1371/journal.pone.0228632},[m
+[32m+[m[32m  url = {https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228632},[m
+[32m+[m[32m  urldate = {2026-03-20},[m
+[32m+[m[32m  abstract = {Objective Some patients who are given opioids for pain could develop opioid use disorder. If it was possible to identify patients who are at a higher risk of opioid use disorder, then clinicians could spend more time educating these patients about the risks. We develop and validate a model to predict a person's future risk of opioid use disorder at the point before being dispensed their first opioid. Methods A cohort study patient-level prediction using four US claims databases with target populations ranging between 343,552 and 384,424 patients. The outcome was recorded diagnosis of opioid abuse, dependency or unspecified drug abuse as a proxy for opioid use disorder from 1 day until 365 days after the first opioid is dispensed. We trained a regularized logistic regression using candidate predictors consisting of demographics and any conditions, drugs, procedures or visits prior to the first opioid. We then selected the top predictors and created a simple 8 variable score model. Results We estimated the percentage of new users of opioids with reported opioid use disorder within a year to range between 0.04\%-0.26\% across US claims data. We developed an 8 variable Calculator of Risk for Opioid Use Disorder (CROUD) score, derived from the prediction models to stratify patients into higher and lower risk groups. The 8 baseline variables were age 15--29, medical history of substance abuse, mood disorder, anxiety disorder, low back pain, renal impairment, painful neuropathy and recent ER visit. 1.8\% of people were in the high risk group for opioid use disorder and had a score {$>$} = 23 with the model obtaining a sensitivity of 13\%, specificity of 98\% and PPV of 1.14\% for predicting opioid use disorder. Conclusions CROUD could be used by clinicians to obtain personalized risk scores. CROUD could be used to further educate those at higher risk and to personalize new opioid dispensing guidelines such as urine testing. Due to the high false positive rate, it should not be used for contraindication or to restrict utilization.},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  keywords = {Anxiety disorders,Cancer risk factors,Drug abuse,Forecasting,Lower back pain,Medical risk factors,Opioids,Substance abuse},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\V7KIDWJE\Reps et al. - 2020 - Wisdom of the CROUD Development and validation of a patient-level prediction model for opioid use d.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@article{sharmaAIDrivenPatientRisk2023,[m
+[32m+[m[32m  title = {{{AI-Driven Patient Risk Stratification Models}} in {{Public Health}}: {{Improving Preventive Care Outcomes}} through {{Predictive Analytics}}},[m
+[32m+[m[32m  shorttitle = {{{AI-Driven Patient Risk Stratification Models}} in {{Public Health}}},[m
+[32m+[m[32m  author = {Sharma, Aadit and Adekunle, Bolaji Iyanu and Ogeawuchi, Jeffrey Chidera and Abayomi, Abraham Ayodeji and Onifade, Omoniyi},[m
+[32m+[m[32m  year = 2023,[m
+[32m+[m[32m  journal = {International Journal of Multidisciplinary Research and Growth Evaluation},[m
+[32m+[m[32m  volume = {4},[m
+[32m+[m[32m  number = {3},[m
+[32m+[m[32m  pages = {1123--1130},[m
+[32m+[m[32m  issn = {25827138},[m
+[32m+[m[32m  doi = {10.54660/.IJMRGE.2023.4.3.1123-1130},[m
+[32m+[m[32m  url = {https://www.allmultidisciplinaryjournal.com/search?q=MGE-2025-3-180&search=search},[m
+[32m+[m[32m  urldate = {2026-03-25},[m
+[32m+[m[32m  abstract = {This paper explores the transformative role of artificial intelligence (AI) in patient risk stratification within public health, emphasizing its potential to improve preventive care outcomes through predictive analytics. AI technologies, particularly machine learning models, enable healthcare systems to predict patient health risks, enhance diagnostic accuracy, and optimize resource allocation. By analyzing vast amounts of patient data, AI can identify high-risk individuals for chronic diseases, mental health conditions, and other health crises, allowing for timely and targeted interventions. Case studies are presented to illustrate AI's effectiveness in early disease detection, mental health risk identification, and large-scale population health management. Furthermore, the integration of AI in healthcare is shown to contribute to cost-effectiveness by reducing hospital readmissions, streamlining workflows, and preventing the progression of preventable diseases. Ethical and regulatory considerations are discussed, addressing concerns such as data privacy, algorithmic bias, and transparency. Future directions for AI in public health, including the integration with emerging technologies and the development of explainable models, are also explored. Finally, policy implications are offered, advocating for frameworks to ensure the ethical use of AI while supporting research and workforce development to maximize AI's impact in improving healthcare outcomes.},[m
+[32m+[m[32m  langid = {english},[m
+[32m+[m[32m  file = {C:\Users\thwamster\Zotero\storage\BBBUW5YL\Sharma et al. - 2023 - AI-Driven Patient Risk Stratification Models in Public Health Improving Preventive Care Outcomes th.pdf}[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@book{stearnsIndustrialRevolutionWorld2021,[m
+[32m+[m[32m  title = {The Industrial Revolution in World History},[m
+[32m+[m[32m  author = {Stearns, Peter N.},[m
+[32m+[m[32m  year = 2021,[m
+[32m+[m[32m  edition = {Fifth edition.},[m
+[32m+[m[32m  publisher = {Routledge,},[m
+[32m+[m[32m  address = {London},[m
+[32m+[m[32m  isbn = {978-1-000-22712-3},[m
+[32m+[m[32m  file = {C:\Users\

@@ -1,0 +1,20 @@
+Amador Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95629,0,,,Not applicable
+95640,0,,,Not applicable
+95642,10.69,1.295,190.757,Rate is unstable interpret with caution
+95665,144.406,3.656,984.073,Rate is unstable interpret with caution
+95666,62.642,10.765,366.405,Rate is unstable interpret with caution
+95669,0,,,Not applicable
+95685,0,,,Not applicable
+95689,36.632,0.927,1133.541,Rate is unstable interpret with caution
+Amador,14.858,9.613,44.083,Rate may be unstable
+California,12.302,11.963,12.652,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

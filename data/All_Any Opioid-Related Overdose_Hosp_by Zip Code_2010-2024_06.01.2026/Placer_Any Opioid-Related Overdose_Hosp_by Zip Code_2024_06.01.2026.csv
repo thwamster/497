@@ -1,0 +1,42 @@
+Placer Hospitalizations - by Zip Code 2024,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,1.918,0.049,59.781,Rate is unstable interpret with caution
+95603,9.544,1.149,39.236,Rate is unstable interpret with caution
+95626,0,,,Not applicable
+95631,0,,,Not applicable
+95648,11.116,4.064,29.024,Rate may be unstable
+95650,0,,,Not applicable
+95658,0,,,Not applicable
+95661,56.069,31.408,93.577,Rate is stable
+95663,0,,,Not applicable
+95668,0,,,Not applicable
+95677,0,,,Not applicable
+95678,23.289,11.018,44.309,Rate may be unstable
+95681,133.592,3.382,1087.549,Rate is unstable interpret with caution
+95701,0,,,Not applicable
+95703,0,,,Not applicable
+95713,12.063,0.305,108.339,Rate is unstable interpret with caution
+95714,0,,,Not applicable
+95715,0,,,Not applicable
+95717,0,,,Not applicable
+95722,7.03,0.178,223.253,Rate is unstable interpret with caution
+95746,2.095,0.053,64.104,Rate is unstable interpret with caution
+95747,1.587,0.191,9.464,Rate is unstable interpret with caution
+95765,3.845,0.466,17.121,Rate is unstable interpret with caution
+96140,0,,,Not applicable
+96141,0,,,Not applicable
+96142,0,,,Not applicable
+96143,0,,,Not applicable
+96145,0,,,Not applicable
+96146,0,,,Not applicable
+96148,0,,,Not applicable
+California,11.461,11.126,11.81,Rate is stable
+Placer,9.38,6.68,12.953,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

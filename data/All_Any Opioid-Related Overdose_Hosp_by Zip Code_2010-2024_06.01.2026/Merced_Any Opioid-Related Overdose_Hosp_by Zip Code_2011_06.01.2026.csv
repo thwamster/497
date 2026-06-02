@@ -1,0 +1,34 @@
+Merced Hospitalizations - by Zip Code 2011,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93610,12.197,3.305,43.546,Rate is unstable interpret with caution
+93620,29.962,6.179,109.368,Rate is unstable interpret with caution
+93622,11.322,0.287,215.789,Rate is unstable interpret with caution
+93635,19.09,6.824,45.843,Rate may be unstable
+95301,21.181,8.474,45.177,Rate may be unstable
+95303,0,,,Not applicable
+95315,13.099,0.332,190.695,Rate is unstable interpret with caution
+95316,0,,,Not applicable
+95317,0,,,Not applicable
+95322,13.158,0.333,93.286,Rate is unstable interpret with caution
+95324,62.718,16.236,208.933,Rate is unstable interpret with caution
+95333,0,,,Not applicable
+95334,0,,,Not applicable
+95340,37.029,18.424,70.387,Rate may be unstable
+95341,43.251,19.377,85.578,Rate may be unstable
+95348,9.785,1.183,41.042,Rate is unstable interpret with caution
+95360,17.686,2.137,142.38,Rate is unstable interpret with caution
+95365,47.263,5.724,342.799,Rate is unstable interpret with caution
+95369,0,,,Not applicable
+95374,0,,,Not applicable
+95380,23.139,10.537,46.718,Rate may be unstable
+95388,39.589,10.749,114.669,Rate is unstable interpret with caution
+California,12.762,12.405,13.127,Rate is stable
+Merced,21.745,16.17,28.828,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

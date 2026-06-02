@@ -1,0 +1,39 @@
+Marin Hospitalizations - by Zip Code 2010,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94901,12.373,4.384,31.161,Rate may be unstable
+94903,13.038,3.733,39.128,Rate may be unstable
+94904,41.42,5.016,149.622,Rate is unstable interpret with caution
+94920,45.211,6.658,172.813,Rate is unstable interpret with caution
+94924,21.415,0.542,489.004,Rate is unstable interpret with caution
+94925,29.31,7.592,128.131,Rate is unstable interpret with caution
+94929,0,,,Not applicable
+94930,30.484,2.461,135.977,Rate is unstable interpret with caution
+94933,0,,,Not applicable
+94937,0,,,Not applicable
+94938,0,,,Not applicable
+94939,0,,,Not applicable
+94940,385.686,9.765,13584.006,Rate is unstable interpret with caution
+94941,5.902,1.209,39.159,Rate is unstable interpret with caution
+94945,0,,,Not applicable
+94946,0,,,Not applicable
+94947,0,,,Not applicable
+94949,0,,,Not applicable
+94952,12.132,4.836,30.089,Rate may be unstable
+94956,0,,,Not applicable
+94960,19.506,3.45,82.52,Rate is unstable interpret with caution
+94963,0,,,Not applicable
+94964,11.241,0.285,6587.946,Rate is unstable interpret with caution
+94965,31.517,3.793,139.321,Rate is unstable interpret with caution
+94970,0,,,Not applicable
+94971,0,,,Not applicable
+94973,0,,,Not applicable
+California,12.692,12.335,13.058,Rate is stable
+Marin,13.218,9.045,19.017,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

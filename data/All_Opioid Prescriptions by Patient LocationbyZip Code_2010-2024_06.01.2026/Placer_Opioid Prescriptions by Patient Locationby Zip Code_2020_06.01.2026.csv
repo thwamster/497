@@ -1,0 +1,43 @@
+Placer  - by Zip Code 2020,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,513,501.891,524.369,Rate is stable
+95603,524.986,517.37,532.724,Rate is stable
+95626,467.569,451.28,484.414,Rate is stable
+95631,699.885,666.952,734.669,Rate is stable
+95648,433.963,428.431,439.563,Rate is stable
+95650,371.02,361.613,380.696,Rate is stable
+95658,415.312,401.146,430.042,Rate is stable
+95661,475.553,468.546,482.655,Rate is stable
+95663,446.318,419.521,475.294,Rate is stable
+95668,612.599,543.218,694.293,Rate is stable
+95677,499.665,491.414,508.046,Rate is stable
+95678,440.351,434.099,446.678,Rate is stable
+95681,486.765,448.131,529.289,Rate is stable
+95701,357.42,314.562,407.562,Rate is stable
+95703,1163.301,1071.392,1271.529,Rate is stable
+95713,465.43,452.813,478.409,Rate is stable
+95714,298.86,249.489,364.102,Rate is stable
+95715,740.291,561.037,966.261,Rate is stable
+95717,1051.801,848.744,1306.964,Rate is stable
+95722,412.433,393.663,432.489,Rate is stable
+95724,29.855,3.616,107.846,Rate is unstable interpret with caution
+95746,318.843,311.827,326.043,Rate is stable
+95747,363.663,359.304,368.073,Rate is stable
+95765,406.938,400.659,413.305,Rate is stable
+96140,161.581,138.162,192.306,Rate is stable
+96141,372.388,210.442,639.602,Rate is stable
+96142,326.437,280.084,380.165,Rate is stable
+96143,254.359,235.864,275.181,Rate is stable
+96145,523.479,479.68,576.295,Rate is stable
+96146,233.516,203.974,268.926,Rate is stable
+96148,466.006,400.642,540.815,Rate is stable
+California,333.302,333.129,333.475,Rate is stable
+Placer,415.738,413.881,417.602,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

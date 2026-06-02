@@ -1,0 +1,36 @@
+Stanislaus Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95230,0,,,Not applicable
+95307,21.981,10.2,42.699,Rate may be unstable
+95313,0,,,Not applicable
+95316,8.557,0.217,115.92,Rate is unstable interpret with caution
+95322,23.69,6.455,82.047,Rate is unstable interpret with caution
+95323,119.75,3.032,705.99,Rate is unstable interpret with caution
+95326,12.844,0.325,79.21,Rate is unstable interpret with caution
+95329,0,,,Not applicable
+95350,41.387,25.853,64.112,Rate is stable
+95351,26.393,13.382,49.537,Rate is stable
+95354,21.742,8.267,52.471,Rate may be unstable
+95355,12.516,4.907,26.774,Rate may be unstable
+95356,13.627,4.163,35.992,Rate may be unstable
+95357,39.716,11.992,104.354,Rate may be unstable
+95358,10.404,2.735,31.289,Rate is unstable interpret with caution
+95360,6.357,0.161,61.557,Rate is unstable interpret with caution
+95361,20.267,8.457,45.821,Rate may be unstable
+95363,2.783,0.07,28.849,Rate is unstable interpret with caution
+95367,8.813,1.036,37.134,Rate is unstable interpret with caution
+95368,19.276,3.681,126.869,Rate is unstable interpret with caution
+95380,16.519,6.402,36.508,Rate may be unstable
+95382,16.458,5.878,37.988,Rate may be unstable
+95385,0,,,Not applicable
+95386,20.683,4.121,94.034,Rate is unstable interpret with caution
+California,12.302,11.963,12.652,Rate is stable
+Stanislaus,17.31,14.012,21.227,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

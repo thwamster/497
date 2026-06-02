@@ -1,0 +1,23 @@
+Sutter ED Visits - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95626,132.574,41.301,323.773,Rate may be unstable
+95645,46.351,1.174,818.571,Rate is unstable interpret with caution
+95659,0,,,Not applicable
+95668,0,,,Not applicable
+95674,0,,,Not applicable
+95692,114.659,40.858,318.49,Rate may be unstable
+95953,80.833,28.286,189.174,Rate may be unstable
+95957,0,,,Not applicable
+95982,188.605,51.389,558.698,Rate may be unstable
+95991,247.694,198.443,306.483,Rate is stable
+95993,90.271,60.323,130.782,Rate is stable
+California,54.877,54.132,55.63,Rate is stable
+Sutter,88.152,69.95,110.005,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

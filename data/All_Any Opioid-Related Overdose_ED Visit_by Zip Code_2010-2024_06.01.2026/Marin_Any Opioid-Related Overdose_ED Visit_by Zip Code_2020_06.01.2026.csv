@@ -1,0 +1,39 @@
+Marin ED Visits - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94901,91.032,63.798,127.422,Rate is stable
+94903,59.148,33.138,101.469,Rate is stable
+94904,3.98,0.101,114.787,Rate is unstable interpret with caution
+94920,148.312,62.497,343.915,Rate may be unstable
+94924,0,,,Not applicable
+94925,16.045,1.901,444.164,Rate is unstable interpret with caution
+94929,0,,,Not applicable
+94930,111.522,43.963,238.824,Rate may be unstable
+94933,0,,,Not applicable
+94937,0,,,Not applicable
+94938,0,,,Not applicable
+94939,9.954,0.252,161.547,Rate is unstable interpret with caution
+94940,0,,,Not applicable
+94941,104.068,57.77,177.242,Rate is stable
+94945,187.482,126.53,275.512,Rate is stable
+94946,0,,,Not applicable
+94947,97.721,57.431,157.228,Rate is stable
+94949,42.861,15.404,102.122,Rate may be unstable
+94952,133.191,94.465,184.421,Rate is stable
+94956,0,,,Not applicable
+94960,94.264,47.169,192.854,Rate may be unstable
+94963,135.488,36.916,2617.464,Rate may be unstable
+94964,122.821,31.982,793.821,Rate is unstable interpret with caution
+94965,91.492,12.498,359.942,Rate is unstable interpret with caution
+94970,0,,,Not applicable
+94971,0,,,Not applicable
+94973,22.443,0.568,9133.911,Rate is unstable interpret with caution
+California,40.945,40.318,41.583,Rate is stable
+Marin,58.852,48.575,70.822,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

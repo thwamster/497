@@ -1,0 +1,43 @@
+Humboldt Hospitalizations - by Zip Code 2010,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95501,60.572,33.954,103.902,Rate is stable
+95503,23.845,9.17,56.007,Rate may be unstable
+95511,0,,,Not applicable
+95514,0,,,Not applicable
+95519,22.924,5.876,66.244,Rate is unstable interpret with caution
+95521,33.308,10.379,87.89,Rate may be unstable
+95524,58.691,1.486,448.343,Rate is unstable interpret with caution
+95525,0,,,Not applicable
+95526,0,,,Not applicable
+95528,64.84,1.642,708.303,Rate is unstable interpret with caution
+95536,0,,,Not applicable
+95540,52.426,21.919,116.153,Rate may be unstable
+95542,0,,,Not applicable
+95546,228.078,80.759,542.405,Rate may be unstable
+95547,0,,,Not applicable
+95549,0,,,Not applicable
+95550,0,,,Not applicable
+95551,131.263,15.31,671.928,Rate is unstable interpret with caution
+95554,0,,,Not applicable
+95555,0,,,Not applicable
+95556,0,,,Not applicable
+95558,0,,,Not applicable
+95560,127.545,15.446,663.1,Rate is unstable interpret with caution
+95562,19.46,0.493,188.142,Rate is unstable interpret with caution
+95563,0,,,Not applicable
+95564,0,,,Not applicable
+95565,0,,,Not applicable
+95569,0,,,Not applicable
+95570,32.5,3.753,269.995,Rate is unstable interpret with caution
+95573,21.673,0.549,501.559,Rate is unstable interpret with caution
+95589,0,,,Not applicable
+California,12.692,12.335,13.058,Rate is stable
+Humboldt,45.123,34.475,58.6,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

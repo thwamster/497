@@ -1,0 +1,25 @@
+Mariposa  - by Zip Code 2023,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93601,1056.302,951.439,1171.774,Rate is stable
+93623,263.749,144.548,458.808,Rate is stable
+93653,401.087,363.064,450.281,Rate is stable
+95306,1787.304,1550.023,2055.49,Rate is stable
+95311,669.537,621.781,732.109,Rate is stable
+95318,58.397,37.994,91.324,Rate is stable
+95321,419.727,394.221,447.054,Rate is stable
+95325,2.607,0.066,14.524,Rate is unstable interpret with caution
+95329,827.742,781.491,876.711,Rate is stable
+95338,403.736,391.685,416.168,Rate is stable
+95345,497.781,429.473,591.433,Rate is stable
+95369,360.954,317.242,414.203,Rate is stable
+95389,144.417,108.16,192.3,Rate is stable
+California,295.981,295.818,296.145,Rate is stable
+Mariposa,397.242,387.511,407.205,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

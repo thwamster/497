@@ -1,0 +1,39 @@
+Marin Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94901,5.753,0.666,22.613,Rate is unstable interpret with caution
+94903,0,,,Not applicable
+94904,0,,,Not applicable
+94920,3.062,0.078,154.806,Rate is unstable interpret with caution
+94924,0,,,Not applicable
+94925,24.508,2.243,452.071,Rate is unstable interpret with caution
+94929,0,,,Not applicable
+94930,75.321,26.731,180.862,Rate may be unstable
+94933,0,,,Not applicable
+94937,0,,,Not applicable
+94938,0,,,Not applicable
+94939,19.574,0.496,177.436,Rate is unstable interpret with caution
+94940,0,,,Not applicable
+94941,18.922,3.542,64.971,Rate is unstable interpret with caution
+94945,0,,,Not applicable
+94946,0,,,Not applicable
+94947,4.822,0.122,32.545,Rate is unstable interpret with caution
+94949,5.904,0.647,46.962,Rate is unstable interpret with caution
+94952,19.143,5.216,49.146,Rate may be unstable
+94956,0,,,Not applicable
+94960,5.364,0.136,80.908,Rate is unstable interpret with caution
+94963,0,,,Not applicable
+94964,25.921,0.656,703.984,Rate is unstable interpret with caution
+94965,11.863,0.3,229.094,Rate is unstable interpret with caution
+94970,0,,,Not applicable
+94971,0,,,Not applicable
+94973,0,,,Not applicable
+California,10.188,9.881,10.501,Rate is stable
+Marin,7.917,4.77,12.842,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

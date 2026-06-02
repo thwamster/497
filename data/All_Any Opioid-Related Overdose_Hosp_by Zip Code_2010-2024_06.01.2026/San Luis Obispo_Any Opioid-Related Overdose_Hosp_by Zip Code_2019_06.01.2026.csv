@@ -1,0 +1,34 @@
+San Luis Obispo Hospitalizations - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93252,34.962,0.885,475.682,Rate is unstable interpret with caution
+93401,9.256,1.88,35.993,Rate is unstable interpret with caution
+93402,0,,,Not applicable
+93405,12.02,2.448,55.987,Rate is unstable interpret with caution
+93420,8.821,1.732,32.98,Rate is unstable interpret with caution
+93422,49.763,27.022,87.798,Rate is stable
+93426,0,,,Not applicable
+93428,16.694,0.423,254.423,Rate is unstable interpret with caution
+93430,0,,,Not applicable
+93432,16.394,0.415,1173.343,Rate is unstable interpret with caution
+93433,44.635,7.243,148.22,Rate is unstable interpret with caution
+93442,63.292,21.449,169.09,Rate may be unstable
+93444,5.352,0.642,37.307,Rate is unstable interpret with caution
+93445,13.512,0.342,114.941,Rate is unstable interpret with caution
+93446,7.249,1.798,22.983,Rate is unstable interpret with caution
+93449,0,,,Not applicable
+93451,14.683,0.372,205.443,Rate is unstable interpret with caution
+93452,0,,,Not applicable
+93453,0,,,Not applicable
+93454,2.247,0.057,17.141,Rate is unstable interpret with caution
+93461,0,,,Not applicable
+93465,13.054,0.331,99.6,Rate is unstable interpret with caution
+California,9.808,9.509,10.114,Rate is stable
+San Luis Obispo,12.465,8.675,17.642,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

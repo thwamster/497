@@ -1,0 +1,30 @@
+Yolo Hospitalizations - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95605,4.235,0.107,57.75,Rate is unstable interpret with caution
+95606,0,,,Not applicable
+95607,0,,,Not applicable
+95612,0,,,Not applicable
+95615,0,,,Not applicable
+95616,4.488,0.543,26.092,Rate is unstable interpret with caution
+95618,29.558,10.752,65.285,Rate may be unstable
+95627,0,,,Not applicable
+95637,0,,,Not applicable
+95645,0,,,Not applicable
+95653,0,,,Not applicable
+95679,0,,,Not applicable
+95691,10.048,3.165,29.213,Rate may be unstable
+95694,8.982,0.227,77.958,Rate is unstable interpret with caution
+95695,13.845,5.482,31.774,Rate may be unstable
+95698,0,,,Not applicable
+95776,8.418,1.007,46.236,Rate is unstable interpret with caution
+95937,0,,,Not applicable
+California,9.808,9.509,10.114,Rate is stable
+Yolo,8.015,4.725,13.082,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

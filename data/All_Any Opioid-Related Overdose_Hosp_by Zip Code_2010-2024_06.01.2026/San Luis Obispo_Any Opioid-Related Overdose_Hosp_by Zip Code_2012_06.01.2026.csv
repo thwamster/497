@@ -1,0 +1,35 @@
+San Luis Obispo Hospitalizations - by Zip Code 2012,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93252,38.295,0.97,915.409,Rate is unstable interpret with caution
+93401,6.722,0.762,34.617,Rate is unstable interpret with caution
+93402,5.827,0.148,52.297,Rate is unstable interpret with caution
+93405,4.82,0.122,58.576,Rate is unstable interpret with caution
+93407,0,,,Not applicable
+93420,12.379,2.91,38.617,Rate is unstable interpret with caution
+93422,13.032,3.15,40.885,Rate is unstable interpret with caution
+93426,0,,,Not applicable
+93428,53.853,7.894,263.204,Rate is unstable interpret with caution
+93430,0,,,Not applicable
+93432,0,,,Not applicable
+93433,32.616,8.852,95.8,Rate is unstable interpret with caution
+93442,20.361,3.822,107.415,Rate is unstable interpret with caution
+93444,8.06,0.204,45.805,Rate is unstable interpret with caution
+93445,20.424,2.473,173.958,Rate is unstable interpret with caution
+93446,18.391,8.085,38.466,Rate may be unstable
+93449,7.396,0.187,150.65,Rate is unstable interpret with caution
+93451,62.546,12.223,335.972,Rate is unstable interpret with caution
+93452,0,,,Not applicable
+93453,0,,,Not applicable
+93454,11.706,3.115,31.844,Rate is unstable interpret with caution
+93461,0,,,Not applicable
+93465,25.009,2.957,103.911,Rate is unstable interpret with caution
+California,12.32,11.975,12.675,Rate is stable
+San Luis Obispo,15.383,11.078,21.11,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

@@ -1,0 +1,30 @@
+Yolo  - by Zip Code 2018,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95605,616.905,603.55,630.519,Rate is stable
+95606,523.044,241.729,1009.696,Rate may be unstable
+95607,303.443,248.36,381.5,Rate is stable
+95612,601.406,554.697,651.767,Rate is stable
+95615,364.372,304.094,435.715,Rate is stable
+95616,348.923,342.539,355.423,Rate is stable
+95618,250.846,244.672,257.149,Rate is stable
+95627,651.455,623.661,680.399,Rate is stable
+95637,244.026,200.37,296.475,Rate is stable
+95645,578.754,528.007,634.18,Rate is stable
+95653,274.995,235.443,321.713,Rate is stable
+95679,108.964,71.957,160.035,Rate is stable
+95691,631.277,623.164,639.481,Rate is stable
+95694,496.62,481.771,511.961,Rate is stable
+95695,564.192,557.182,571.278,Rate is stable
+95698,63.406,46.918,88.822,Rate is stable
+95776,539.247,528.847,549.856,Rate is stable
+95937,592.292,553.043,634.142,Rate is stable
+California,456.9,456.692,457.1,Rate is stable
+Yolo,487.33,484.294,490.382,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.02.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/02/26., https://skylab.cdph.ca.gov/ODdash/,,

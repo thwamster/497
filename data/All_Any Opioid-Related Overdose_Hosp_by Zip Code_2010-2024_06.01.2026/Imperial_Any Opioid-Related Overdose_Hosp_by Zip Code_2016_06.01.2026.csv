@@ -1,0 +1,24 @@
+Imperial Hospitalizations - by Zip Code 2016,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+92227,21.302,6.288,57.303,Rate may be unstable
+92231,8.353,2.11,24.962,Rate is unstable interpret with caution
+92233,56.591,20.383,469.219,Rate may be unstable
+92243,13.01,5.087,29.07,Rate may be unstable
+92249,0,,,Not applicable
+92250,0,,,Not applicable
+92251,25.445,7.944,75.311,Rate may be unstable
+92257,0,,,Not applicable
+92259,0,,,Not applicable
+92274,12.386,1.5,87.277,Rate is unstable interpret with caution
+92281,0,,,Not applicable
+92283,0,,,Not applicable
+California,9.945,9.64,10.255,Rate is stable
+Imperial,15.252,10.028,22.578,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

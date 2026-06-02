@@ -1,0 +1,16 @@
+Del Norte Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95531,19.212,6.087,52.4,Rate may be unstable
+95543,691.932,17.518,3855.197,Rate is unstable interpret with caution
+95548,0,,,Not applicable
+95567,32.952,0.834,983.552,Rate is unstable interpret with caution
+California,12.302,11.963,12.652,Rate is stable
+Del Norte,18.315,10.81,52.5,Rate may be unstable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

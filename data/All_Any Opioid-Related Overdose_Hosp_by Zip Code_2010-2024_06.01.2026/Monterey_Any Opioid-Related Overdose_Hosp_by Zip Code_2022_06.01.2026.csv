@@ -1,0 +1,40 @@
+Monterey Hospitalizations - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93426,0,,,Not applicable
+93450,0,,,Not applicable
+93451,0,,,Not applicable
+93901,16.832,5.971,43.206,Rate may be unstable
+93905,8.538,2.719,29.226,Rate may be unstable
+93906,6.692,1.803,18.851,Rate is unstable interpret with caution
+93907,10.49,1.892,37.659,Rate is unstable interpret with caution
+93908,0,,,Not applicable
+93920,0,,,Not applicable
+93923,1.273,0.032,145.509,Rate is unstable interpret with caution
+93924,0,,,Not applicable
+93925,0,,,Not applicable
+93926,0,,,Not applicable
+93927,0,,,Not applicable
+93930,6.171,0.156,73.342,Rate is unstable interpret with caution
+93932,0,,,Not applicable
+93933,15.256,4.133,43.746,Rate is unstable interpret with caution
+93940,6.382,1.28,30.166,Rate is unstable interpret with caution
+93943,0,,,Not applicable
+93944,0,,,Not applicable
+93950,10.948,0.837,61.495,Rate is unstable interpret with caution
+93953,0,,,Not applicable
+93955,21.701,8.583,46.596,Rate may be unstable
+93960,9.228,1.901,58.63,Rate is unstable interpret with caution
+95004,0,,,Not applicable
+95012,0,,,Not applicable
+95039,0,,,Not applicable
+95076,5.661,1.786,14.139,Rate may be unstable
+California,12.843,12.495,13.2,Rate is stable
+Monterey,8.117,5.685,11.308,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

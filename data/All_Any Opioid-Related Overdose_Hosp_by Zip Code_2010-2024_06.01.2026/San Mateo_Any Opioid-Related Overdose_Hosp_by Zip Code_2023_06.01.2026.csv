@@ -1,0 +1,41 @@
+San Mateo Hospitalizations - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94002,12.181,2.368,47.903,Rate is unstable interpret with caution
+94005,0,,,Not applicable
+94010,4.385,0.523,24.429,Rate is unstable interpret with caution
+94014,13.613,5.349,31.45,Rate may be unstable
+94015,15.706,6.647,33.773,Rate may be unstable
+94019,10.842,0.774,50.633,Rate is unstable interpret with caution
+94020,19.846,0.502,2171.045,Rate is unstable interpret with caution
+94021,0,,,Not applicable
+94025,1.352,0.034,13.909,Rate is unstable interpret with caution
+94027,27.043,2.392,205.218,Rate is unstable interpret with caution
+94028,0,,,Not applicable
+94030,7.702,0.728,35.782,Rate is unstable interpret with caution
+94038,0,,,Not applicable
+94044,10.171,2.6,30.206,Rate is unstable interpret with caution
+94060,0,,,Not applicable
+94061,4.257,0.51,19.202,Rate is unstable interpret with caution
+94062,1.946,0.049,23.062,Rate is unstable interpret with caution
+94063,28.386,13.773,56.262,Rate may be unstable
+94065,15.216,1.558,115.78,Rate is unstable interpret with caution
+94066,7.329,1.443,24.546,Rate is unstable interpret with caution
+94070,9.936,2.018,35.741,Rate is unstable interpret with caution
+94074,0,,,Not applicable
+94080,15.048,6.729,30.136,Rate may be unstable
+94128,0,,,Not applicable
+94303,18.935,9.595,35.481,Rate is stable
+94401,16.773,5.343,42.909,Rate may be unstable
+94402,13.136,2.563,44.052,Rate is unstable interpret with caution
+94403,7.783,1.592,25.823,Rate is unstable interpret with caution
+94404,2.668,0.068,26.672,Rate is unstable interpret with caution
+California,15.35,14.957,15.75,Rate is stable
+San Mateo,10.338,7.93,13.307,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

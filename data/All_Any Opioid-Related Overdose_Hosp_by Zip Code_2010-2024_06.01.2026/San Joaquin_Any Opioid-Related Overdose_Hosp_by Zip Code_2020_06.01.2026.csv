@@ -1,0 +1,47 @@
+San Joaquin Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94513,13.807,6.24,28.412,Rate may be unstable
+94514,0,,,Not applicable
+95202,17.697,2.143,124.844,Rate is unstable interpret with caution
+95203,53.059,22.382,113.958,Rate may be unstable
+95204,13.818,3.455,41.578,Rate is unstable interpret with caution
+95205,19.043,6.663,47.643,Rate may be unstable
+95206,11.064,4.419,26.041,Rate may be unstable
+95207,6.44,1.243,21.456,Rate is unstable interpret with caution
+95209,8.959,2.289,26.009,Rate is unstable interpret with caution
+95210,6.829,1.301,24.297,Rate is unstable interpret with caution
+95211,0,,,Not applicable
+95212,2.297,0.058,28.062,Rate is unstable interpret with caution
+95215,2.72,0.069,22.264,Rate is unstable interpret with caution
+95219,6.901,0.67,31.033,Rate is unstable interpret with caution
+95220,0,,,Not applicable
+95230,0,,,Not applicable
+95231,0,,,Not applicable
+95236,0,,,Not applicable
+95237,0,,,Not applicable
+95240,10.871,3.859,26.551,Rate may be unstable
+95242,5.626,0.649,30.15,Rate is unstable interpret with caution
+95258,0,,,Not applicable
+95304,7.527,0.191,69.019,Rate is unstable interpret with caution
+95320,9.536,1.151,54.602,Rate is unstable interpret with caution
+95330,5.505,0.667,64.32,Rate is unstable interpret with caution
+95336,12.308,4.294,29.065,Rate may be unstable
+95337,0,,,Not applicable
+95361,5.241,0.562,26.065,Rate is unstable interpret with caution
+95366,15.83,1.917,57.84,Rate is unstable interpret with caution
+95376,3.539,0.425,16.46,Rate is unstable interpret with caution
+95377,6.707,0.799,41.508,Rate is unstable interpret with caution
+95385,0,,,Not applicable
+95391,7.216,0.183,136.887,Rate is unstable interpret with caution
+95632,8.676,1.653,28.611,Rate is unstable interpret with caution
+95690,0,,,Not applicable
+California,10.188,9.881,10.501,Rate is stable
+San Joaquin,8.137,6.3,10.408,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

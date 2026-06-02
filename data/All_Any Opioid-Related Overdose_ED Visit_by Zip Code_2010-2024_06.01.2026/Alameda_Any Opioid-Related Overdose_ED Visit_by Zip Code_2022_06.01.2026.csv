@@ -1,0 +1,63 @@
+Alameda ED Visits - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94501,45.919,31.211,67.487,Rate is stable
+94502,18.812,2.253,70.165,Rate is unstable interpret with caution
+94514,36.817,0.932,632.087,Rate is unstable interpret with caution
+94536,11.272,5.086,23.519,Rate may be unstable
+94538,12.312,6.066,24.212,Rate may be unstable
+94539,1.582,0.04,12.662,Rate is unstable interpret with caution
+94541,56.232,39.841,77.945,Rate is stable
+94542,9.714,0.246,61.006,Rate is unstable interpret with caution
+94544,20.539,11.323,34.87,Rate is stable
+94545,32.589,15.409,63.063,Rate may be unstable
+94546,13.653,4.422,33.586,Rate may be unstable
+94550,77.799,53.642,110.12,Rate is stable
+94551,22.953,11.28,44.683,Rate may be unstable
+94552,19.978,2.399,85.049,Rate is unstable interpret with caution
+94555,5.263,0.611,25.657,Rate is unstable interpret with caution
+94560,5.016,0.995,17.893,Rate is unstable interpret with caution
+94566,11.62,2.756,35.005,Rate is unstable interpret with caution
+94568,44.865,30.322,66.948,Rate is stable
+94577,39.012,23.325,63.098,Rate is stable
+94578,78.744,53.188,113.191,Rate is stable
+94579,10.23,1.21,51.57,Rate is unstable interpret with caution
+94580,9.345,1.893,32.081,Rate is unstable interpret with caution
+94586,0,,,Not applicable
+94587,22.44,13.011,37.201,Rate is stable
+94588,10.662,2.878,31.579,Rate is unstable interpret with caution
+94601,83.093,60.671,112.076,Rate is stable
+94602,131.103,91.137,186.069,Rate is stable
+94603,164.744,124.3,216.948,Rate is stable
+94605,128.604,97.183,168.717,Rate is stable
+94606,29.796,15.631,57.396,Rate is stable
+94607,76.034,45.753,128.02,Rate is stable
+94608,67.481,41.053,125.053,Rate is stable
+94609,89.119,51.38,152.696,Rate is stable
+94610,21.382,8.115,61.629,Rate may be unstable
+94611,34.257,18.106,66.081,Rate is stable
+94612,123.697,65.445,240.731,Rate is stable
+94613,2035.787,51.542,11342.68,Rate is unstable interpret with caution
+94618,3.89,0.098,51.575,Rate is unstable interpret with caution
+94619,15.384,3.012,49.261,Rate is unstable interpret with caution
+94621,96.016,63.342,143.075,Rate is stable
+94702,125.362,74.634,201.704,Rate is stable
+94703,35.422,14.541,82.948,Rate may be unstable
+94704,63.698,19.087,177.843,Rate may be unstable
+94705,29.098,5.991,100.426,Rate is unstable interpret with caution
+94706,3.451,0.087,35.375,Rate is unstable interpret with caution
+94707,5.624,0.142,94.499,Rate is unstable interpret with caution
+94708,0,,,Not applicable
+94709,19.685,1.177,157.048,Rate is unstable interpret with caution
+94710,53.327,11.978,313.124,Rate is unstable interpret with caution
+94720,0,,,Not applicable
+95391,19.568,5.208,125.203,Rate is unstable interpret with caution
+Alameda,30.092,27.53,32.852,Rate is stable
+California,54.877,54.132,55.63,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

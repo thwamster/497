@@ -1,0 +1,36 @@
+Stanislaus Hospitalizations - by Zip Code 2013,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95230,0,,,Not applicable
+95307,38.609,21.173,66.615,Rate is stable
+95313,0,,,Not applicable
+95316,7.983,0.202,110.71,Rate is unstable interpret with caution
+95322,25.098,0.635,139.84,Rate is unstable interpret with caution
+95323,0,,,Not applicable
+95326,48.601,11.77,142.074,Rate is unstable interpret with caution
+95329,0,,,Not applicable
+95350,15.209,6.393,32.263,Rate may be unstable
+95351,18.932,7.47,41.392,Rate may be unstable
+95354,44.2,21.575,84.702,Rate may be unstable
+95355,12.476,5.68,25.71,Rate may be unstable
+95356,20.848,8.132,47.786,Rate may be unstable
+95357,15.036,1.764,78.42,Rate is unstable interpret with caution
+95358,13.688,3.668,44.262,Rate is unstable interpret with caution
+95360,26.841,2.709,133.1,Rate is unstable interpret with caution
+95361,21.195,8.286,46.94,Rate may be unstable
+95363,11.854,1.083,50.869,Rate is unstable interpret with caution
+95367,16.393,3.127,53.913,Rate is unstable interpret with caution
+95368,6.574,0.166,229.219,Rate is unstable interpret with caution
+95380,21.39,9.613,43.301,Rate may be unstable
+95382,13.558,4.36,33.98,Rate may be unstable
+95385,0,,,Not applicable
+95386,7.922,0.201,134.373,Rate is unstable interpret with caution
+California,11.955,11.617,12.3,Rate is stable
+Stanislaus,19.188,15.605,23.425,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

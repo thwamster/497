@@ -1,0 +1,98 @@
+San Bernardino Hospitalizations - by Zip Code 2017,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+91701,4.569,0.463,20.325,Rate is unstable interpret with caution
+91708,126.304,24.918,581.967,Rate is unstable interpret with caution
+91709,7.716,2.795,18.745,Rate may be unstable
+91710,10.442,4.637,22.059,Rate may be unstable
+91730,7.154,2.288,20.055,Rate may be unstable
+91737,13.08,2.138,50.72,Rate is unstable interpret with caution
+91739,16.172,2.624,59.839,Rate is unstable interpret with caution
+91759,0,,,Not applicable
+91761,5.395,0.449,29.689,Rate is unstable interpret with caution
+91762,13.32,5.704,29.98,Rate may be unstable
+91763,2.331,0.059,18.906,Rate is unstable interpret with caution
+91764,4.777,0.939,20.446,Rate is unstable interpret with caution
+91765,1.248,0.032,12.85,Rate is unstable interpret with caution
+91784,2.287,0.058,28.591,Rate is unstable interpret with caution
+91786,10.221,3.703,24.924,Rate may be unstable
+92242,0,,,Not applicable
+92252,12.838,1.512,106.266,Rate is unstable interpret with caution
+92256,17.393,0.44,318.187,Rate is unstable interpret with caution
+92267,0,,,Not applicable
+92277,14.462,2.847,56.033,Rate is unstable interpret with caution
+92278,0,,,Not applicable
+92280,0,,,Not applicable
+92284,35.499,14.365,80.826,Rate may be unstable
+92285,0,,,Not applicable
+92301,20.377,7.234,57.518,Rate may be unstable
+92304,0,,,Not applicable
+92305,0,,,Not applicable
+92307,24.354,11.206,49.442,Rate may be unstable
+92308,23.055,10.406,46.961,Rate may be unstable
+92309,0,,,Not applicable
+92310,0,,,Not applicable
+92311,3.403,0.086,23.104,Rate is unstable interpret with caution
+92313,14.944,1.748,66.472,Rate is unstable interpret with caution
+92314,0,,,Not applicable
+92315,0,,,Not applicable
+92316,0,,,Not applicable
+92317,0,,,Not applicable
+92321,0,,,Not applicable
+92322,0,,,Not applicable
+92324,6.91,1.834,20.11,Rate is unstable interpret with caution
+92325,0,,,Not applicable
+92327,0,,,Not applicable
+92332,0,,,Not applicable
+92335,3.921,0.738,13.645,Rate is unstable interpret with caution
+92336,0.992,0.025,12.672,Rate is unstable interpret with caution
+92337,7.29,0.883,49.164,Rate is unstable interpret with caution
+92338,0,,,Not applicable
+92339,0,,,Not applicable
+92342,6.749,0.171,105.117,Rate is unstable interpret with caution
+92344,14.657,2.99,72.157,Rate is unstable interpret with caution
+92345,19.019,10.46,33.058,Rate is stable
+92346,7.596,2.409,19.962,Rate may be unstable
+92347,0,,,Not applicable
+92350,0,,,Not applicable
+92352,0,,,Not applicable
+92354,4.821,0.122,33.898,Rate is unstable interpret with caution
+92356,0,,,Not applicable
+92358,0,,,Not applicable
+92359,0,,,Not applicable
+92363,0,,,Not applicable
+92364,0,,,Not applicable
+92365,0,,,Not applicable
+92368,0,,,Not applicable
+92371,3.836,0.097,45.087,Rate is unstable interpret with caution
+92372,0,,,Not applicable
+92373,9.761,2.468,30.011,Rate is unstable interpret with caution
+92374,4.542,0.445,20.159,Rate is unstable interpret with caution
+92376,0,,,Not applicable
+92377,3.942,0.1,36.09,Rate is unstable interpret with caution
+92382,18.521,2.243,154.189,Rate is unstable interpret with caution
+92385,0,,,Not applicable
+92392,18.103,7.355,40.091,Rate may be unstable
+92394,17.5,6.352,81.089,Rate may be unstable
+92395,16.201,6.291,36.476,Rate may be unstable
+92397,0,,,Not applicable
+92399,6.791,2.145,19.296,Rate may be unstable
+92401,0,,,Not applicable
+92404,25.543,13.38,45.306,Rate is stable
+92405,8.647,0.77,42.677,Rate is unstable interpret with caution
+92407,11.183,4.328,30.431,Rate may be unstable
+92408,11.846,1.33,87.861,Rate is unstable interpret with caution
+92410,21.523,8.33,50.672,Rate may be unstable
+92411,17.429,4.694,47.361,Rate is unstable interpret with caution
+93528,0,,,Not applicable
+93555,38.567,21,67.186,Rate is stable
+93562,42.301,1.071,441.066,Rate is unstable interpret with caution
+California,9.002,8.717,9.295,Rate is stable
+San Bernardino,9.65,8.363,11.102,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

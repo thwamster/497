@@ -1,0 +1,40 @@
+Monterey Hospitalizations - by Zip Code 2010,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93426,0,,,Not applicable
+93450,0,,,Not applicable
+93451,98.955,18.6,321.852,Rate is unstable interpret with caution
+93901,11.623,3.079,35.129,Rate is unstable interpret with caution
+93905,7.511,1.813,29.703,Rate is unstable interpret with caution
+93906,7.621,2.025,21.821,Rate is unstable interpret with caution
+93907,21.726,5.397,60.64,Rate is unstable interpret with caution
+93908,13.998,0.354,80.428,Rate is unstable interpret with caution
+93920,0,,,Not applicable
+93923,0,,,Not applicable
+93924,43.013,3.87,192.046,Rate is unstable interpret with caution
+93925,0,,,Not applicable
+93926,20.048,0.508,136.532,Rate is unstable interpret with caution
+93927,14.357,1.739,76.808,Rate is unstable interpret with caution
+93930,7.466,0.189,63.321,Rate is unstable interpret with caution
+93932,0,,,Not applicable
+93933,12.188,2.453,44.496,Rate is unstable interpret with caution
+93940,17.2,4.947,46.752,Rate may be unstable
+93943,0,,,Not applicable
+93944,0,,,Not applicable
+93950,12.535,2.29,56.917,Rate is unstable interpret with caution
+93953,0,,,Not applicable
+93955,14.557,3.966,40.092,Rate may be unstable
+93960,6.696,0.811,53.265,Rate is unstable interpret with caution
+95004,0,,,Not applicable
+95012,11.095,0.281,106.078,Rate is unstable interpret with caution
+95039,0,,,Not applicable
+95076,11.044,4.982,22.711,Rate may be unstable
+California,12.692,12.335,13.058,Rate is stable
+Monterey,9.99,7.292,13.558,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

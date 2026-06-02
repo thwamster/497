@@ -1,0 +1,54 @@
+Contra Costa Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94505,0,,,Not applicable
+94506,3.213,0.081,56.496,Rate is unstable interpret with caution
+94507,4.513,0.114,87.914,Rate is unstable interpret with caution
+94509,25.296,15.196,40.917,Rate is stable
+94513,13.807,6.24,28.412,Rate may be unstable
+94514,0,,,Not applicable
+94517,28.598,5.713,101.055,Rate is unstable interpret with caution
+94518,12.43,4.021,39.606,Rate may be unstable
+94519,9.393,1.138,44.625,Rate is unstable interpret with caution
+94520,13.3,4.143,39.712,Rate may be unstable
+94521,7.145,1.848,22.453,Rate is unstable interpret with caution
+94523,8.325,1.629,29.847,Rate is unstable interpret with caution
+94525,0,,,Not applicable
+94526,1.626,0.041,42.797,Rate is unstable interpret with caution
+94528,0,,,Not applicable
+94530,2.98,0.075,34.784,Rate is unstable interpret with caution
+94531,0,,,Not applicable
+94547,0,,,Not applicable
+94548,0,,,Not applicable
+94549,10.899,1.927,40.273,Rate is unstable interpret with caution
+94551,3.132,0.378,19.906,Rate is unstable interpret with caution
+94553,5.346,0.991,18.262,Rate is unstable interpret with caution
+94556,0,,,Not applicable
+94561,10.266,2.692,38.313,Rate is unstable interpret with caution
+94563,0,,,Not applicable
+94564,12.487,1.451,56.315,Rate is unstable interpret with caution
+94565,13.363,6.972,24.544,Rate is stable
+94569,0,,,Not applicable
+94572,12.157,0.308,77.179,Rate is unstable interpret with caution
+94582,2.105,0.053,25.473,Rate is unstable interpret with caution
+94583,7.176,0.656,33.708,Rate is unstable interpret with caution
+94595,51.17,19.25,153.808,Rate may be unstable
+94596,0,,,Not applicable
+94597,3.715,0.094,46.831,Rate is unstable interpret with caution
+94598,0,,,Not applicable
+94707,6.529,0.783,74.989,Rate is unstable interpret with caution
+94708,9.232,0.234,87.737,Rate is unstable interpret with caution
+94801,10.489,1.713,37.644,Rate is unstable interpret with caution
+94803,13.804,3.508,43.958,Rate is unstable interpret with caution
+94804,14.558,5.641,33.093,Rate may be unstable
+94805,4.666,0.118,54.525,Rate is unstable interpret with caution
+94806,5.8,1.881,15.475,Rate may be unstable
+California,10.188,9.881,10.501,Rate is stable
+Contra Costa,7.4,5.955,9.127,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

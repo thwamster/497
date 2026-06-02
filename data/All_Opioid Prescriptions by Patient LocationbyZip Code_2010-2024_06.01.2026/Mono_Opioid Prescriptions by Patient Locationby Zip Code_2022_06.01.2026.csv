@@ -1,0 +1,20 @@
+Mono  - by Zip Code 2022,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93512,1127.176,868.353,1467.584,Rate is stable
+93514,345.004,336.102,354.145,Rate is stable
+93517,187.167,109.537,311.975,Rate is stable
+93529,61.442,45.347,84.695,Rate is stable
+93541,153.822,111.149,210.98,Rate is stable
+93546,403.926,363.817,448.404,Rate is stable
+96107,97.09,51.591,172.787,Rate is stable
+96133,1.704,0.043,9.496,Rate is unstable interpret with caution
+California,291.048,290.889,291.206,Rate is stable
+Mono,195.133,187.428,203.194,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

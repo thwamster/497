@@ -1,0 +1,30 @@
+Plumas  - by Zip Code 2023,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95915,0,,,Not applicable
+95923,140.523,77.647,256.012,Rate is stable
+95934,188.313,134.679,261.949,Rate is stable
+95947,341.403,298.472,394.952,Rate is stable
+95956,450.637,367.514,549.71,Rate is stable
+95971,322.522,308.37,337.396,Rate is stable
+95981,144.455,93.093,221.958,Rate is stable
+95983,377.27,309.503,463.173,Rate is stable
+95984,30.733,19.33,51.39,Rate is stable
+96020,499.426,466.368,535.19,Rate is stable
+96103,247.116,214.351,292.594,Rate is stable
+96105,82.687,53.678,123.929,Rate is stable
+96106,466.685,400.331,542.332,Rate is stable
+96114,439.68,396.497,488.379,Rate is stable
+96122,540.423,511.922,570.826,Rate is stable
+96129,55.186,41.188,73.117,Rate is stable
+96135,5.279,1.592,13.969,Rate may be unstable
+96137,382.883,359.707,408.217,Rate is stable
+California,295.981,295.818,296.145,Rate is stable
+Plumas,324.053,315.749,332.591,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

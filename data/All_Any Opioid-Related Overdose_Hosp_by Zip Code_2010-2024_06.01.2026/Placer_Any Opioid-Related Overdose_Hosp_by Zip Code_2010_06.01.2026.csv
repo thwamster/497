@@ -1,0 +1,43 @@
+Placer Hospitalizations - by Zip Code 2010,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,25.776,8.241,75.384,Rate may be unstable
+95603,44.923,24.234,80.609,Rate is stable
+95626,0,,,Not applicable
+95631,56.629,8.742,208.286,Rate is unstable interpret with caution
+95648,2.432,0.286,16.222,Rate is unstable interpret with caution
+95650,19.266,3.891,78.053,Rate is unstable interpret with caution
+95658,8.256,0.209,149.896,Rate is unstable interpret with caution
+95661,11.049,2.881,32.627,Rate is unstable interpret with caution
+95663,0,,,Not applicable
+95668,0,,,Not applicable
+95677,11.359,2.251,38.558,Rate is unstable interpret with caution
+95678,28.465,13.475,54.317,Rate may be unstable
+95681,0,,,Not applicable
+95701,0,,,Not applicable
+95703,0,,,Not applicable
+95713,58.213,15.287,155.167,Rate is unstable interpret with caution
+95714,0,,,Not applicable
+95715,0,,,Not applicable
+95717,0,,,Not applicable
+95722,17.323,0.439,219.891,Rate is unstable interpret with caution
+95724,0,,,Not applicable
+95746,0,,,Not applicable
+95747,12.951,5.135,29.521,Rate may be unstable
+95765,17.206,5.422,43.046,Rate may be unstable
+96140,0,,,Not applicable
+96141,0,,,Not applicable
+96142,0,,,Not applicable
+96143,48.139,1.219,402,Rate is unstable interpret with caution
+96145,19.806,0.501,278.869,Rate is unstable interpret with caution
+96146,0,,,Not applicable
+96148,0,,,Not applicable
+California,12.692,12.335,13.058,Rate is stable
+Placer,17.972,13.863,23.048,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

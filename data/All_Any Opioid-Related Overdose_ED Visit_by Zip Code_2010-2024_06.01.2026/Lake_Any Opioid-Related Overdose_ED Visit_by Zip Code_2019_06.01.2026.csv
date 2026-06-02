@@ -1,0 +1,25 @@
+Lake ED Visits - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95422,105.633,57.911,185.08,Rate is stable
+95423,25.87,2.152,500.761,Rate is unstable interpret with caution
+95443,0,,,Not applicable
+95451,70.413,27.911,159.29,Rate may be unstable
+95453,88.004,30.553,214.328,Rate may be unstable
+95457,0,,,Not applicable
+95458,150.27,49.793,669.578,Rate may be unstable
+95461,0,,,Not applicable
+95464,0,,,Not applicable
+95467,20.45,0.518,155.756,Rate is unstable interpret with caution
+95469,0,,,Not applicable
+95485,37.571,0.951,956.26,Rate is unstable interpret with caution
+95493,0,,,Not applicable
+California,28.782,28.258,29.315,Rate is stable
+Lake,49.403,33.255,72.075,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

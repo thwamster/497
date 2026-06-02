@@ -1,0 +1,62 @@
+Kern  - by Zip Code 2020,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93203,259.091,250.665,267.778,Rate is stable
+93205,963.557,917.315,1013.268,Rate is stable
+93206,409.93,366.703,458.276,Rate is stable
+93215,218.472,214.145,222.874,Rate is stable
+93224,404.728,338.494,489.197,Rate is stable
+93225,821.837,786.374,859.246,Rate is stable
+93226,672.027,493.143,921.705,Rate is stable
+93238,3847.689,3265.07,4519.257,Rate is stable
+93240,826.112,803.326,849.65,Rate is stable
+93241,290.502,278.959,302.554,Rate is stable
+93243,471.903,438.916,511.786,Rate is stable
+93249,207.121,173.939,247.219,Rate is stable
+93250,267.825,255.016,281.287,Rate is stable
+93251,254.344,193.045,357.256,Rate is stable
+93252,280.484,259.956,303.004,Rate is stable
+93255,400.389,363.189,443.885,Rate is stable
+93263,434.02,424.046,444.186,Rate is stable
+93268,407.614,397.689,417.764,Rate is stable
+93276,1085.383,877.151,1344.394,Rate is stable
+93280,258.956,251.49,266.658,Rate is stable
+93283,921.778,865.351,981.449,Rate is stable
+93285,996.473,948.985,1046.514,Rate is stable
+93287,700.724,576.507,895.629,Rate is stable
+93301,970.503,951.135,990.282,Rate is stable
+93304,589.659,582.151,597.255,Rate is stable
+93305,527.912,519.589,536.355,Rate is stable
+93306,528.724,523.221,534.276,Rate is stable
+93307,433.159,428.161,438.209,Rate is stable
+93308,698.321,691.227,705.48,Rate is stable
+93309,655.346,648.649,662.105,Rate is stable
+93311,448.112,441.817,454.486,Rate is stable
+93312,519.016,512.692,525.412,Rate is stable
+93313,458.396,452.056,464.818,Rate is stable
+93314,440.643,432.555,448.87,Rate is stable
+93461,420.782,384.157,464.117,Rate is stable
+93501,603.693,580.561,627.889,Rate is stable
+93505,463.047,451.093,475.342,Rate is stable
+93516,562.032,528.148,598.223,Rate is stable
+93518,686.802,619.594,768.815,Rate is stable
+93519,0,,,Not applicable
+93523,331.591,300.994,367.178,Rate is stable
+93524,36.358,9.062,103.914,Rate is unstable interpret with caution
+93527,1788.781,1671.278,1914.925,Rate is stable
+93528,9.795,3.18,24.38,Rate may be unstable
+93531,511.855,438.472,604.241,Rate is stable
+93536,540.566,535.132,546.047,Rate is stable
+93554,171.524,122.777,242.893,Rate is stable
+93555,468.778,461.604,476.054,Rate is stable
+93560,478.853,466.819,491.374,Rate is stable
+93561,454.086,447.48,460.798,Rate is stable
+California,333.302,333.129,333.475,Rate is stable
+Kern,489.311,487.81,490.816,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

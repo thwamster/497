@@ -1,0 +1,28 @@
+Yuba Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95692,43.065,4.141,204.888,Rate is unstable interpret with caution
+95901,22.277,10.452,46.435,Rate may be unstable
+95903,0,,,Not applicable
+95914,0,,,Not applicable
+95918,45.461,1.151,561.624,Rate is unstable interpret with caution
+95919,34.618,0.876,1227.338,Rate is unstable interpret with caution
+95922,53.848,1.363,2650.866,Rate is unstable interpret with caution
+95925,0,,,Not applicable
+95935,0,,,Not applicable
+95941,0,,,Not applicable
+95960,0,,,Not applicable
+95961,8.577,1.008,38.899,Rate is unstable interpret with caution
+95962,0,,,Not applicable
+95966,228.749,171.268,301.626,Rate is stable
+95977,49.68,1.258,1598.306,Rate is unstable interpret with caution
+95981,0,,,Not applicable
+California,12.302,11.963,12.652,Rate is stable
+Yuba,16.428,9.137,28.558,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

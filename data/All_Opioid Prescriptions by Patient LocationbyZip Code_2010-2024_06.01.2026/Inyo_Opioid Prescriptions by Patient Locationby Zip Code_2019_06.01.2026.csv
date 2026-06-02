@@ -1,0 +1,21 @@
+Inyo  - by Zip Code 2019,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+92328,264.886,198.815,381.14,Rate is stable
+92384,31.012,3.756,119.289,Rate is unstable interpret with caution
+92389,43.883,7.876,165.337,Rate is unstable interpret with caution
+93513,659.742,623.204,699.047,Rate is stable
+93514,411.454,401.517,421.621,Rate is stable
+93526,403.957,355.461,464.887,Rate is stable
+93527,1578.259,1484.191,1678.027,Rate is stable
+93545,740.418,701.082,782.284,Rate is stable
+93555,594.906,586.889,603.019,Rate is stable
+California,400.571,400.379,400.762,Rate is stable
+Inyo,538.145,527.865,548.608,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

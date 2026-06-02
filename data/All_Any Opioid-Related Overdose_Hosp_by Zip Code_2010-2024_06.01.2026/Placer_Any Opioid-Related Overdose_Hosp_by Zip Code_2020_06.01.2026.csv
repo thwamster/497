@@ -1,0 +1,43 @@
+Placer Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,1.762,0.045,51.725,Rate is unstable interpret with caution
+95603,8.393,2.046,34.069,Rate is unstable interpret with caution
+95626,0,,,Not applicable
+95631,0,,,Not applicable
+95648,4.263,0.508,18.536,Rate is unstable interpret with caution
+95650,22.037,2.32,90.122,Rate is unstable interpret with caution
+95658,8.811,0.223,122.887,Rate is unstable interpret with caution
+95661,16.777,6.156,39.688,Rate may be unstable
+95663,0,,,Not applicable
+95668,0,,,Not applicable
+95677,6.167,0.156,34.36,Rate is unstable interpret with caution
+95678,9.685,3.055,25.475,Rate may be unstable
+95681,0,,,Not applicable
+95701,0,,,Not applicable
+95703,0,,,Not applicable
+95713,0,,,Not applicable
+95714,0,,,Not applicable
+95715,0,,,Not applicable
+95717,0,,,Not applicable
+95722,0,,,Not applicable
+95724,0,,,Not applicable
+95746,0,,,Not applicable
+95747,3.055,0.617,12.827,Rate is unstable interpret with caution
+95765,0,,,Not applicable
+96140,0,,,Not applicable
+96141,4273.692,132.112,23132.919,Rate is unstable interpret with caution
+96142,0,,,Not applicable
+96143,0,,,Not applicable
+96145,0,,,Not applicable
+96146,0,,,Not applicable
+96148,0,,,Not applicable
+California,10.188,9.881,10.501,Rate is stable
+Placer,4.76,2.96,7.425,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

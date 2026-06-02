@@ -1,0 +1,37 @@
+Shasta Hospitalizations - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+96001,10.04,3.153,29.767,Rate may be unstable
+96002,21.39,7.964,48.293,Rate may be unstable
+96003,41.678,24.762,68.66,Rate is stable
+96007,16.975,3.609,52.958,Rate is unstable interpret with caution
+96008,0,,,Not applicable
+96013,12.524,0.317,193.802,Rate is unstable interpret with caution
+96016,0,,,Not applicable
+96019,13.689,0.347,85.946,Rate is unstable interpret with caution
+96022,17.779,3.186,75.245,Rate is unstable interpret with caution
+96025,101.598,11.028,585.307,Rate is unstable interpret with caution
+96028,0,,,Not applicable
+96033,251.221,6.36,8723.638,Rate is unstable interpret with caution
+96040,0,,,Not applicable
+96047,0,,,Not applicable
+96051,0,,,Not applicable
+96056,0,,,Not applicable
+96062,35.74,0.905,1866.126,Rate is unstable interpret with caution
+96065,0,,,Not applicable
+96069,0,,,Not applicable
+96071,0,,,Not applicable
+96073,16.042,1.943,498.028,Rate is unstable interpret with caution
+96076,0,,,Not applicable
+96087,0,,,Not applicable
+96088,0,,,Not applicable
+96096,53.401,1.352,4340.679,Rate is unstable interpret with caution
+California,12.843,12.495,13.2,Rate is stable
+Shasta,18.605,12.625,26.758,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

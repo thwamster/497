@@ -1,0 +1,39 @@
+San Francisco ED Visits - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94102,1081.53,971.158,1225.393,Rate is stable
+94103,663.491,579.508,773.608,Rate is stable
+94104,1344.33,234.546,6019.358,Rate is unstable interpret with caution
+94105,34.207,8.834,602.284,Rate is unstable interpret with caution
+94107,62.766,37.482,116.099,Rate is stable
+94108,25.327,5.134,124.388,Rate is unstable interpret with caution
+94109,211.919,173.571,273.24,Rate is stable
+94110,204.324,176.886,239.121,Rate is stable
+94111,79.884,12.662,968.565,Rate is unstable interpret with caution
+94112,77.566,60.771,98.923,Rate is stable
+94114,54.395,25.526,119.38,Rate may be unstable
+94115,57.781,35.651,101.941,Rate is stable
+94116,36.118,20.298,62.482,Rate is stable
+94117,90.182,63.984,135.437,Rate is stable
+94118,30.94,15.684,69.449,Rate is stable
+94121,50.637,32.181,83.441,Rate is stable
+94122,45.126,29.343,69.078,Rate is stable
+94123,10.876,1.644,75.205,Rate is unstable interpret with caution
+94124,179.323,138.161,230.642,Rate is stable
+94127,17.856,5.257,59.407,Rate may be unstable
+94129,29.059,3.379,376.149,Rate is unstable interpret with caution
+94130,129.69,29.255,1510.391,Rate is unstable interpret with caution
+94131,17.109,6.154,53.565,Rate may be unstable
+94132,27.475,11.442,66.438,Rate may be unstable
+94133,38.776,19.71,91.169,Rate is stable
+94134,68.451,45.853,99.913,Rate is stable
+94158,0,,,Not applicable
+California,28.782,28.258,29.315,Rate is stable
+San Francisco,72.493,67.208,78.245,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

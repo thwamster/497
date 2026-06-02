@@ -1,0 +1,33 @@
+Siskiyou Hospitalizations - by Zip Code 2013,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95568,0,,,Not applicable
+96014,0,,,Not applicable
+96023,0,,,Not applicable
+96025,14.358,0.364,497.875,Rate is unstable interpret with caution
+96027,0,,,Not applicable
+96031,0,,,Not applicable
+96032,22.505,0.57,321.056,Rate is unstable interpret with caution
+96034,0,,,Not applicable
+96038,0,,,Not applicable
+96039,0,,,Not applicable
+96044,0,,,Not applicable
+96050,406.434,10.29,11887.43,Rate is unstable interpret with caution
+96057,0,,,Not applicable
+96058,0,,,Not applicable
+96064,0,,,Not applicable
+96067,0,,,Not applicable
+96085,0,,,Not applicable
+96086,0,,,Not applicable
+96094,51.406,5.914,198.601,Rate is unstable interpret with caution
+96097,14.514,1.757,93.306,Rate is unstable interpret with caution
+96134,0,,,Not applicable
+California,11.955,11.617,12.3,Rate is stable
+Siskiyou,14.648,8.57,41.947,Rate may be unstable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

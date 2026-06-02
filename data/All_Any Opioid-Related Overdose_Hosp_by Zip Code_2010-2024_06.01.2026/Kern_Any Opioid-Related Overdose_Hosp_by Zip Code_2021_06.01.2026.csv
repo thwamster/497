@@ -1,0 +1,62 @@
+Kern Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93203,0,,,Not applicable
+93205,0,,,Not applicable
+93206,118.582,3.002,1035.186,Rate is unstable interpret with caution
+93215,12.174,4.332,28.796,Rate may be unstable
+93224,0,,,Not applicable
+93225,8.557,0.217,399.534,Rate is unstable interpret with caution
+93226,0,,,Not applicable
+93238,0,,,Not applicable
+93240,0,,,Not applicable
+93241,0,,,Not applicable
+93243,0,,,Not applicable
+93249,0,,,Not applicable
+93250,0,,,Not applicable
+93251,0,,,Not applicable
+93252,0,,,Not applicable
+93255,0,,,Not applicable
+93263,9.088,1.078,40.841,Rate is unstable interpret with caution
+93268,42.954,18.127,94.556,Rate may be unstable
+93276,0,,,Not applicable
+93280,5.684,0.144,50.712,Rate is unstable interpret with caution
+93283,0,,,Not applicable
+93285,154.83,8.027,766.683,Rate is unstable interpret with caution
+93287,0,,,Not applicable
+93301,56.706,14.91,163.445,Rate is unstable interpret with caution
+93304,34.822,20.211,59.11,Rate is stable
+93305,33.613,17.763,62.391,Rate is stable
+93306,19.757,9.956,35.572,Rate is stable
+93307,17.818,9.844,31.461,Rate is stable
+93308,31.408,17.859,52.54,Rate is stable
+93309,13.821,6.18,28.885,Rate may be unstable
+93311,18.876,7.987,39.377,Rate may be unstable
+93312,15.97,7.466,32.866,Rate may be unstable
+93313,10.457,3.636,27.482,Rate may be unstable
+93314,17.435,5.18,47.687,Rate may be unstable
+93461,0,,,Not applicable
+93501,45.988,8.645,262.145,Rate is unstable interpret with caution
+93505,18.609,3.61,87.471,Rate is unstable interpret with caution
+93516,96.422,2.441,607.213,Rate is unstable interpret with caution
+93518,0,,,Not applicable
+93519,0,,,Not applicable
+93523,0,,,Not applicable
+93524,0,,,Not applicable
+93527,146.914,3.72,1811.671,Rate is unstable interpret with caution
+93528,0,,,Not applicable
+93531,0,,,Not applicable
+93536,18.368,9.914,32.344,Rate is stable
+93554,0,,,Not applicable
+93555,9.026,1.589,30.989,Rate is unstable interpret with caution
+93560,0,,,Not applicable
+93561,9.208,2.961,31.329,Rate may be unstable
+California,12.302,11.963,12.652,Rate is stable
+Kern,14.255,11.905,16.98,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

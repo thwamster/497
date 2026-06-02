@@ -1,0 +1,43 @@
+Humboldt Hospitalizations - by Zip Code 2016,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95501,47.155,23.728,88.806,Rate is stable
+95503,8.441,1.675,32.658,Rate is unstable interpret with caution
+95511,0,,,Not applicable
+95514,0,,,Not applicable
+95519,11.379,2.244,44.253,Rate is unstable interpret with caution
+95521,5.227,0.132,50.577,Rate is unstable interpret with caution
+95524,0,,,Not applicable
+95525,42.842,1.085,1244.044,Rate is unstable interpret with caution
+95526,0,,,Not applicable
+95528,0,,,Not applicable
+95536,22.627,0.573,231.589,Rate is unstable interpret with caution
+95540,16.78,3.447,61.486,Rate is unstable interpret with caution
+95542,0,,,Not applicable
+95546,42.374,1.073,350.494,Rate is unstable interpret with caution
+95547,0,,,Not applicable
+95549,0,,,Not applicable
+95550,0,,,Not applicable
+95551,0,,,Not applicable
+95554,0,,,Not applicable
+95555,0,,,Not applicable
+95556,0,,,Not applicable
+95558,0,,,Not applicable
+95560,0,,,Not applicable
+95562,57.284,9.775,335.163,Rate is unstable interpret with caution
+95563,0,,,Not applicable
+95564,0,,,Not applicable
+95565,0,,,Not applicable
+95569,0,,,Not applicable
+95570,29.839,0.755,424.54,Rate is unstable interpret with caution
+95573,177.245,15.165,2641.919,Rate is unstable interpret with caution
+95589,0,,,Not applicable
+California,9.945,9.64,10.255,Rate is stable
+Humboldt,20.795,14.262,29.945,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

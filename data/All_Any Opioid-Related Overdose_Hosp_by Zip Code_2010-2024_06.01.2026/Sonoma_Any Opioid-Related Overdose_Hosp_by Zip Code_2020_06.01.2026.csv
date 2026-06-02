@@ -1,0 +1,45 @@
+Sonoma Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94515,0,,,Not applicable
+94922,0,,,Not applicable
+94923,0,,,Not applicable
+94928,7.991,2.117,24.146,Rate is unstable interpret with caution
+94931,10.662,0.27,129.552,Rate is unstable interpret with caution
+94951,30.916,3.581,391.679,Rate is unstable interpret with caution
+94952,19.143,5.216,49.146,Rate may be unstable
+94954,21.306,9.578,43.677,Rate may be unstable
+94972,0,,,Not applicable
+95401,12.216,3.815,31.415,Rate may be unstable
+95403,10.925,3.869,26.557,Rate may be unstable
+95404,10.234,3.197,27.593,Rate may be unstable
+95405,11.663,2.925,43.117,Rate is unstable interpret with caution
+95407,22.617,11.516,46.594,Rate is stable
+95409,7.56,0.985,37.802,Rate is unstable interpret with caution
+95412,0,,,Not applicable
+95421,12.871,0.326,739.076,Rate is unstable interpret with caution
+95425,0,,,Not applicable
+95436,0,,,Not applicable
+95439,1033.765,281.666,3054.7,Rate is unstable interpret with caution
+95441,0,,,Not applicable
+95442,0,,,Not applicable
+95444,0,,,Not applicable
+95446,28.398,0.719,300.629,Rate is unstable interpret with caution
+95448,9.863,0.977,52.31,Rate is unstable interpret with caution
+95450,0,,,Not applicable
+95452,0,,,Not applicable
+95462,0,,,Not applicable
+95465,0,,,Not applicable
+95472,2.438,0.062,27.541,Rate is unstable interpret with caution
+95476,2.769,0.313,22.147,Rate is unstable interpret with caution
+95492,6.842,1.41,29.685,Rate is unstable interpret with caution
+95497,0,,,Not applicable
+California,10.188,9.881,10.501,Rate is stable
+Sonoma,10.043,7.548,13.258,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

@@ -1,0 +1,25 @@
+Mariposa Hospitalizations - by Zip Code 2017,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93601,0,,,Not applicable
+93623,0,,,Not applicable
+93653,0,,,Not applicable
+95306,0,,,Not applicable
+95311,11.694,0.296,2985.576,Rate is unstable interpret with caution
+95318,0,,,Not applicable
+95321,11.152,0.282,589.581,Rate is unstable interpret with caution
+95325,0,,,Not applicable
+95329,0,,,Not applicable
+95338,22.047,4.024,92.444,Rate is unstable interpret with caution
+95345,0,,,Not applicable
+95369,63.304,1.603,1244.728,Rate is unstable interpret with caution
+95389,0,,,Not applicable
+California,9.002,8.717,9.295,Rate is stable
+Mariposa,19.9,18.265,91.81,Rate may be unstable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

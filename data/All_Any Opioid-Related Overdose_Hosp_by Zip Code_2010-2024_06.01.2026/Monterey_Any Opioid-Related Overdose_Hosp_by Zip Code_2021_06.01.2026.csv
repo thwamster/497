@@ -1,0 +1,39 @@
+Monterey Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93426,0,,,Not applicable
+93450,0,,,Not applicable
+93451,0,,,Not applicable
+93901,20.957,8.392,48.138,Rate may be unstable
+93905,15.73,6.99,37.104,Rate may be unstable
+93906,2.488,0.287,13.359,Rate is unstable interpret with caution
+93907,41.933,18.618,84.142,Rate may be unstable
+93908,3.161,0.08,93.982,Rate is unstable interpret with caution
+93920,0,,,Not applicable
+93923,0,,,Not applicable
+93924,9.98,0.253,380.226,Rate is unstable interpret with caution
+93925,0,,,Not applicable
+93926,9.259,0.234,107.475,Rate is unstable interpret with caution
+93927,40.376,18.257,164.232,Rate may be unstable
+93930,9.129,0.231,68.156,Rate is unstable interpret with caution
+93932,0,,,Not applicable
+93933,8.639,1.767,32.89,Rate is unstable interpret with caution
+93940,7.468,1.469,33.515,Rate is unstable interpret with caution
+93943,0,,,Not applicable
+93950,0,,,Not applicable
+93953,0,,,Not applicable
+93955,12.082,3.815,33.403,Rate may be unstable
+93960,17.301,5.521,68.147,Rate may be unstable
+95004,79.138,6.409,418.955,Rate is unstable interpret with caution
+95012,11.438,1.254,99.259,Rate is unstable interpret with caution
+95039,0,,,Not applicable
+95076,5.594,1.524,14.584,Rate is unstable interpret with caution
+California,12.302,11.963,12.652,Rate is stable
+Monterey,11.293,8.433,14.885,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

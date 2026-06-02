@@ -1,0 +1,24 @@
+Nevada  - by Zip Code 2020,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,513,501.891,524.369,Rate is stable
+95724,29.855,3.616,107.846,Rate is unstable interpret with caution
+95728,240.764,192.803,299.183,Rate is stable
+95945,581.003,572.075,590.075,Rate is stable
+95946,595.506,576.862,614.824,Rate is stable
+95949,419.682,411.063,428.495,Rate is stable
+95959,388.236,379.307,397.379,Rate is stable
+95960,1461.411,1316.066,1627.915,Rate is stable
+95975,398.47,365.126,435.282,Rate is stable
+95977,864.74,780.722,957.527,Rate is stable
+96111,16.258,1.969,59.005,Rate is unstable interpret with caution
+96161,221.654,213.376,230.285,Rate is stable
+California,333.302,333.129,333.475,Rate is stable
+Nevada,429.984,426.069,433.934,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

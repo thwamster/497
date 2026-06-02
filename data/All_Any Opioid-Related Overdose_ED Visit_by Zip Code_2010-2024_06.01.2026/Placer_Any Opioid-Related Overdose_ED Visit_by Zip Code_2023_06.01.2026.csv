@@ -1,0 +1,43 @@
+Placer ED Visits - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,59.467,24.378,136.466,Rate may be unstable
+95603,161.742,112.689,227.551,Rate is stable
+95626,147.275,58.698,327.841,Rate may be unstable
+95631,29.616,0.75,427.449,Rate is unstable interpret with caution
+95648,67.416,43.004,102.323,Rate is stable
+95650,22.901,2.73,101.022,Rate is unstable interpret with caution
+95658,23.129,0.586,178.529,Rate is unstable interpret with caution
+95661,209.82,160.697,270.517,Rate is stable
+95663,0,,,Not applicable
+95668,0,,,Not applicable
+95677,30.336,12.762,63.585,Rate may be unstable
+95678,92.509,66.059,127.036,Rate is stable
+95681,1167.062,590.987,2346.667,Rate is stable
+95701,0,,,Not applicable
+95703,42.258,8.213,1170.325,Rate is unstable interpret with caution
+95713,27.928,3.326,130.411,Rate is unstable interpret with caution
+95714,0,,,Not applicable
+95715,0,,,Not applicable
+95717,0,,,Not applicable
+95722,82.326,9.483,352.669,Rate is unstable interpret with caution
+95724,0,,,Not applicable
+95746,59.984,24.14,140.557,Rate may be unstable
+95747,42.355,27.905,62.339,Rate is stable
+95765,54.578,33.974,83.852,Rate is stable
+96140,0,,,Not applicable
+96141,0,,,Not applicable
+96142,0,,,Not applicable
+96143,0,,,Not applicable
+96145,0,,,Not applicable
+96146,0,,,Not applicable
+96148,0,,,Not applicable
+California,60.517,59.712,61.33,Rate is stable
+Placer,38.35,32.312,45.275,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

@@ -1,0 +1,22 @@
+Napa Hospitalizations - by Zip Code 2017,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94503,3.427,0.087,45.718,Rate is unstable interpret with caution
+94508,0,,,Not applicable
+94515,7.994,0.202,98.097,Rate is unstable interpret with caution
+94558,16.752,9.338,29.419,Rate is stable
+94559,0,,,Not applicable
+94567,0,,,Not applicable
+94574,5.145,0.13,77.342,Rate is unstable interpret with caution
+94576,0,,,Not applicable
+94599,34.272,0.868,844.543,Rate is unstable interpret with caution
+95476,6.077,1.635,23.454,Rate is unstable interpret with caution
+California,9.002,8.717,9.295,Rate is stable
+Napa,9.98,6.14,16.205,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

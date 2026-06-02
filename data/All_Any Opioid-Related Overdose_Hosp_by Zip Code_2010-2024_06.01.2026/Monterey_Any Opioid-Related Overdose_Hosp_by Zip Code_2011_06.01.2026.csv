@@ -1,0 +1,40 @@
+Monterey Hospitalizations - by Zip Code 2011,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93426,0,,,Not applicable
+93450,0,,,Not applicable
+93451,29.065,0.736,544.094,Rate is unstable interpret with caution
+93901,31.684,12.253,69.747,Rate may be unstable
+93905,1.216,0.031,20.402,Rate is unstable interpret with caution
+93906,11.587,4.188,28.108,Rate may be unstable
+93907,13.852,2.799,47.496,Rate is unstable interpret with caution
+93908,0,,,Not applicable
+93920,0,,,Not applicable
+93923,32.152,2.938,143.694,Rate is unstable interpret with caution
+93924,10.332,0.262,248.112,Rate is unstable interpret with caution
+93925,0,,,Not applicable
+93926,0,,,Not applicable
+93927,29.977,3.929,129.987,Rate is unstable interpret with caution
+93930,6.942,0.176,161.838,Rate is unstable interpret with caution
+93932,0,,,Not applicable
+93933,7.217,0.873,57.186,Rate is unstable interpret with caution
+93940,10.862,2.207,37.917,Rate is unstable interpret with caution
+93943,0,,,Not applicable
+93944,0,,,Not applicable
+93950,35.221,9.457,104.111,Rate is unstable interpret with caution
+93953,0,,,Not applicable
+93955,17.893,5.511,46.436,Rate may be unstable
+93960,11.563,3.08,53.286,Rate is unstable interpret with caution
+95004,0,,,Not applicable
+95012,0,,,Not applicable
+95039,0,,,Not applicable
+95076,13.257,6.277,25.365,Rate may be unstable
+California,12.762,12.405,13.127,Rate is stable
+Monterey,11.448,8.353,15.448,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

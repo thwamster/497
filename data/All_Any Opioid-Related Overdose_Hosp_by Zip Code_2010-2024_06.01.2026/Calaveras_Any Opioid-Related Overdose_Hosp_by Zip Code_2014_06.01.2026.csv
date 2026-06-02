@@ -1,0 +1,26 @@
+Calaveras Hospitalizations - by Zip Code 2014,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95222,11.442,0.29,325.218,Rate is unstable interpret with caution
+95223,0,,,Not applicable
+95228,59.244,7.129,476.026,Rate is unstable interpret with caution
+95230,0,,,Not applicable
+95232,0,,,Not applicable
+95236,0,,,Not applicable
+95245,18.445,0.467,1214.276,Rate is unstable interpret with caution
+95246,18.848,0.477,3048.962,Rate is unstable interpret with caution
+95247,84.594,9.831,409.64,Rate is unstable interpret with caution
+95249,99.194,17.18,351.629,Rate is unstable interpret with caution
+95251,0,,,Not applicable
+95252,47.061,14.443,139.766,Rate may be unstable
+95255,53.884,5.396,2424.038,Rate is unstable interpret with caution
+95257,0,,,Not applicable
+Calaveras,45.263,27.012,74.84,Rate is stable
+California,12.245,11.907,12.595,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

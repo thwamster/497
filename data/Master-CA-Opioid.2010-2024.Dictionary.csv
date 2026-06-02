@@ -1,0 +1,129 @@
+variable_name	variable_source	variable_name_original	variable_title	variable_title_extended	variable_type	value_minimum	value_maximum	value_options
+state	COSD	State	Name of state		string	California	California	California
+county	COSD	County	Name of county		string	Alameda	Yuba	Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo, Yuba
+full_fips	COSD	Full FIPS	5-digit FIPS code		integer	6001	6115	06001, 06003, 06005, 06007, 06009, 06011, 06013, 06015, 06017, 06019, 06021, 06023, 06025, 06027, 06029, 06031, 06033, 06035, 06037, 06039, 06041, 06043, 06045, 06047, 06049, 06051, 06053, 06055, 06057, 06059, 06061, 06063, 06065, 06067, 06069, 06071, 06073, 06075, 06077, 06079, 06081, 06083, 06085, 06087, 06089, 06091, 06093, 06095, 06097, 06099, 06101, 06103, 06105, 06107, 06109, 06111, 06113, 06115
+zip_code	COSD	Zip Code	5-digit USPS ZIP code		integer	90001	96162	
+year	COSD	Year	Year of observation		integer	2010	2024	2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+death_age_adjusted_rate	COSD	Age-Adjusted Rate	Mortality Indicator Definitions - Death Certificates	Drug overdose deaths caused by acute poisonings that involve any opioid as a contributing cause of death, regardless of intent (e.g., unintentional, suicide, assault, or undetermined). Opioids include both prescription opioid pain relievers such as hydrocodone, oxycodone, and morphine, as well as heroin and opium. Deaths related to chronic use of drugs (e.g., damage to organs from long-term drug use), are excluded from this indicator.	float	0	7323.456	
+death_95_lcl	COSD	95% LCL			float	0.011	701.942	
+death_95_ucl	COSD	95% UCL			float	7.546	40803.685	
+death_stability	COSD	Stability			string	not_applicable	unstable	not_applicable, potentially_unstable, stable, unstable
+ed_age_adjusted_rate	COSD	Age-Adjusted Rate	Emergency Department Visits	Emergency department visits or inpatient hospitalizations caused by non-fatal acute poisonings due to the effects of any opioid drugs, regardless of intent (e.g., suicide, unintentional, or undetermined). Emergency department visits or inpatient hospitalizations related to late effects, adverse effects, and chronic poisonings due to the effects of drugs (e.g., damage to organs from long-term drug use), are excluded from this indicator.	float	0	10067.859	
+ed_95_lcl	COSD	95% LCL			float	0.011	2497.277	
+ed_95_ucl	COSD	95% UCL			float	8.898	56094.521	
+ed_stability	COSD	Stability			string	not_applicable	unstable	not_applicable, potentially_unstable, stable, unstable
+hosp_age_adjusted_rate	COSD	Age-Adjusted Rate	Hospitalizations	Emergency department visits or inpatient hospitalizations caused by non-fatal acute poisonings due to the effects of any opioid drugs, regardless of intent (e.g., suicide, unintentional, or undetermined). Emergency department visits or inpatient hospitalizations related to late effects, adverse effects, and chronic poisonings due to the effects of drugs (e.g., damage to organs from long-term drug use), are excluded from this indicator.	float	0	8602.141	
+hosp_95_lcl	COSD	95% LCL			float	0.017	287.144	
+hosp_95_ucl	COSD	95% UCL			float	7.478	47928.065	
+hosp_stability	COSD	Stability			string	not_applicable	unstable	not_applicable, potentially_unstable, stable, unstable
+rx_age_adjusted_rate	COSD	Age-Adjusted Rate	Prescription Drugs	This indicator is limited to schedule II, III, and IV prescription opioids dispensed to patients and entered into CURES, California’s prescription drug monitoring program (PDMP). Drugs not typically used in outpatient settings and drugs not critical for calculating dosages into MMEs (e.g., decongestants, antitussives, and expectorants) are excluded from this indicator. Additionally, medications for opioid use disorder (MOUD) administered by treatment programs to patients with opioid use disorder (OUD) are usually excluded from PDMP files and may not be captured by this indicator.	float	0	8840.978	
+rx_95_lcl	COSD	95% LCL			float	0.006	7652.601	
+rx_95_ucl	COSD	95% UCL			float	7.717	10205.072	
+rx_stability	COSD	Stability			string	not_applicable	unstable	not_applicable, potentially_unstable, stable, unstable
+total_population	ACS	B01003_001E	Estimate!!Total	Total Population	float	0	111165	
+median_age	ACS	B01002_001E	Estimate!!Median age --!!Total:	Median Age by Sex	float	4.1	83.3	
+pop_white_alone	ACS	B02001_002E	Estimate!!Total:!!White alone	Race	float	0	81408	
+pop_black_or_african_american	ACS	B02001_003E	Estimate!!Total:!!Black or African American alone	Race	float	0	32770	
+pop_american_indian_and_alaska_native	ACS	B02001_004E	Estimate!!Total:!!American Indian and Alaska Native alone	Race	float	0	3677	
+pop_asian	ACS	B02001_005E	Estimate!!Total:!!Asian alone	Race	float	0	56708	
+pop_hispanic_or_latino	ACS	B03002_012E	Estimate!!Total:!!Hispanic or Latino:	Hispanic or Latino Origin by Race	float	0	101183	
+median_household_income	ACS	B19013_001E	Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars)	Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)	float	2499	250001	
+income_inequality_gini_index	ACS	B19083_001E	Estimate!!Gini Index	Gini Index of Income Inequality	float	0.0006	0.7804	
+poverty_total_pop_universe	ACS	B17001_001E	Estimate!!Total:	Poverty Status in the Past 12 Months by Sex by Age	float	0	110261	
+poverty_pop_below_poverty_level	ACS	B17001_002E	Estimate!!Total:!!Income in the past 12 months below poverty level:	Poverty Status in the Past 12 Months by Sex by Age	float	0	45200	
+employment_civilian_labor_force	ACS	B23025_003E	Estimate!!Total:!!In labor force:!!Civilian labor force:	Employment Status for the Population 16 Years and Over	float	0	53474	
+employment_unemployed	ACS	B23025_005E	Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed	Employment Status for the Population 16 Years and Over	float	0	7902	
+snap_total_households	ACS	B22003_001E	Estimate!!Total:	Receipt of Food Stamps/SNAP in the Past 12 Months by Poverty Status in the Past 12 Months for Households	float	0	33730	
+snap_households_receiving_snap	ACS	B22003_002E	Estimate!!Total:!!Household received Food Stamps/SNAP in the past 12 months:	Receipt of Food Stamps/SNAP in the Past 12 Months by Poverty Status in the Past 12 Months for Households	float	0	9019	
+public_assistance_total_households	ACS	B19057_001E	Estimate!!Total:	Public Assistance Income in the Past 12 Months for Households	float	0	33730	
+public_assistance_receiving_cash_assistance	ACS	B19057_002E	Estimate!!Total:!!With public assistance income	Public Assistance Income in the Past 12 Months for Households	float	0	3334	
+education_pop_25_universe	ACS	B15003_001E	Estimate!!Total:	Educational Attainment for the Population 25 Years and Over	float	0	69804	
+education_no_schooling_completed	ACS	B15003_002E	Estimate!!Total:!!No schooling completed	Educational Attainment for the Population 25 Years and Over	float	0	6315	
+education_high_school_diploma	ACS	B15003_017E	Estimate!!Total:!!Regular high school diploma	Educational Attainment for the Population 25 Years and Over	float	0	18887	
+education_bachelor_s_degree	ACS	B15003_022E	Estimate!!Total:!!Bachelor's degree	Educational Attainment for the Population 25 Years and Over	float	0	20327	
+housing_total_occupied_units	ACS	B25003_001E	Estimate!!Total:	Tenure	float	0	33730	
+housing_owner_occupied	ACS	B25003_002E	Estimate!!Total:!!Owner occupied	Tenure	float	0	24330	
+housing_renter_occupied	ACS	B25003_003E	Estimate!!Total:!!Renter occupied	Tenure	float	0	28535	
+housing_median_gross_rent	ACS	B25064_001E	Estimate!!Median gross rent	Median Gross Rent (Dollars)	float	99	3501	
+plumbing_total_units	ACS	B25047_001E	Estimate!!Total:	Plumbing Facilities for All Housing Units	float	0	39490	
+plumbing_lacking_complete_plumbing	ACS	B25047_003E	Estimate!!Total:!!Lacking complete plumbing facilities	Plumbing Facilities for All Housing Units	float	0	2180	
+vehicles_total_households	ACS	B08201_001E	Estimate!!Total:	Household Size by Vehicles Available	float	0	33730	
+vehicles_no_vehicle_available	ACS	B08201_002E	Estimate!!Total:!!No vehicle available	Household Size by Vehicles Available	float	0	18806	
+commute_total_workers_16	ACS	B28002_001E	Estimate!!Total:	Presence and Types of Internet Subscriptions in Household	float	0	49495	
+commute_public_transportation	ACS	B28002_013E	Estimate!!Total:!!No Internet access	Presence and Types of Internet Subscriptions in Household	float	0	18354	
+social_foreign_born_population	ACS	B08301_001E	Estimate!!Total:	Means of Transportation to Work	float	0	50964	
+households_total_universe	ACS	B08301_010E	Estimate!!Total:!!Public transportation (excluding taxicab):	Means of Transportation to Work	float	0	33730	
+households_female_single_parent_with_kids	ACS	B05002_013E	Estimate!!Total:!!Foreign-born:	Place of Birth by Nativity and Citizenship Status	float	0	8921	
+households_living_alone	ACS	B11001_001E	Estimate!!Total:	Household Type (Including Living Alone)	float	0	20254	
+internet_total_households	ACS	B11001_006E	Estimate!!Total:!!Family households:!!Other family:!!Female householder, no spouse present	Household Type (Including Living Alone)	float	0	33532	
+internet_no_internet_access	ACS	B11001_008E	Estimate!!Total:!!Nonfamily households:!!Householder living alone	Household Type (Including Living Alone)	float	0	9610	
+health_insurance_total_population	ACS	B27010_001E	Estimate!!Total:	Types of Health Insurance Coverage by Age	float	0	111004	
+health_insurance_under_19_uninsured	ACS	B27010_017E	Estimate!!Total:!!Under 19 years:!!No health insurance coverage	Types of Health Insurance Coverage by Age	float	0	5346	
+health_insurance_19_to_34_uninsured	ACS	B27010_033E	Estimate!!Total:!!19 to 34 years:!!No health insurance coverage	Types of Health Insurance Coverage by Age	float	0	17709	
+health_insurance_35_to_64_uninsured	ACS	B27010_050E	Estimate!!Total:!!35 to 64 years:!!No health insurance coverage	Types of Health Insurance Coverage by Age	float	0	19416	
+zbp_total_establishments	ZBP/CBP	ESTAB			float	1	4751	
+zbp_total_employees	ZBP/CBP	EMP			float	0	174588	
+zbp_annual_payroll_thousands	ZBP/CBP	PAYANN			float	0	33404115	
+irs_total_tax_returns	IRS SOI	N1	Number of returns		float	90	50570	
+irs_total_individuals_count	IRS SOI	N2	Number of individuals		float	160	106270	
+irs_dependents_count	IRS SOI	NUMDEP	Number of dependents		float	0	58770	
+irs_paid_preparer_returns_count	IRS SOI	PREP	Number of returns with paid preparer's signature		float	30	37050	
+irs_single_returns_count	IRS SOI	MARS1	Number of single returns		float	30	26850	
+irs_joint_returns_count	IRS SOI	MARS2	Number of joint returns		float	20	19220	
+irs_head_of_household_returns_count	IRS SOI	MARS4	Number of head of household returns		float	0	12980	
+irs_adjusted_gross_income	IRS SOI	A00100	Adjust gross income (AGI)		float	2863	18452741	
+irs_salaries_wages_returns_count	IRS SOI	N00200	Number of returns with salaries and wages		float	40	43700	
+irs_salaries_wages_dollars	IRS SOI	A00200	Salaries and wages amount		float	1349	7253109	
+irs_taxable_interest_returns_count	IRS SOI	N00300	Number of returns with taxable interest		float	0	21570	
+irs_taxable_interest_dollars	IRS SOI	A00300	Taxable interest amount		float	0	273909	
+irs_business_income_returns_count	IRS SOI	N00900	Number of returns with business or professional net income (less loss)		float	0	10560	
+irs_business_income_dollars	IRS SOI	A00900	Business or professional net income (less loss) amount		float	-124	413472	
+irs_capital_gains_returns_count	IRS SOI	N01000	Number of returns with net capital gain (less loss)		float	0	17300	
+irs_capital_gains_dollars	IRS SOI	A01000	Net capital gain (less loss) amount		float	-54	11642874	
+irs_ira_distributions_returns_count	IRS SOI	N01400	Number of returns with taxable individual retirement arrangements distributions		float	0	6180	
+irs_ira_distributions_dollars	IRS SOI	A01400	Taxable individual retirement arrangements distributions amount		float	0	253976	
+irs_pensions_annuities_returns_count	IRS SOI	N01700	Number of returns with taxable pensions and annuities		float	0	9910	
+irs_pensions_annuities_dollars	IRS SOI	A01700	Taxable pensions and annuities amount		float	0	415210	
+irs_unemployment_returns_count	IRS SOI	N02300	Number of returns with unemployment compensation		float	0	17780	
+irs_unemployment_compensation_dollars	IRS SOI	A02300	Unemployment compensation amount		float	0	288333	
+irs_social_security_benefits_returns_count	IRS SOI	N02500	Number of returns with taxable Social Security benefits		float	0	8630	
+irs_social_security_benefits_dollars	IRS SOI	A02500	Taxable Social Security benefits amount		float	0	181518	
+irs_child_tax_credit_returns_count	IRS SOI	N07180	Number of returns with child and dependent care credit		float	0	2840	
+irs_child_tax_credit_dollars	IRS SOI	A07180	Child and dependent care credit amount		float	0	1563	
+irs_refundable_child_tax_credit_returns_count	IRS SOI	N10960	Number of returns with refundable education credit		float	0	5620	
+irs_refundable_child_tax_credit_dollars	IRS SOI	A10960	Refundable education credit amount		float	0	4609	
+irs_itemized_deductions_returns_count	IRS SOI	N04470	Number of returns with itemized deductions		float	0	18570	
+irs_itemized_deductions_dollars	IRS SOI	A04470	Total itemized deductions amount		float	0	2772431	
+irs_tax_owed_at_filing_returns_count	IRS SOI	N11901	Number of returns with tax due at time of filing		float	0	15300	
+irs_tax_owed_at_filing_dollars	IRS SOI	A11901	Tax due at time of filing amount		float	0	426256	
+irs_refund_returns_count	IRS SOI	N11902	Number of returns with overpayments refunded		float	40	38630	
+irs_refund_dollars	IRS SOI	A11902	Overpayments refunded amount		float	54	393683	
+medicare_tot_prscrbrs	CMS	Tot_Prscrbrs	Part D Prescribers	The number of providers prescribing Medicare Part D drugs.	float	1	2343	
+medicare_tot_opioid_prscrbrs	CMS	Tot_Opioid_Prscrbrs	Part D Opioid Prescribers	The number of Medicare Part D providers prescribing opioid drugs.	float	0	1429	
+medicare_tot_opioid_clms	CMS	Tot_Opioid_Clms	Opioid Claims	The number of Medicare Part D opioid drug claims, including original prescriptions and refills.	float	0	80173	
+medicare_tot_clms	CMS	Tot_Clms	Overall Claims	The number of Medicare Part D drug claims, including original prescriptions and refills.	float	11	1394844	
+medicare_opioid_prscrbng_rate	CMS	Opioid_Prscrbng_Rate	Opioid Prescribing Rate	The number of Opioid Claims divided by the Overall Claims and multiplied by 100.	float	0	77.42	
+medicare_opioid_prscrbng_rate_5y_chg	CMS	Opioid_Prscrbng_Rate_5Y_Chg	Five Year Change in Opioid Prescribing Rate	The percentage point difference in the opioid prescribing rate from five years previous to the data year, which is calculated by subtracting the rate five years previous from the rate in the data year. At each geographic level, the change in the prescribing rate is displayed as an increase, decrease, or no change. At the state level, an increase reflects a percentage point difference of at least 0.10 and a decrease reflects a difference of at least -0.10; at the county and ZIP code-levels, an increase reflects a difference of at least 1.0 and a decrease reflects a difference of at least -1.0.	float	-68.8	71.09	
+medicare_opioid_prscrbng_rate_1y_chg	CMS	Opioid_Prscrbng_Rate_1Y_Chg	One Year Change in Opioid Prescribing Rate	The percentage point difference in the opioid prescribing rate from one year previous to the data year, which is calculated by subtracting the rate one year previous from the rate in the data year. At each geographic level, the change in the prescribing rate is displayed as an increase, decrease, or no change. At the state level, an increase reflects a percentage point difference of at least 0.10 and a decrease reflects a difference of at least -0.10; at the county and ZIP code-levels, an increase reflects a difference of at least 1.0 and a decrease reflects a difference of at least -1.0.	float	-62.17	42.8	
+medicare_la_tot_opioid_clms	CMS	LA_Tot_Opioid_Clms	Long-Acting Opioid Claims	The number of Medicare Part D opioid drug claims that are considered long-acting, including original prescriptions and refills.	float	0	10366	
+medicare_la_opioid_prscrbng_rate	CMS	LA_Opioid_Prscrbng_Rate	Long-Acting Opioid Prescribing Rate	The number of Long-Acting Opioid Claims divided by the Opioid Claims and multiplied by 100.	float	0	44	
+medicare_la_opioid_prscrbng_rate_5y_chg	CMS	LA_Opioid_Prscrbng_Rate_5Y_Chg	Five Year Change in Long-Acting Opioid Prescribing Rate	The percentage point difference in the long-acting opioid prescribing rate from five years previous to the data year, which is calculated by subtracting the rate five years previous from the rate in the data year. At each geographic level, the change in the prescribing rate is displayed as an increase, decrease, or no change. At the state level, an increase reflects a percentage point difference of at least 0.10 and a decrease reflects a difference of at least -0.10; at the county and ZIP code-levels, an increase reflects a difference of at least 1.0 and a decrease reflects a difference of at least -1.0.	float	-46.72	35.91	
+medicare_la_opioid_prscrbng_rate_1y_chg	CMS	LA_Opioid_Prscrbng_Rate_1Y_Chg	One Year Change in Long-Acting Opioid Prescribing Rate	The percentage point difference in the long-acting opioid prescribing rate from one year previous to the data year, which is calculated by subtracting the rate one year previous from the rate in the data year. At each geographic level, the change in the prescribing rate is displayed as an increase, decrease, or no change. At the state level, an increase reflects a percentage point difference of at least 0.10 and a decrease reflects a difference of at least -0.10; at the county and ZIP code-levels, an increase reflects a difference of at least 1.0 and a decrease reflects a difference of at least -1.0.	float	-41.34	32.5	
+zhvi_mid_tier	Zillow				float	26114.7	7982827.11	
+zhvi_bottom_tier	Zillow				float	12530.05	4289268.23	
+zhvi_top_tier	Zillow				float	60181.35	14674966.25	
+zori_rent_index	Zillow				float	855.06	16923.67	
+zhvi_sfr_only	Zillow				float	25869.88	8077204.56	
+zhvi_condo_only	Zillow				float	39851.28	2517552.47	
+zhvi_1_bed	Zillow				float	28282.03	2163726.99	
+zhvi_3_bed	Zillow				float	27053.62	4735755.25	
+zhvi_5plus_bed	Zillow				float	89905.07	11071455.14	
+perc_listings_price_cut	Zillow				float	0.04	0.34	
+med_listings_price_cut_perc	Zillow				float	0.02	0.04	
+med_doz_pending	Zillow				float	5.83	67	
+market_temp_index	Zillow				float	8.75	269.67	
+pct_sold_above_list	Zillow				float	0.07	0.85	
+pct_sold_below_list	Zillow				float	0.1	0.84	
+median_sale_to_list	Zillow				float	0.97	1.06	
+for_sale_inventory	Zillow				float	4.33	940.9	
+new_listings	Zillow				float	5	165	

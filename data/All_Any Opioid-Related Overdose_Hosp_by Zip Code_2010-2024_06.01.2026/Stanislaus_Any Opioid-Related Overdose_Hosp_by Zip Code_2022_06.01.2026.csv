@@ -1,0 +1,36 @@
+Stanislaus Hospitalizations - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95230,0,,,Not applicable
+95307,33.32,19.886,54.938,Rate is stable
+95313,0,,,Not applicable
+95316,0,,,Not applicable
+95322,0,,,Not applicable
+95323,0,,,Not applicable
+95326,3.518,0.089,53.308,Rate is unstable interpret with caution
+95329,0,,,Not applicable
+95350,26.188,14.435,45.388,Rate is stable
+95351,28.108,14.172,54.707,Rate is stable
+95354,39.432,19.542,77.13,Rate may be unstable
+95355,14.331,7.183,27.043,Rate may be unstable
+95356,10.92,2.718,31.942,Rate is unstable interpret with caution
+95357,23.424,4.647,76.565,Rate is unstable interpret with caution
+95358,7.253,0.758,30.789,Rate is unstable interpret with caution
+95360,12.206,0.309,72.619,Rate is unstable interpret with caution
+95361,1.686,0.043,17.97,Rate is unstable interpret with caution
+95363,14.495,2.912,44.9,Rate is unstable interpret with caution
+95367,13.863,2.713,44.033,Rate is unstable interpret with caution
+95368,16.064,1.737,86.994,Rate is unstable interpret with caution
+95380,10.936,3.479,28.639,Rate may be unstable
+95382,3.044,0.077,18.501,Rate is unstable interpret with caution
+95385,0,,,Not applicable
+95386,18.125,2.132,109.363,Rate is unstable interpret with caution
+California,12.843,12.495,13.2,Rate is stable
+Stanislaus,14.5,11.58,18.025,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

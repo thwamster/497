@@ -1,0 +1,35 @@
+San Luis Obispo ED Visits - by Zip Code 2011,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93252,30.563,0.774,442.269,Rate is unstable interpret with caution
+93401,15.427,4.678,46.374,Rate may be unstable
+93402,16.254,3.097,66.741,Rate is unstable interpret with caution
+93405,4.487,0.499,54.088,Rate is unstable interpret with caution
+93407,0,,,Not applicable
+93420,19.864,6.316,51.063,Rate may be unstable
+93422,20.086,7.355,48.248,Rate may be unstable
+93426,0,,,Not applicable
+93428,63.687,7.631,298.864,Rate is unstable interpret with caution
+93430,19.305,0.489,1445.768,Rate is unstable interpret with caution
+93432,0,,,Not applicable
+93433,11.913,0.302,66.376,Rate is unstable interpret with caution
+93442,28.851,3.164,126.621,Rate is unstable interpret with caution
+93444,20.601,5.526,60.359,Rate is unstable interpret with caution
+93445,0,,,Not applicable
+93446,20.552,8.798,42.168,Rate may be unstable
+93449,25.222,0.639,186.69,Rate is unstable interpret with caution
+93451,27.055,0.685,541.682,Rate is unstable interpret with caution
+93452,0,,,Not applicable
+93453,17.958,0.455,558.499,Rate is unstable interpret with caution
+93454,7.178,0.815,27.975,Rate is unstable interpret with caution
+93461,0,,,Not applicable
+93465,99.154,39.375,210.551,Rate may be unstable
+California,16.448,16.042,16.858,Rate is stable
+San Luis Obispo,19.865,15.012,26.163,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

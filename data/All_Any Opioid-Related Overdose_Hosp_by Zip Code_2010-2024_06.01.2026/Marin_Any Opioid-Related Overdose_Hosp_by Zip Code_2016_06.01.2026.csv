@@ -1,0 +1,39 @@
+Marin Hospitalizations - by Zip Code 2016,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94901,7.506,2.01,22.981,Rate is unstable interpret with caution
+94903,10.198,1.583,37.144,Rate is unstable interpret with caution
+94904,30.33,5.089,116.321,Rate is unstable interpret with caution
+94920,3.59,0.091,90.416,Rate is unstable interpret with caution
+94924,0,,,Not applicable
+94925,12.408,0.314,282.931,Rate is unstable interpret with caution
+94929,0,,,Not applicable
+94930,5.667,0.143,121.322,Rate is unstable interpret with caution
+94933,0,,,Not applicable
+94937,0,,,Not applicable
+94938,175.869,4.453,1383.027,Rate is unstable interpret with caution
+94939,0,,,Not applicable
+94940,0,,,Not applicable
+94941,2.49,0.063,32.852,Rate is unstable interpret with caution
+94945,0,,,Not applicable
+94946,0,,,Not applicable
+94947,13.007,1.563,48.149,Rate is unstable interpret with caution
+94949,0,,,Not applicable
+94952,16.59,6.651,39.965,Rate may be unstable
+94956,0,,,Not applicable
+94960,0,,,Not applicable
+94963,0,,,Not applicable
+94964,0,,,Not applicable
+94965,8.68,0.22,127.085,Rate is unstable interpret with caution
+94970,0,,,Not applicable
+94971,689.176,82.822,3388.781,Rate is unstable interpret with caution
+94973,20.965,0.531,2136.723,Rate is unstable interpret with caution
+California,9.945,9.64,10.255,Rate is stable
+Marin,7.99,4.763,12.878,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

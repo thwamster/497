@@ -1,0 +1,43 @@
+Ventura Hospitalizations - by Zip Code 2010,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+90265,4.417,0.112,47.414,Rate is unstable interpret with caution
+91301,18.428,5.45,50.682,Rate may be unstable
+91307,13.269,3.566,42.29,Rate is unstable interpret with caution
+91320,7.621,2.003,22.923,Rate is unstable interpret with caution
+91360,37.789,21.58,63.336,Rate is stable
+91361,11.271,1.065,51.18,Rate is unstable interpret with caution
+91362,19.765,7.095,45.364,Rate may be unstable
+91377,10.896,1.315,67.606,Rate is unstable interpret with caution
+93001,29.686,13.971,57.126,Rate may be unstable
+93003,9.692,3.085,23.985,Rate may be unstable
+93004,12.098,3.195,34.478,Rate is unstable interpret with caution
+93010,12.938,4.575,30.812,Rate may be unstable
+93012,9.216,2.742,26.976,Rate may be unstable
+93015,0,,,Not applicable
+93021,13.786,3.394,41.435,Rate is unstable interpret with caution
+93022,31.925,3.155,137.648,Rate is unstable interpret with caution
+93023,37.184,14.403,83.468,Rate may be unstable
+93030,28.786,15.594,50.407,Rate is stable
+93033,10.646,3.695,24.908,Rate may be unstable
+93035,8.705,1.769,29.618,Rate is unstable interpret with caution
+93036,7.546,1.553,26.371,Rate is unstable interpret with caution
+93041,21.488,6.824,55.133,Rate may be unstable
+93042,0,,,Not applicable
+93043,0,,,Not applicable
+93060,16.008,5.074,39.477,Rate may be unstable
+93063,16.914,7.946,32.982,Rate may be unstable
+93065,15.477,7.916,28.466,Rate is stable
+93066,0,,,Not applicable
+93225,31.896,6.572,150.806,Rate is unstable interpret with caution
+93243,53.027,1.343,540.188,Rate is unstable interpret with caution
+93252,14.8,0.375,449.736,Rate is unstable interpret with caution
+California,12.692,12.335,13.058,Rate is stable
+Ventura,15.88,13.295,18.863,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

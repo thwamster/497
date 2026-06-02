@@ -1,0 +1,23 @@
+Sutter Hospitalizations - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95626,0,,,Not applicable
+95645,0,,,Not applicable
+95659,0,,,Not applicable
+95668,0,,,Not applicable
+95674,0,,,Not applicable
+95692,19.186,0.486,158.435,Rate is unstable interpret with caution
+95953,13.412,1.624,72.489,Rate is unstable interpret with caution
+95957,0,,,Not applicable
+95982,0,,,Not applicable
+95991,32.667,19.029,55.814,Rate is stable
+95993,11.634,3.153,31.539,Rate is unstable interpret with caution
+California,9.808,9.509,10.114,Rate is stable
+Sutter,16.572,9.99,26.837,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

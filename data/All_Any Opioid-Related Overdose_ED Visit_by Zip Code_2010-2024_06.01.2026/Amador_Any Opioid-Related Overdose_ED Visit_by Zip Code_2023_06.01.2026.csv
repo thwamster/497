@@ -1,0 +1,20 @@
+Amador ED Visits - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95629,0,,,Not applicable
+95640,446.475,321.016,615.054,Rate is stable
+95642,92.579,24.372,259.121,Rate is unstable interpret with caution
+95665,27.203,0.689,886.652,Rate is unstable interpret with caution
+95666,43.675,5.249,280.291,Rate is unstable interpret with caution
+95669,42.489,1.076,749.435,Rate is unstable interpret with caution
+95685,66.287,12.134,311.185,Rate is unstable interpret with caution
+95689,0,,,Not applicable
+Amador,102.605,71.38,146.658,Rate is stable
+California,60.517,59.712,61.33,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

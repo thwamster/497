@@ -1,0 +1,24 @@
+Nevada ED Visits - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,234.231,147.157,367.146,Rate is stable
+95724,0,,,Not applicable
+95728,0,,,Not applicable
+95945,269.367,200.441,357.385,Rate is stable
+95946,34.283,4.145,200.936,Rate is unstable interpret with caution
+95949,91.723,50.435,158.571,Rate is stable
+95959,79.164,32.976,161.973,Rate may be unstable
+95960,0,,,Not applicable
+95975,187.111,18.993,854.336,Rate is unstable interpret with caution
+95977,334.962,8.481,2423.464,Rate is unstable interpret with caution
+96111,0,,,Not applicable
+96161,50.846,18.375,129.302,Rate may be unstable
+California,53.818,53.08,54.557,Rate is stable
+Nevada,64.51,47.92,85.81,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

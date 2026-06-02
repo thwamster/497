@@ -1,0 +1,29 @@
+Yuba Hospitalizations - by Zip Code 2014,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95692,65.882,12.685,272.603,Rate is unstable interpret with caution
+95901,21.134,7.5,49.198,Rate may be unstable
+95903,0,,,Not applicable
+95914,0,,,Not applicable
+95918,0,,,Not applicable
+95919,0,,,Not applicable
+95922,0,,,Not applicable
+95925,0,,,Not applicable
+95935,0,,,Not applicable
+95941,114.245,2.892,4932.964,Rate is unstable interpret with caution
+95960,130.916,3.314,1950.998,Rate is unstable interpret with caution
+95961,21.6,6.75,59.84,Rate may be unstable
+95962,0,,,Not applicable
+95966,67.622,42.299,106.54,Rate is stable
+95972,0,,,Not applicable
+95977,0,,,Not applicable
+95981,0,,,Not applicable
+California,12.245,11.907,12.595,Rate is stable
+Yuba,19.907,11.057,34.515,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

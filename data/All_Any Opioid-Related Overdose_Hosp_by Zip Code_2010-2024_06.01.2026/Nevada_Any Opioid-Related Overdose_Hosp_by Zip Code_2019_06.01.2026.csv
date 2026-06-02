@@ -1,0 +1,25 @@
+Nevada Hospitalizations - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95602,17.271,4.794,69.165,Rate may be unstable
+95724,0,,,Not applicable
+95728,0,,,Not applicable
+95945,38.681,18.762,76.34,Rate may be unstable
+95946,31.999,8.719,161.098,Rate may be unstable
+95949,56.231,31.469,104.043,Rate is stable
+95959,36.364,13.015,91.628,Rate may be unstable
+95960,0,,,Not applicable
+95975,17.571,0.445,683.111,Rate is unstable interpret with caution
+95977,0,,,Not applicable
+96111,0,,,Not applicable
+96161,0,,,Not applicable
+96162,0,,,Not applicable
+California,9.808,9.509,10.114,Rate is stable
+Nevada,22.028,13.93,34.242,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

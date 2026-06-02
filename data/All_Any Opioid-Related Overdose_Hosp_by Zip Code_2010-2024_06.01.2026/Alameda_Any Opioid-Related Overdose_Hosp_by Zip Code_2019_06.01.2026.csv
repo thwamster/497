@@ -1,0 +1,63 @@
+Alameda Hospitalizations - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94501,11.234,5.287,24.51,Rate may be unstable
+94502,0,,,Not applicable
+94514,0,,,Not applicable
+94536,0.972,0.025,9.492,Rate is unstable interpret with caution
+94538,4.25,0.85,15.243,Rate is unstable interpret with caution
+94539,2.705,0.068,16.469,Rate is unstable interpret with caution
+94541,17.348,8.781,31.931,Rate is stable
+94542,0,,,Not applicable
+94544,4.727,1.284,14.026,Rate is unstable interpret with caution
+94545,8.096,1.632,29.043,Rate is unstable interpret with caution
+94546,1.672,0.042,16.334,Rate is unstable interpret with caution
+94550,13.973,5.203,32.393,Rate may be unstable
+94551,1.752,0.044,19.587,Rate is unstable interpret with caution
+94552,11.541,0.292,73.227,Rate is unstable interpret with caution
+94555,0,,,Not applicable
+94560,6.034,1.186,19.608,Rate is unstable interpret with caution
+94566,0,,,Not applicable
+94568,8.246,2.613,23.796,Rate may be unstable
+94577,14.273,5.997,30.383,Rate may be unstable
+94578,9.302,2.369,28.292,Rate is unstable interpret with caution
+94579,4.237,0.107,34.549,Rate is unstable interpret with caution
+94580,12.532,4.058,36.293,Rate may be unstable
+94586,0,,,Not applicable
+94587,5.086,1.623,14.075,Rate may be unstable
+94588,5.046,0.602,25.1,Rate is unstable interpret with caution
+94601,10.36,3.789,27.843,Rate may be unstable
+94602,10.67,1.172,42.406,Rate is unstable interpret with caution
+94603,21.845,8.648,50.487,Rate may be unstable
+94605,23.888,12.438,43.721,Rate is stable
+94606,18.874,7.478,44.315,Rate may be unstable
+94607,29.681,12.448,66.914,Rate may be unstable
+94608,7.817,0.666,47.376,Rate is unstable interpret with caution
+94609,19.836,5.182,71.337,Rate is unstable interpret with caution
+94610,0,,,Not applicable
+94611,0,,,Not applicable
+94612,41.458,13.814,157.612,Rate may be unstable
+94613,0,,,Not applicable
+94618,0,,,Not applicable
+94619,13.318,3.613,43.473,Rate is unstable interpret with caution
+94621,83.502,47.295,139.704,Rate is stable
+94702,13.865,1.679,61.848,Rate is unstable interpret with caution
+94703,10.133,1.091,54.462,Rate is unstable interpret with caution
+94704,0,,,Not applicable
+94705,0,,,Not applicable
+94706,0,,,Not applicable
+94707,4.697,0.119,68.611,Rate is unstable interpret with caution
+94708,11.651,1.22,83.123,Rate is unstable interpret with caution
+94709,18.982,0.481,201.716,Rate is unstable interpret with caution
+94710,0,,,Not applicable
+94720,0,,,Not applicable
+95391,8.357,0.212,147.571,Rate is unstable interpret with caution
+Alameda,7.053,5.883,8.415,Rate is stable
+California,9.808,9.509,10.114,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

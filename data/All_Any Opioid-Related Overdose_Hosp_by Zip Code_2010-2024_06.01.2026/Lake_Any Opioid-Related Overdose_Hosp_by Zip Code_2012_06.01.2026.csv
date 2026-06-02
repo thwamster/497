@@ -1,0 +1,25 @@
+Lake Hospitalizations - by Zip Code 2012,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95422,107.117,61.085,182.074,Rate is stable
+95423,75.653,19.809,456.027,Rate is unstable interpret with caution
+95443,0,,,Not applicable
+95451,38.963,11.292,106.032,Rate may be unstable
+95453,24.662,6.531,91.823,Rate is unstable interpret with caution
+95457,29.909,3.622,309.191,Rate is unstable interpret with caution
+95458,131.491,6.589,655.461,Rate is unstable interpret with caution
+95461,29.252,3.306,425.234,Rate is unstable interpret with caution
+95464,36.98,3.567,1064.388,Rate is unstable interpret with caution
+95467,29.591,3.111,224.72,Rate is unstable interpret with caution
+95469,0,,,Not applicable
+95485,98.092,18.397,558.232,Rate is unstable interpret with caution
+95493,0,,,Not applicable
+California,12.32,11.975,12.675,Rate is stable
+Lake,58.13,42.032,80.425,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

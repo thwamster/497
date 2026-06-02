@@ -1,0 +1,39 @@
+San Francisco ED Visits - by Zip Code 2013,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94102,104.007,72.918,190.772,Rate is stable
+94103,234.754,181.494,319.515,Rate is stable
+94104,0,,,Not applicable
+94105,42.273,6.4,630.726,Rate is unstable interpret with caution
+94107,25.984,7.62,91.169,Rate may be unstable
+94108,0,,,Not applicable
+94109,48.459,31.607,91.097,Rate is stable
+94110,21.725,12.303,38.938,Rate is stable
+94111,30.017,0.76,724.463,Rate is unstable interpret with caution
+94112,10.58,4.634,21.957,Rate may be unstable
+94114,12.747,2.678,54.191,Rate is unstable interpret with caution
+94115,11.05,2.752,45.681,Rate is unstable interpret with caution
+94116,13.864,4.495,36.066,Rate may be unstable
+94117,17.732,7.28,70.58,Rate may be unstable
+94118,7.586,1.388,30.24,Rate is unstable interpret with caution
+94121,2.411,0.061,22.999,Rate is unstable interpret with caution
+94122,9.708,3.095,26.524,Rate may be unstable
+94123,7.854,0.949,97.042,Rate is unstable interpret with caution
+94124,53.113,31.112,86.517,Rate is stable
+94127,8.885,0.985,52.108,Rate is unstable interpret with caution
+94129,0,,,Not applicable
+94130,0,,,Not applicable
+94131,6.433,0.775,44.983,Rate is unstable interpret with caution
+94132,13.229,3.921,42.27,Rate may be unstable
+94133,25.233,10.386,69.161,Rate may be unstable
+94134,9.093,2.325,27.093,Rate is unstable interpret with caution
+94158,0,,,Not applicable
+California,17.56,17.15,17.983,Rate is stable
+San Francisco,25.82,22.583,29.58,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

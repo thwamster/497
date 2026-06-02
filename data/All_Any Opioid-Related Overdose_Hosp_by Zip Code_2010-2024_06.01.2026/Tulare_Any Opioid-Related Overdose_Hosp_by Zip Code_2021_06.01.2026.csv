@@ -1,0 +1,44 @@
+Tulare Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93207,0,,,Not applicable
+93212,17.874,6.398,48.024,Rate may be unstable
+93215,12.174,4.332,28.796,Rate may be unstable
+93219,0,,,Not applicable
+93221,30.304,7.782,86.164,Rate is unstable interpret with caution
+93223,35.54,9.199,121.438,Rate is unstable interpret with caution
+93235,48.97,3.475,341.823,Rate is unstable interpret with caution
+93244,0,,,Not applicable
+93247,11.131,2.167,51.469,Rate is unstable interpret with caution
+93256,0,,,Not applicable
+93257,13.441,6.521,25.543,Rate may be unstable
+93260,0,,,Not applicable
+93262,0,,,Not applicable
+93265,82.213,3.444,932.79,Rate is unstable interpret with caution
+93267,19.697,0.499,116.032,Rate is unstable interpret with caution
+93270,0,,,Not applicable
+93271,0,,,Not applicable
+93272,10.082,0.255,563.761,Rate is unstable interpret with caution
+93274,12.166,4.993,25.661,Rate may be unstable
+93277,17.244,7.982,34.497,Rate may be unstable
+93286,22.731,2.069,107.785,Rate is unstable interpret with caution
+93291,11.067,4.207,30.056,Rate may be unstable
+93292,16.321,5.906,38.622,Rate may be unstable
+93527,146.914,3.72,1811.671,Rate is unstable interpret with caution
+93603,0,,,Not applicable
+93615,18.247,0.462,157.795,Rate is unstable interpret with caution
+93618,8.311,1.003,35.449,Rate is unstable interpret with caution
+93631,4.474,0.113,49.191,Rate is unstable interpret with caution
+93633,0,,,Not applicable
+93646,0,,,Not applicable
+93647,10.902,0.276,107.458,Rate is unstable interpret with caution
+93654,4.682,0.119,26.086,Rate is unstable interpret with caution
+California,12.302,11.963,12.652,Rate is stable
+Tulare,13.765,10.592,17.67,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

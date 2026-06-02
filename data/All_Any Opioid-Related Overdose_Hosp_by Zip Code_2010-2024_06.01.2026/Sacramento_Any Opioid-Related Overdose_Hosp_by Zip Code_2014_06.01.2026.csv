@@ -1,0 +1,67 @@
+Sacramento Hospitalizations - by Zip Code 2014,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94571,35.3,0.894,196.679,Rate is unstable interpret with caution
+95608,16.647,8.603,31.25,Rate is stable
+95610,29.299,15.631,52.879,Rate is stable
+95615,0,,,Not applicable
+95621,23.802,11.658,44.992,Rate may be unstable
+95624,12.337,5.57,26.57,Rate may be unstable
+95626,0,,,Not applicable
+95628,31.237,16.373,57.884,Rate is stable
+95630,16.059,8.228,29.739,Rate is stable
+95632,11.202,2.292,35.091,Rate is unstable interpret with caution
+95638,73.397,1.858,1485.035,Rate is unstable interpret with caution
+95641,0,,,Not applicable
+95652,0,,,Not applicable
+95655,0,,,Not applicable
+95660,46.487,26.806,78.72,Rate is stable
+95662,11.148,2.819,32.373,Rate is unstable interpret with caution
+95670,17.837,8.033,34.935,Rate may be unstable
+95673,30.975,9.748,85.389,Rate may be unstable
+95678,19.639,8.949,40.466,Rate may be unstable
+95683,41.186,7.606,194.324,Rate is unstable interpret with caution
+95690,80.485,9.74,1247.581,Rate is unstable interpret with caution
+95693,0,,,Not applicable
+95742,15.362,0.389,683.277,Rate is unstable interpret with caution
+95757,5.969,1.227,31.967,Rate is unstable interpret with caution
+95758,7.96,2.558,22.746,Rate may be unstable
+95811,39.889,8.019,204.232,Rate is unstable interpret with caution
+95814,73.696,28.95,236.193,Rate may be unstable
+95815,58.786,29.937,106.496,Rate is stable
+95816,49.027,22.686,139.066,Rate may be unstable
+95817,42.272,14.925,113.073,Rate may be unstable
+95818,2.752,0.07,34.41,Rate is unstable interpret with caution
+95819,5.377,0.136,43.265,Rate is unstable interpret with caution
+95820,47.559,26.175,81.522,Rate is stable
+95821,33.225,17.806,59.787,Rate is stable
+95822,29.26,15.581,51.346,Rate is stable
+95823,28.093,16.752,45.109,Rate is stable
+95824,33.831,15.137,68.392,Rate may be unstable
+95825,17.196,5.125,47.681,Rate may be unstable
+95826,13.027,4.576,32.719,Rate may be unstable
+95827,38.825,17.533,79.19,Rate may be unstable
+95828,8.527,2.643,21.92,Rate may be unstable
+95829,11.091,2.243,48.514,Rate is unstable interpret with caution
+95830,0,,,Not applicable
+95831,11.661,4.146,29.752,Rate may be unstable
+95832,61.81,8.866,256.531,Rate is unstable interpret with caution
+95833,2.018,0.051,30.011,Rate is unstable interpret with caution
+95834,7.359,0.186,56.374,Rate is unstable interpret with caution
+95835,5.797,0.691,28.842,Rate is unstable interpret with caution
+95836,0,,,Not applicable
+95837,0,,,Not applicable
+95838,22.949,8.738,52.452,Rate may be unstable
+95841,46.279,19.625,93.774,Rate may be unstable
+95842,43.99,20.344,89.196,Rate may be unstable
+95843,13.644,5.429,36.535,Rate may be unstable
+95864,32.251,10.982,78.699,Rate may be unstable
+California,12.245,11.907,12.595,Rate is stable
+Sacramento,20.532,18.337,22.94,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

@@ -1,0 +1,74 @@
+Santa Clara Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94022,0,,,Not applicable
+94024,0,,,Not applicable
+94040,5.64,0.641,25.591,Rate is unstable interpret with caution
+94041,0,,,Not applicable
+94043,3.665,0.093,30.357,Rate is unstable interpret with caution
+94085,0,,,Not applicable
+94086,3.862,0.741,22.103,Rate is unstable interpret with caution
+94087,5.08,0.455,21.95,Rate is unstable interpret with caution
+94089,5.806,0.703,43.334,Rate is unstable interpret with caution
+94301,2.053,0.052,55.868,Rate is unstable interpret with caution
+94303,5.287,1.055,18.658,Rate is unstable interpret with caution
+94304,0,,,Not applicable
+94305,0,,,Not applicable
+94306,2.684,0.068,24.043,Rate is unstable interpret with caution
+94550,0,,,Not applicable
+95002,0,,,Not applicable
+95008,7.516,1.383,25.124,Rate is unstable interpret with caution
+95013,0,,,Not applicable
+95014,6.381,0.989,23.444,Rate is unstable interpret with caution
+95020,11.338,4.724,24.077,Rate may be unstable
+95023,9.852,3.539,23.072,Rate may be unstable
+95030,4.4,0.111,89.876,Rate is unstable interpret with caution
+95032,0,,,Not applicable
+95033,23.334,4.738,118.852,Rate is unstable interpret with caution
+95035,0.961,0.024,8.826,Rate is unstable interpret with caution
+95037,7.947,2.492,21.703,Rate may be unstable
+95046,0,,,Not applicable
+95050,2.534,0.064,20.738,Rate is unstable interpret with caution
+95051,3.413,0.38,15.074,Rate is unstable interpret with caution
+95053,0,,,Not applicable
+95054,3.317,0.084,34.27,Rate is unstable interpret with caution
+95070,9.431,3.055,44.67,Rate may be unstable
+95076,5.594,1.524,14.584,Rate is unstable interpret with caution
+95110,13.409,2.526,108.043,Rate is unstable interpret with caution
+95111,2.578,0.312,14.964,Rate is unstable interpret with caution
+95112,17.5,8.857,33.493,Rate is stable
+95113,15.694,0.397,3150.397,Rate is unstable interpret with caution
+95116,11.689,4.653,25.569,Rate may be unstable
+95117,11.495,3.106,39.032,Rate is unstable interpret with caution
+95118,4.447,0.539,27.479,Rate is unstable interpret with caution
+95119,8.853,0.224,67.448,Rate is unstable interpret with caution
+95120,8.208,0.918,41.35,Rate is unstable interpret with caution
+95121,4.639,0.534,21.707,Rate is unstable interpret with caution
+95122,14.125,5.476,30.503,Rate may be unstable
+95123,6.548,1.72,17.992,Rate is unstable interpret with caution
+95124,2.575,0.309,16.741,Rate is unstable interpret with caution
+95125,3.177,0.323,16.605,Rate is unstable interpret with caution
+95126,11.456,3.698,32.671,Rate may be unstable
+95127,0,,,Not applicable
+95128,16.262,5.56,40.528,Rate may be unstable
+95129,3.266,0.083,20.792,Rate is unstable interpret with caution
+95130,16.124,1.953,80.589,Rate is unstable interpret with caution
+95131,0,,,Not applicable
+95132,3.072,0.078,17.95,Rate is unstable interpret with caution
+95133,4.109,0.104,25.692,Rate is unstable interpret with caution
+95134,20.301,5.531,113.394,Rate is unstable interpret with caution
+95135,6.744,0.722,50.662,Rate is unstable interpret with caution
+95136,1.462,0.037,13.788,Rate is unstable interpret with caution
+95138,0,,,Not applicable
+95139,9.199,0.233,111.808,Rate is unstable interpret with caution
+95140,0,,,Not applicable
+95148,3.909,0.452,18.588,Rate is unstable interpret with caution
+California,12.302,11.963,12.652,Rate is stable
+Santa Clara,5.192,4.248,6.308,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

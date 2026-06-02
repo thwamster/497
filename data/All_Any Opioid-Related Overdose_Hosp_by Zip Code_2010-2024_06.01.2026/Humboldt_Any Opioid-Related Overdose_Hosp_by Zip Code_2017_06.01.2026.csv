@@ -1,0 +1,43 @@
+Humboldt Hospitalizations - by Zip Code 2017,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95501,57.41,29.397,105.765,Rate is stable
+95503,10.945,2.081,37.672,Rate is unstable interpret with caution
+95511,0,,,Not applicable
+95514,0,,,Not applicable
+95519,11.487,1.386,46.216,Rate is unstable interpret with caution
+95521,1.306,0.033,69.404,Rate is unstable interpret with caution
+95524,57.309,1.451,801.452,Rate is unstable interpret with caution
+95525,0,,,Not applicable
+95526,0,,,Not applicable
+95528,0,,,Not applicable
+95536,0,,,Not applicable
+95540,5.095,0.129,44.507,Rate is unstable interpret with caution
+95542,0,,,Not applicable
+95546,46.538,4.801,309.697,Rate is unstable interpret with caution
+95547,0,,,Not applicable
+95549,0,,,Not applicable
+95550,0,,,Not applicable
+95551,0,,,Not applicable
+95554,0,,,Not applicable
+95555,0,,,Not applicable
+95556,0,,,Not applicable
+95558,0,,,Not applicable
+95560,19.612,0.497,1374.426,Rate is unstable interpret with caution
+95562,65.923,12.592,430.221,Rate is unstable interpret with caution
+95563,51.14,1.295,4520.403,Rate is unstable interpret with caution
+95564,0,,,Not applicable
+95565,0,,,Not applicable
+95569,0,,,Not applicable
+95570,0,,,Not applicable
+95573,0,,,Not applicable
+95589,0,,,Not applicable
+California,9.002,8.717,9.295,Rate is stable
+Humboldt,19.96,13.562,28.96,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

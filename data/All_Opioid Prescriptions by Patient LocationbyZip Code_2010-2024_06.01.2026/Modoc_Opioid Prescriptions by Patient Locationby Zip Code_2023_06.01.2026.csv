@@ -1,0 +1,22 @@
+Modoc  - by Zip Code 2023,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+96006,283.192,205.886,439.107,Rate is stable
+96015,42.824,30.09,167.679,Rate is stable
+96054,341.542,238.728,505.789,Rate is stable
+96056,459.348,400.302,531.238,Rate is stable
+96101,255.168,240.961,270.292,Rate is stable
+96104,567.003,475.236,690.078,Rate is stable
+96108,46.448,31.282,70.115,Rate is stable
+96112,2948.994,2556.8,3410.855,Rate is stable
+96115,39.204,19.197,168.172,Rate may be unstable
+96116,13.419,8.395,21.138,Rate is stable
+California,295.981,295.818,296.145,Rate is stable
+Modoc,322.751,310.115,336.1,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

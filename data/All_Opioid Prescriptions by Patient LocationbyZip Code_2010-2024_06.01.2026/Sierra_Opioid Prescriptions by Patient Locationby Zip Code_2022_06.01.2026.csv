@@ -1,0 +1,21 @@
+Sierra  - by Zip Code 2022,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95910,2.137,0.441,8.82,Rate is unstable interpret with caution
+95922,678.586,610.84,756.583,Rate is stable
+95936,171.937,141.734,211.103,Rate is stable
+95944,27.591,17.21,42.048,Rate is stable
+95960,1692.27,1514.485,1887.555,Rate is stable
+96118,182.504,159.565,212.402,Rate is stable
+96124,242.493,190.83,308.095,Rate is stable
+96125,67.97,45.57,103.916,Rate is stable
+96126,241.728,120.335,547.885,Rate may be unstable
+California,291.048,290.889,291.206,Rate is stable
+Sierra,206.537,190.823,223.634,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

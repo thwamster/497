@@ -1,0 +1,101 @@
+Orange ED Visits - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+90620,45.359,27.391,72.316,Rate is stable
+90621,47.052,27.001,77.669,Rate is stable
+90623,70.327,30.841,143.049,Rate may be unstable
+90630,31.737,16.99,55.428,Rate is stable
+90631,82.714,61.391,109.298,Rate is stable
+90680,142.653,103.42,193.317,Rate is stable
+90716,39.576,14.426,92.612,Rate may be unstable
+90720,25.425,7.296,68.225,Rate may be unstable
+90740,31.994,10.01,95.668,Rate may be unstable
+90742,365.611,9.256,3882.379,Rate is unstable interpret with caution
+90743,0,,,Not applicable
+92530,153.111,120.677,192.198,Rate is stable
+92602,22.487,6.588,123.079,Rate may be unstable
+92603,0,,,Not applicable
+92604,25.922,10.147,56.88,Rate may be unstable
+92606,21.962,8.326,51.533,Rate may be unstable
+92610,27.874,9.935,126.63,Rate may be unstable
+92612,79.833,50.308,128.128,Rate is stable
+92614,22.936,8.191,59.652,Rate may be unstable
+92617,0,,,Not applicable
+92618,18.028,8.312,40.763,Rate may be unstable
+92620,5.96,1.229,20.767,Rate is unstable interpret with caution
+92624,496.642,254.814,935.348,Rate is stable
+92625,0,,,Not applicable
+92626,98.923,74.524,130.359,Rate is stable
+92627,70.477,52.332,94.153,Rate is stable
+92629,73.215,41.926,122.845,Rate is stable
+92630,85.51,62.932,114.09,Rate is stable
+92637,1.959,0.209,3205.391,Rate is unstable interpret with caution
+92646,136.356,104.302,176.328,Rate is stable
+92647,124.248,98.095,156.119,Rate is stable
+92648,194.787,154.304,244.158,Rate is stable
+92649,81.237,52.78,121.57,Rate is stable
+92651,70.374,34.749,136.652,Rate may be unstable
+92653,35.529,17.333,67.827,Rate may be unstable
+92655,44.786,9.058,145.661,Rate is unstable interpret with caution
+92656,33.672,19.164,56.316,Rate is stable
+92657,35.042,3.34,178.025,Rate is unstable interpret with caution
+92660,36.227,17.989,68.033,Rate may be unstable
+92661,135.088,24.895,617.647,Rate is unstable interpret with caution
+92662,0,,,Not applicable
+92663,287.265,214.296,388.051,Rate is stable
+92672,72.328,44.039,114.319,Rate is stable
+92673,50.625,26.729,90.741,Rate is stable
+92675,70.846,44.434,108.755,Rate is stable
+92676,0,,,Not applicable
+92677,73.774,52.137,102.36,Rate is stable
+92679,6.704,0.811,32.53,Rate is unstable interpret with caution
+92683,66.731,50.188,87.393,Rate is stable
+92688,28.396,14.442,55.897,Rate is stable
+92691,34.095,19.321,56.61,Rate is stable
+92692,53.802,32.188,85.272,Rate is stable
+92694,47.455,20.318,111.401,Rate may be unstable
+92701,127.848,97.61,166.225,Rate is stable
+92703,130.18,104.215,161.256,Rate is stable
+92704,112.908,91.959,137.781,Rate is stable
+92705,135.515,100.93,178.345,Rate is stable
+92706,49.806,28.914,81.542,Rate is stable
+92707,124.444,97.395,158.287,Rate is stable
+92708,68.859,46.845,98.278,Rate is stable
+92780,52.676,35.294,76.497,Rate is stable
+92782,13.101,2.695,45.275,Rate is unstable interpret with caution
+92801,124.073,98.745,154.582,Rate is stable
+92802,50.065,30.792,78.129,Rate is stable
+92804,271.686,236.684,310.745,Rate is stable
+92805,201.232,171.463,238.772,Rate is stable
+92806,75.681,51.808,109.127,Rate is stable
+92807,43.366,22.939,76.603,Rate is stable
+92808,24.057,7.222,83.274,Rate may be unstable
+92821,23.859,10.283,47.926,Rate may be unstable
+92823,0,,,Not applicable
+92831,78.335,50.167,118.596,Rate is stable
+92832,59.634,34.137,100.376,Rate is stable
+92833,88.694,64.054,120.298,Rate is stable
+92835,45.02,21.419,88.079,Rate may be unstable
+92840,82.588,59.414,112.7,Rate is stable
+92841,153.982,111.125,209.063,Rate is stable
+92843,77.249,53.112,109.427,Rate is stable
+92844,19.309,5.123,56.51,Rate is unstable interpret with caution
+92845,149.074,89.057,236.741,Rate is stable
+92861,0,,,Not applicable
+92865,18.772,6.032,52.296,Rate may be unstable
+92866,48.158,19.144,108.36,Rate may be unstable
+92867,56.683,35.415,87.446,Rate is stable
+92868,202.207,150.133,269.526,Rate is stable
+92869,36.562,19.494,65.27,Rate is stable
+92870,76.963,54.79,105.864,Rate is stable
+92886,52.306,31.738,82.215,Rate is stable
+92887,72.124,35.92,135.417,Rate may be unstable
+California,54.877,54.132,55.63,Rate is stable
+Orange,50.93,48.365,53.602,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

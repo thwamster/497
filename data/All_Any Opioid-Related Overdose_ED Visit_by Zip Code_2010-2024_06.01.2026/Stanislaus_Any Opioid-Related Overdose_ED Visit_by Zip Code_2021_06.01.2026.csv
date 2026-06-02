@@ -1,0 +1,36 @@
+Stanislaus ED Visits - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95230,0,,,Not applicable
+95307,74.877,49.438,109.569,Rate is stable
+95313,0,,,Not applicable
+95316,36.271,4.226,220.629,Rate is unstable interpret with caution
+95322,72.927,30.806,163.375,Rate may be unstable
+95323,194.96,18.168,2984.672,Rate is unstable interpret with caution
+95326,55.236,20.134,129.934,Rate may be unstable
+95329,69.293,1.754,629.567,Rate is unstable interpret with caution
+95350,214.528,174.702,261.649,Rate is stable
+95351,205.694,162.596,260.163,Rate is stable
+95354,232.634,171.507,311.621,Rate is stable
+95355,170.667,137.317,209.966,Rate is stable
+95356,30.538,14.405,58.479,Rate may be unstable
+95357,95.723,49.032,174.758,Rate is stable
+95358,142.199,102.172,195.457,Rate is stable
+95360,4.998,0.127,58.874,Rate is unstable interpret with caution
+95361,48.088,25.937,82.723,Rate is stable
+95363,31.558,13.578,66.122,Rate may be unstable
+95367,62.746,36.388,104.412,Rate is stable
+95368,57.756,23.819,140.871,Rate may be unstable
+95380,196.052,153.515,247.696,Rate is stable
+95382,42.154,23.43,70.935,Rate is stable
+95385,0,,,Not applicable
+95386,288.207,190.896,440.576,Rate is stable
+California,53.818,53.08,54.557,Rate is stable
+Stanislaus,72.305,65.2,80.038,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

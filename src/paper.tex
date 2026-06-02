@@ -1,0 +1,116 @@
+\documentclass[journal]{IEEEtran}
+\usepackage{ifpdf}
+\usepackage[numbers]{natbib}
+\usepackage{amsmath}
+\usepackage{algorithmic}
+\usepackage{array}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{comment}
+
+\hbadness=10000
+\interdisplaylinepenalty = 2500
+
+\usepackage[pdftex]{graphicx}
+\graphicspath{{../pdf/}{../jpeg/}}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+
+\usepackage[caption=false, font=footnotesize]{subfig}
+
+\newcommand{\MYorigsubfloat}{\subfloat}
+\renewcommand{\subfloat}[2][\relax]{\MYorigsubfloat[]{#2}}
+
+\newcommand{\todo}{\textcolor{red}{TO-DO.} }
+\newcommand{\temp}{\textcolor{red}{TEMPORARY.} }
+
+\begin{document}
+
+    \title{Predicting Opioid Outcomes\\ Using Machine Learning}
+    \author{Sonora~Sandoval, Theodore~Wachtler, and~Haiyan~Cheng*%
+    \thanks{Composed March 2026. Revised April 2026.
+    This work was supported by the Computing Research Association through the UR2PhD program.
+    The first two authors contributed equally to this work.
+    \textit{Asterisk indicates corresponding author}.}%
+    \thanks{S. Sandoval and T. Wachtler are with Willamette University, Salem, OR 97301 USA (e-mails: \{ssandoval, thwachtler\}@willamette.edu)}%
+    \thanks{H. Cheng is with the School of Computing \& Information Sciences at Willamette University, Salem, OR, 97301 USA (email: hcheng@willamette.edu)}}
+
+    \markboth{June~2026}%
+    {Shell \MakeLowercase{\textit{et al.}}: Opioid Outcomes}
+
+    \maketitle
+
+    \begin{abstract}
+        \todo
+    \end{abstract}
+    \begin{IEEEkeywords}
+        Data Science, Machine Learning, Predictive Modeling, Public Health, Opioids, Overdoses, Prescriptions, Medicaid, Medicare, Social Determinants of Health.
+    \end{IEEEkeywords}
+
+    \IEEEpeerreviewmaketitle
+
+
+    \section{Introduction}
+
+    \todo \cite{lastTitleDate}
+
+
+    \section{Related Work}
+
+    \todo
+
+
+    \section{Data and Methodology}
+
+    \subsection{Data Collection and Preprocessing}
+
+    \subsection{Exploratory Data Analysis}
+
+    \subsection{Handling Data Imbalance}
+
+    \subsection{Model Architecture}
+
+
+    \section{Experimental Setup}
+
+    \todo
+
+    \subsection{Training and Cross-Validation}
+
+    \subsection{Evaluation Metrics}
+
+    \subsection{Transparency and Ethical Audits}
+
+
+    \section{Results}
+
+    \todo
+
+    \subsection{Model Performance}
+
+    \subsection{Feature Importance}
+
+    \subsection{Spatio-Temporal Analysis}
+
+
+    \section{Discussion}
+
+    \todo
+
+    \subsection{Public Health Implications}
+
+    \subsection{Limitations}
+
+
+    \section{Conclusion}
+
+    \todo
+
+
+    \section*{Acknowledgment}
+
+    The authors would like to thank Prof. Nicole Iroz-Elardo from the Willamette University Public Health department for domain insight and guidance throughout the process of composing this proposal. Additionally, the authors appreciate the feedback from Kimberly Do and Lola Cordero on our proposal. \todo
+
+    \bibliographystyle{IEEEtranN}
+    \bibliography{library}
+
+\end{document}

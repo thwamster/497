@@ -1,0 +1,28 @@
+Yuba  - by Zip Code 2019,,,,
+Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents,,,,Opioid Prescriptions by Patient Location : Age-Adjusted Rate per 1k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95692,674.344,652.174,697.172,Rate is stable
+95901,918.715,907.179,930.387,Rate is stable
+95903,409.68,334.6,500.809,Rate is stable
+95914,827.726,724.835,960.956,Rate is stable
+95918,467.628,436.586,501.159,Rate is stable
+95919,1921.313,1808.501,2042.226,Rate is stable
+95922,872.827,762.589,1017.562,Rate is stable
+95925,259.864,213.808,314.071,Rate is stable
+95935,908.498,834.45,991.82,Rate is stable
+95941,659.378,585.658,741.949,Rate is stable
+95960,1580.962,1459.063,1719.802,Rate is stable
+95961,736.383,725.58,747.358,Rate is stable
+95962,702.353,628.082,789.026,Rate is stable
+95966,1096.014,1083.714,1108.452,Rate is stable
+95977,715.732,642.743,796.847,Rate is stable
+95981,21.608,7.93,69.296,Rate may be unstable
+California,400.571,400.379,400.762,Rate is stable
+Yuba,747.672,741.466,753.921,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Justice - Controlled Substance Utilization Review and Evaluation System (CURES) Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.02.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/02/26., https://skylab.cdph.ca.gov/ODdash/,,

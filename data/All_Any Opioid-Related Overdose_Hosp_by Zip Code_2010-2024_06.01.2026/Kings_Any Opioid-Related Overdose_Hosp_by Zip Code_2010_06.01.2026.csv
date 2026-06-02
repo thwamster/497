@@ -1,0 +1,22 @@
+Kings Hospitalizations - by Zip Code 2010,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93202,52.2,6.314,293.021,Rate is unstable interpret with caution
+93204,5.505,0.139,144.306,Rate is unstable interpret with caution
+93212,21.189,4.088,80.857,Rate is unstable interpret with caution
+93230,13.369,5.694,27.206,Rate may be unstable
+93239,0,,,Not applicable
+93242,37.218,0.942,247.825,Rate is unstable interpret with caution
+93245,11.903,3.082,40.539,Rate is unstable interpret with caution
+93266,0,,,Not applicable
+93631,6.174,0.156,41.242,Rate is unstable interpret with caution
+93656,0,,,Not applicable
+California,12.692,12.335,13.058,Rate is stable
+Kings,13.62,8.253,22.058,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

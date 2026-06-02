@@ -1,0 +1,44 @@
+Tulare Hospitalizations - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93207,0,,,Not applicable
+93212,27.513,10.756,63.355,Rate may be unstable
+93215,4.606,0.534,20.392,Rate is unstable interpret with caution
+93219,0,,,Not applicable
+93221,15.148,2.657,58.878,Rate is unstable interpret with caution
+93223,0,,,Not applicable
+93235,35.551,0.9,471.44,Rate is unstable interpret with caution
+93244,0,,,Not applicable
+93247,10.122,1.208,55.124,Rate is unstable interpret with caution
+93256,0,,,Not applicable
+93257,5.388,1.422,15.415,Rate is unstable interpret with caution
+93260,0,,,Not applicable
+93262,0,,,Not applicable
+93265,0,,,Not applicable
+93267,0,,,Not applicable
+93270,0,,,Not applicable
+93271,28.49,0.721,731.079,Rate is unstable interpret with caution
+93272,0,,,Not applicable
+93274,18.24,9.294,33.152,Rate is stable
+93277,27.531,14.991,48.47,Rate is stable
+93286,30.334,4.75,113.446,Rate is unstable interpret with caution
+93291,22.059,9.585,49.293,Rate may be unstable
+93292,12.933,4.918,31.179,Rate may be unstable
+93527,0,,,Not applicable
+93603,0,,,Not applicable
+93615,0,,,Not applicable
+93618,14.984,3.983,52.788,Rate is unstable interpret with caution
+93631,14.607,1.252,64.011,Rate is unstable interpret with caution
+93633,0,,,Not applicable
+93646,0,,,Not applicable
+93647,0,,,Not applicable
+93654,1.626,0.041,20.348,Rate is unstable interpret with caution
+California,12.843,12.495,13.2,Rate is stable
+Tulare,12.4,9.425,16.098,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

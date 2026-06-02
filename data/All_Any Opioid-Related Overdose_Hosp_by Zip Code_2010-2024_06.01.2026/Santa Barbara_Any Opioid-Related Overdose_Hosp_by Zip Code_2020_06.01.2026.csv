@@ -1,0 +1,35 @@
+Santa Barbara Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93013,8.871,0.225,51.564,Rate is unstable interpret with caution
+93067,0,,,Not applicable
+93101,13.464,4.74,36.714,Rate may be unstable
+93103,11.419,2.19,44.681,Rate is unstable interpret with caution
+93105,7.983,1.256,32.914,Rate is unstable interpret with caution
+93108,0,,,Not applicable
+93109,10.483,0.265,91.333,Rate is unstable interpret with caution
+93110,9.874,1.115,54.11,Rate is unstable interpret with caution
+93111,9.109,1.836,53.985,Rate is unstable interpret with caution
+93117,4.571,0.726,21.949,Rate is unstable interpret with caution
+93252,0,,,Not applicable
+93254,0,,,Not applicable
+93427,0,,,Not applicable
+93429,0,,,Not applicable
+93434,0,,,Not applicable
+93436,5.533,1.113,18.09,Rate is unstable interpret with caution
+93437,0,,,Not applicable
+93441,0,,,Not applicable
+93454,23.454,9.99,48.082,Rate may be unstable
+93455,21.97,10.043,43.704,Rate may be unstable
+93458,10.534,3.598,28.432,Rate may be unstable
+93460,0,,,Not applicable
+93463,0,,,Not applicable
+California,10.188,9.881,10.501,Rate is stable
+Santa Barbara,9.732,7.09,13.212,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

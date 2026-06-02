@@ -1,0 +1,27 @@
+Santa Cruz ED Visits - by Zip Code 2024,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95003,16.85,3.206,54.288,Rate is unstable interpret with caution
+95005,77.6,16.003,298.334,Rate is unstable interpret with caution
+95006,100.746,42.278,263.778,Rate may be unstable
+95010,36.013,7.387,141.628,Rate is unstable interpret with caution
+95017,0,,,Not applicable
+95018,48.148,9.517,236.746,Rate is unstable interpret with caution
+95019,39.513,2.915,222.215,Rate is unstable interpret with caution
+95033,0,,,Not applicable
+95060,186.325,143.051,240.821,Rate is stable
+95062,92.453,62.817,134.372,Rate is stable
+95064,46.063,1.166,7426.76,Rate is unstable interpret with caution
+95065,73.204,23.169,181.727,Rate may be unstable
+95066,38.886,10.432,105.37,Rate is unstable interpret with caution
+95073,72.599,26.22,167.542,Rate may be unstable
+95076,42.351,28.462,60.994,Rate is stable
+California,46.2,45.495,46.913,Rate is stable
+Santa Cruz,48.222,39.29,58.752,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

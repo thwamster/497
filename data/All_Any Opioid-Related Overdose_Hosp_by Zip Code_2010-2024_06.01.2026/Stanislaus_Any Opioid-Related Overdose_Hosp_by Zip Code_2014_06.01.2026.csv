@@ -1,0 +1,36 @@
+Stanislaus Hospitalizations - by Zip Code 2014,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95230,0,,,Not applicable
+95307,12.541,4.526,30.508,Rate may be unstable
+95313,0,,,Not applicable
+95316,28.649,2.702,153.356,Rate is unstable interpret with caution
+95322,32.797,6.604,121.04,Rate is unstable interpret with caution
+95323,0,,,Not applicable
+95326,21.908,2.581,93.441,Rate is unstable interpret with caution
+95329,0,,,Not applicable
+95350,31.366,17.974,52.418,Rate is stable
+95351,40.278,23.101,66.513,Rate is stable
+95354,46.361,23.583,89.794,Rate is stable
+95355,28.976,16.589,48.126,Rate is stable
+95356,32.577,16.509,60.869,Rate is stable
+95357,0,,,Not applicable
+95358,31.009,13.917,68.279,Rate may be unstable
+95360,11.261,0.285,124.796,Rate is unstable interpret with caution
+95361,13.684,3.684,39.38,Rate is unstable interpret with caution
+95363,11.785,2.338,47.332,Rate is unstable interpret with caution
+95367,18.241,4.958,53.146,Rate is unstable interpret with caution
+95368,14.98,1.732,209.552,Rate is unstable interpret with caution
+95380,29.766,15.253,53.752,Rate is stable
+95382,7.975,1.613,26.704,Rate is unstable interpret with caution
+95385,0,,,Not applicable
+95386,43.625,13.829,256,Rate may be unstable
+California,12.245,11.907,12.595,Rate is stable
+Stanislaus,24.375,20.348,29.04,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

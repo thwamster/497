@@ -1,0 +1,87 @@
+Riverside ED Visits - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+91752,13.444,4.306,34.371,Rate may be unstable
+92028,34.869,17.773,62.12,Rate is stable
+92059,0,,,Not applicable
+92201,99.94,76.181,129.47,Rate is stable
+92203,46.19,24.203,83.167,Rate is stable
+92210,187.746,22.737,1318.282,Rate is unstable interpret with caution
+92211,110.208,59.005,195.861,Rate is stable
+92220,290.003,225.828,367.932,Rate is stable
+92223,83.046,60.335,112.914,Rate is stable
+92225,72.1,42.341,117.809,Rate is stable
+92230,0,,,Not applicable
+92234,109.737,81.897,144.439,Rate is stable
+92236,63.982,43.877,94.773,Rate is stable
+92239,0,,,Not applicable
+92240,198.717,153.256,254.583,Rate is stable
+92241,137.629,57.351,309.357,Rate may be unstable
+92253,86.059,59.774,123.397,Rate is stable
+92254,43.762,8.994,234.981,Rate is unstable interpret with caution
+92260,64.283,34.87,114.145,Rate is stable
+92262,307.872,234.526,399.791,Rate is stable
+92264,51.953,15.742,141.039,Rate may be unstable
+92270,60.471,19.197,273.084,Rate may be unstable
+92274,20.69,2.452,77.961,Rate is unstable interpret with caution
+92276,48.041,13.09,253.114,Rate may be unstable
+92282,0,,,Not applicable
+92320,126.411,65.344,239.67,Rate is stable
+92324,70.679,51.057,96.743,Rate is stable
+92337,27.263,13.434,69.848,Rate may be unstable
+92373,117.968,78.103,172.205,Rate is stable
+92399,240.723,196.821,292.152,Rate is stable
+92501,371.708,295.941,465.62,Rate is stable
+92503,48.19,35.123,64.931,Rate is stable
+92504,68.105,48.195,93.927,Rate is stable
+92505,69.595,49.182,97.416,Rate is stable
+92506,73.63,50.098,105.088,Rate is stable
+92507,117.535,87.802,156.041,Rate is stable
+92508,30.499,15.155,56.686,Rate may be unstable
+92509,50.483,36.517,68.695,Rate is stable
+92518,0,,,Not applicable
+92530,153.111,120.677,192.198,Rate is stable
+92532,110.099,69.228,220.58,Rate is stable
+92536,91.824,10.103,545.465,Rate is unstable interpret with caution
+92539,89.524,14.441,313.635,Rate is unstable interpret with caution
+92543,535.742,453.298,630.255,Rate is stable
+92544,309.378,256.848,370.112,Rate is stable
+92545,129.038,92.394,176.567,Rate is stable
+92548,148.566,72.184,278.949,Rate may be unstable
+92549,140.951,27.91,506.114,Rate is unstable interpret with caution
+92551,43.48,25.464,74.167,Rate is stable
+92553,61.216,44.365,84.767,Rate is stable
+92555,45.966,28.404,77.142,Rate is stable
+92557,41.571,25.769,66.439,Rate is stable
+92561,0,,,Not applicable
+92562,59.876,41.09,84.741,Rate is stable
+92563,62.899,45.209,85.984,Rate is stable
+92567,8.76,0.222,85.304,Rate is unstable interpret with caution
+92570,25.15,14.238,42.445,Rate is stable
+92571,59.792,41.821,102.217,Rate is stable
+92582,110.601,68.182,206.487,Rate is stable
+92583,173.292,126.768,232.492,Rate is stable
+92584,85.932,61.821,116.945,Rate is stable
+92585,28.275,11.297,61.677,Rate may be unstable
+92586,364.791,250.221,520.8,Rate is stable
+92587,62.231,30.182,122.871,Rate may be unstable
+92590,26.883,3.256,195.346,Rate is unstable interpret with caution
+92591,59.26,37.824,90.741,Rate is stable
+92592,60.799,44.373,81.848,Rate is stable
+92595,131.77,94.842,179.703,Rate is stable
+92596,33.488,14.971,66.5,Rate may be unstable
+92860,46.112,24.316,86.51,Rate is stable
+92879,41.982,26.169,64.876,Rate is stable
+92880,16.771,8.592,34.259,Rate is stable
+92881,58.695,33.173,103.842,Rate is stable
+92882,42.277,28.625,60.827,Rate is stable
+92883,9.482,1.93,29.137,Rate is unstable interpret with caution
+California,54.877,54.132,55.63,Rate is stable
+Riverside,53.525,50.592,56.595,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

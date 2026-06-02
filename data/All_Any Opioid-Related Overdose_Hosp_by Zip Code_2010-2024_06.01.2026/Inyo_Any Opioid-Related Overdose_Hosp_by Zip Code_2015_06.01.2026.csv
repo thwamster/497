@@ -1,0 +1,21 @@
+Inyo Hospitalizations - by Zip Code 2015,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+92328,0,,,Not applicable
+92384,0,,,Not applicable
+92389,0,,,Not applicable
+93513,40.545,1.027,532.89,Rate is unstable interpret with caution
+93514,8.231,0.208,56.978,Rate is unstable interpret with caution
+93526,0,,,Not applicable
+93527,0,,,Not applicable
+93545,0,,,Not applicable
+93555,19.366,7.49,43.527,Rate may be unstable
+California,10.9,10.585,11.222,Rate is stable
+Inyo,10.4,5.665,62.4,Rate may be unstable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

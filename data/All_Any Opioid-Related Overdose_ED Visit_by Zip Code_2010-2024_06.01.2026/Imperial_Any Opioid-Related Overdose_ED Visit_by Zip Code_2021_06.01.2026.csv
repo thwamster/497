@@ -1,0 +1,24 @@
+Imperial ED Visits - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+92227,143.62,94.67,210.535,Rate is stable
+92231,11.661,3.024,31.573,Rate is unstable interpret with caution
+92233,47.604,9.774,1111.354,Rate is unstable interpret with caution
+92243,51.363,30.985,81.048,Rate is stable
+92249,0,,,Not applicable
+92250,40.475,8.328,149.838,Rate is unstable interpret with caution
+92251,25.126,9.114,82.613,Rate may be unstable
+92257,0,,,Not applicable
+92259,0,,,Not applicable
+92274,47.684,15.115,116.198,Rate may be unstable
+92281,160.062,18.905,605.199,Rate is unstable interpret with caution
+92283,0,,,Not applicable
+California,53.818,53.08,54.557,Rate is stable
+Imperial,25.817,18.93,34.737,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

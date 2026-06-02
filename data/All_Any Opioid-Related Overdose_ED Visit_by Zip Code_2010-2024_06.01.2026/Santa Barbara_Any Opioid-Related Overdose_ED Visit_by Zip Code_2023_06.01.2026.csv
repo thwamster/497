@@ -1,0 +1,36 @@
+Santa Barbara ED Visits - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93013,77.437,36.967,150.457,Rate may be unstable
+93067,94.362,2.389,1048.709,Rate is unstable interpret with caution
+93101,261.065,196.829,340.825,Rate is stable
+93103,128.686,78.048,207.143,Rate is stable
+93105,29.616,11.39,69.229,Rate may be unstable
+93106,0,,,Not applicable
+93108,37.116,3.396,159.209,Rate is unstable interpret with caution
+93109,41.637,8.527,143.683,Rate is unstable interpret with caution
+93110,114.855,65.987,195.163,Rate is stable
+93111,47.875,17.936,108.67,Rate may be unstable
+93117,53.323,30.372,88.424,Rate is stable
+93252,0,,,Not applicable
+93254,0,,,Not applicable
+93427,34.29,4.125,216.015,Rate is unstable interpret with caution
+93429,0,,,Not applicable
+93434,246.861,145.452,451.725,Rate is stable
+93436,236.815,195.517,284.907,Rate is stable
+93437,0,,,Not applicable
+93441,0,,,Not applicable
+93454,260.112,211.579,318.131,Rate is stable
+93455,79.33,51.788,118.101,Rate is stable
+93458,193.368,156.807,237.581,Rate is stable
+93460,152.723,59.031,346.864,Rate may be unstable
+93463,58.974,11.979,199.936,Rate is unstable interpret with caution
+California,60.517,59.712,61.33,Rate is stable
+Santa Barbara,55.905,48.782,63.868,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

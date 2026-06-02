@@ -1,0 +1,25 @@
+Tuolumne Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95309,0,,,Not applicable
+95310,69.152,1.751,1035.838,Rate is unstable interpret with caution
+95311,0,,,Not applicable
+95321,50.616,1.281,389.193,Rate is unstable interpret with caution
+95327,56.222,15.927,201.059,Rate may be unstable
+95329,0,,,Not applicable
+95335,0,,,Not applicable
+95346,0,,,Not applicable
+95364,0,,,Not applicable
+95370,10.745,2.493,36.897,Rate is unstable interpret with caution
+95372,35.892,0.909,750.894,Rate is unstable interpret with caution
+95379,110.647,19.247,418.424,Rate is unstable interpret with caution
+95383,12.597,0.319,392.26,Rate is unstable interpret with caution
+California,12.302,11.963,12.652,Rate is stable
+Tuolumne,27.085,15.21,48.017,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

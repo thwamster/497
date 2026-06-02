@@ -1,0 +1,27 @@
+Santa Cruz Hospitalizations - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95003,9.57,0.711,44.173,Rate is unstable interpret with caution
+95005,0,,,Not applicable
+95006,0,,,Not applicable
+95010,29.814,3.132,140.975,Rate is unstable interpret with caution
+95017,0,,,Not applicable
+95018,37.748,9.701,220.026,Rate is unstable interpret with caution
+95019,0,,,Not applicable
+95033,4.849,0.123,90.697,Rate is unstable interpret with caution
+95060,20.288,8.632,42.954,Rate may be unstable
+95062,22.076,10.186,46.149,Rate may be unstable
+95064,0,,,Not applicable
+95065,0,,,Not applicable
+95066,0,,,Not applicable
+95073,0,,,Not applicable
+95076,8.521,3.588,18.179,Rate may be unstable
+California,9.808,9.509,10.114,Rate is stable
+Santa Cruz,8.615,5.64,12.965,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

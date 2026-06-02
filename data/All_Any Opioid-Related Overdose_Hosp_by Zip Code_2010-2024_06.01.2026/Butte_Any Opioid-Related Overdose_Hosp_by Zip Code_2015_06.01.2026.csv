@@ -1,0 +1,28 @@
+Butte Hospitalizations - by Zip Code 2015,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95901,13.129,4.184,36.695,Rate may be unstable
+95914,851.647,64.256,8008.154,Rate is unstable interpret with caution
+95916,91.021,10.804,797.283,Rate is unstable interpret with caution
+95917,55.97,6.714,301.657,Rate is unstable interpret with caution
+95926,19.932,7.402,47.262,Rate may be unstable
+95928,29.597,13.547,58.469,Rate may be unstable
+95938,0,,,Not applicable
+95941,0,,,Not applicable
+95942,0,,,Not applicable
+95948,20.308,4.173,86.39,Rate is unstable interpret with caution
+95954,41.071,18.657,101.551,Rate may be unstable
+95965,101.02,61.15,163.166,Rate is stable
+95966,63.445,39.025,101.975,Rate is stable
+95968,71.796,1.818,1372.969,Rate is unstable interpret with caution
+95969,31.143,15.066,65.382,Rate may be unstable
+95973,35.421,18.574,65.586,Rate is stable
+Butte,42.565,34.767,51.98,Rate is stable
+California,10.9,10.585,11.222,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

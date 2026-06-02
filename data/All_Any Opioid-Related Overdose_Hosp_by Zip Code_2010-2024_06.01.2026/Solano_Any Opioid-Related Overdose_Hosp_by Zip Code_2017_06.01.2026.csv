@@ -1,0 +1,31 @@
+Solano Hospitalizations - by Zip Code 2017,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94503,3.427,0.087,45.718,Rate is unstable interpret with caution
+94510,1.541,0.039,21.038,Rate is unstable interpret with caution
+94512,0,,,Not applicable
+94533,3.169,0.653,11.267,Rate is unstable interpret with caution
+94534,3.139,0.079,20.684,Rate is unstable interpret with caution
+94535,0,,,Not applicable
+94571,45.908,5.266,193.882,Rate is unstable interpret with caution
+94585,4.834,0.122,28.61,Rate is unstable interpret with caution
+94589,3.674,0.445,22.465,Rate is unstable interpret with caution
+94590,20.956,9.02,44.483,Rate may be unstable
+94591,6.865,2.497,18.377,Rate may be unstable
+94592,0,,,Not applicable
+95616,2.136,0.054,22.806,Rate is unstable interpret with caution
+95618,11.643,2.839,36.196,Rate is unstable interpret with caution
+95620,6.389,0.774,48.344,Rate is unstable interpret with caution
+95687,11.354,4.705,23.921,Rate may be unstable
+95688,7.952,1.578,26.501,Rate is unstable interpret with caution
+95690,0,,,Not applicable
+95694,0,,,Not applicable
+California,9.002,8.717,9.295,Rate is stable
+Solano,7.645,5.418,10.668,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

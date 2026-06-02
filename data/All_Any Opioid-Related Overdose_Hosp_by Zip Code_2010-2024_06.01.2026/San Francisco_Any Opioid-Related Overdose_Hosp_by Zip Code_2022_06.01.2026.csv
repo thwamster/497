@@ -1,0 +1,39 @@
+San Francisco Hospitalizations - by Zip Code 2022,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94102,109.01,75.322,162.601,Rate is stable
+94103,101.243,68.661,164.21,Rate is stable
+94104,0,,,Not applicable
+94105,0,,,Not applicable
+94107,20.934,6.646,65.22,Rate may be unstable
+94108,0,,,Not applicable
+94109,119.796,72.906,195.875,Rate is stable
+94110,21.984,12.984,41.048,Rate is stable
+94111,0,,,Not applicable
+94112,8.149,3.206,18.826,Rate may be unstable
+94114,5.356,0.557,53.794,Rate is unstable interpret with caution
+94115,15.356,4.805,53.676,Rate may be unstable
+94116,9.982,2.417,32.349,Rate is unstable interpret with caution
+94117,4.443,0.61,42.235,Rate is unstable interpret with caution
+94118,15.219,5.773,39.134,Rate may be unstable
+94121,18.287,7.727,40.767,Rate may be unstable
+94122,4.419,0.911,19.491,Rate is unstable interpret with caution
+94123,0,,,Not applicable
+94124,41.933,22.714,72.02,Rate is stable
+94127,4.844,0.123,47.295,Rate is unstable interpret with caution
+94129,0,,,Not applicable
+94130,226.324,43.727,1190.992,Rate is unstable interpret with caution
+94131,5.921,0.675,37.846,Rate is unstable interpret with caution
+94132,0,,,Not applicable
+94133,0,,,Not applicable
+94134,16.278,6.88,36.823,Rate may be unstable
+94158,22.485,2.723,555.618,Rate is unstable interpret with caution
+California,12.843,12.495,13.2,Rate is stable
+San Francisco,14.495,12.218,17.198,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

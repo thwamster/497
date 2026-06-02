@@ -1,0 +1,36 @@
+Stanislaus Hospitalizations - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95230,0,,,Not applicable
+95307,20.906,9.337,42.525,Rate may be unstable
+95313,0,,,Not applicable
+95316,26.147,2.123,205.443,Rate is unstable interpret with caution
+95322,0,,,Not applicable
+95323,0,,,Not applicable
+95326,11.728,0.297,74.139,Rate is unstable interpret with caution
+95329,0,,,Not applicable
+95350,19.012,9.167,37.087,Rate may be unstable
+95351,46.747,28.279,76.944,Rate is stable
+95354,55.208,28.233,100.353,Rate is stable
+95355,27.746,15.809,45.976,Rate is stable
+95356,60.137,33.356,100.794,Rate is stable
+95357,0,,,Not applicable
+95358,36.286,16.78,70.586,Rate may be unstable
+95360,8.329,0.211,62.263,Rate is unstable interpret with caution
+95361,22.64,9.784,47.736,Rate may be unstable
+95363,10.551,2.123,36.805,Rate is unstable interpret with caution
+95367,27.964,9.816,65.458,Rate may be unstable
+95368,12.313,1.349,76.823,Rate is unstable interpret with caution
+95380,11.356,3.455,30.775,Rate may be unstable
+95382,17.082,6.618,38.044,Rate may be unstable
+95385,0,,,Not applicable
+95386,33.605,6.872,138.065,Rate is unstable interpret with caution
+California,15.35,14.957,15.75,Rate is stable
+Stanislaus,21.118,17.407,25.462,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

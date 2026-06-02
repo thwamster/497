@@ -1,0 +1,40 @@
+Monterey Hospitalizations - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93426,0,,,Not applicable
+93450,0,,,Not applicable
+93451,0,,,Not applicable
+93901,63.901,37.683,105.533,Rate is stable
+93905,25.705,12.475,51.708,Rate may be unstable
+93906,27.453,15.697,45.738,Rate is stable
+93907,18.959,5.047,51.79,Rate is unstable interpret with caution
+93908,0,,,Not applicable
+93920,0,,,Not applicable
+93923,15.11,0.86,158.904,Rate is unstable interpret with caution
+93924,0,,,Not applicable
+93925,0,,,Not applicable
+93926,40.453,6.458,157.776,Rate is unstable interpret with caution
+93927,6.865,0.174,118.028,Rate is unstable interpret with caution
+93930,0,,,Not applicable
+93932,0,,,Not applicable
+93933,12.651,3.258,41.125,Rate is unstable interpret with caution
+93940,10.665,2.093,38.102,Rate is unstable interpret with caution
+93943,0,,,Not applicable
+93944,0,,,Not applicable
+93950,12.973,4.064,59.505,Rate may be unstable
+93953,0,,,Not applicable
+93955,6.985,0.798,27.126,Rate is unstable interpret with caution
+93960,48.146,24.261,103.749,Rate is stable
+95004,19.287,0.488,610.144,Rate is unstable interpret with caution
+95012,0,,,Not applicable
+95039,0,,,Not applicable
+95076,19.431,10.81,32.726,Rate is stable
+California,15.35,14.957,15.75,Rate is stable
+Monterey,16.733,13.137,21.125,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

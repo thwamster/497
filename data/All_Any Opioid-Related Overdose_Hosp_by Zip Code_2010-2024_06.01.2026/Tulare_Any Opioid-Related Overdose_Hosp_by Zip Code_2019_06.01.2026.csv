@@ -1,0 +1,44 @@
+Tulare Hospitalizations - by Zip Code 2019,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93207,0,,,Not applicable
+93212,18.943,5.896,52.57,Rate may be unstable
+93215,10.677,3.863,27.548,Rate may be unstable
+93219,11.756,0.298,104.275,Rate is unstable interpret with caution
+93221,13.805,2.847,57.658,Rate is unstable interpret with caution
+93223,6.854,0.174,91.436,Rate is unstable interpret with caution
+93235,0,,,Not applicable
+93244,0,,,Not applicable
+93247,9.007,0.93,52.934,Rate is unstable interpret with caution
+93256,0,,,Not applicable
+93257,5.816,1.575,15.719,Rate is unstable interpret with caution
+93260,0,,,Not applicable
+93262,0,,,Not applicable
+93265,0,,,Not applicable
+93267,0,,,Not applicable
+93270,0,,,Not applicable
+93271,12.643,0.32,501.677,Rate is unstable interpret with caution
+93272,24.623,0.623,682.669,Rate is unstable interpret with caution
+93274,19.706,10.101,35.941,Rate is stable
+93277,14.192,6.368,30.434,Rate may be unstable
+93286,12.984,0.329,93.483,Rate is unstable interpret with caution
+93291,20.739,10.48,43.455,Rate is stable
+93292,14.543,4.533,37.914,Rate may be unstable
+93527,0,,,Not applicable
+93603,0,,,Not applicable
+93615,0,,,Not applicable
+93618,20.201,7.126,52.45,Rate may be unstable
+93631,12.395,1.501,58.846,Rate is unstable interpret with caution
+93633,0,,,Not applicable
+93646,0,,,Not applicable
+93647,0,,,Not applicable
+93654,3.116,0.079,23.715,Rate is unstable interpret with caution
+California,9.808,9.509,10.114,Rate is stable
+Tulare,10.698,7.885,14.28,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

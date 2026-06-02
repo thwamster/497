@@ -1,0 +1,39 @@
+Marin Hospitalizations - by Zip Code 2011,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94901,5.451,1.065,20.958,Rate is unstable interpret with caution
+94903,9.088,2.654,33.8,Rate may be unstable
+94904,15.326,0.388,94.577,Rate is unstable interpret with caution
+94920,20.306,1.297,136.881,Rate is unstable interpret with caution
+94924,0,,,Not applicable
+94925,9.093,0.23,125.212,Rate is unstable interpret with caution
+94929,50.402,1.276,1493.094,Rate is unstable interpret with caution
+94930,0,,,Not applicable
+94933,0,,,Not applicable
+94937,0,,,Not applicable
+94938,395.419,10.011,3490.938,Rate is unstable interpret with caution
+94939,0,,,Not applicable
+94940,0,,,Not applicable
+94941,0,,,Not applicable
+94945,13.54,1.028,61.435,Rate is unstable interpret with caution
+94946,0,,,Not applicable
+94947,13.047,2.375,43.966,Rate is unstable interpret with caution
+94949,2.826,0.072,53.599,Rate is unstable interpret with caution
+94952,14.997,5.131,37.821,Rate may be unstable
+94956,0,,,Not applicable
+94960,4.328,0.11,69.451,Rate is unstable interpret with caution
+94963,0,,,Not applicable
+94964,0,,,Not applicable
+94965,34.566,10.253,129.53,Rate may be unstable
+94970,0,,,Not applicable
+94971,0,,,Not applicable
+94973,0,,,Not applicable
+California,12.762,12.405,13.127,Rate is stable
+Marin,8.47,5.505,13.018,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

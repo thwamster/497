@@ -1,0 +1,25 @@
+Lake Hospitalizations - by Zip Code 2021,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95422,24.179,4.696,77.732,Rate is unstable interpret with caution
+95423,16.188,0.41,587.755,Rate is unstable interpret with caution
+95443,0,,,Not applicable
+95451,18.605,1.938,94.2,Rate is unstable interpret with caution
+95453,2.842,0.072,66.976,Rate is unstable interpret with caution
+95457,7.847,0.199,658.602,Rate is unstable interpret with caution
+95458,0,,,Not applicable
+95461,0,,,Not applicable
+95464,0,,,Not applicable
+95467,0,,,Not applicable
+95469,0,,,Not applicable
+95485,90.583,2.293,849.116,Rate is unstable interpret with caution
+95493,0,,,Not applicable
+California,12.302,11.963,12.652,Rate is stable
+Lake,14.695,6.46,30.435,Rate may be unstable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

@@ -1,0 +1,27 @@
+Madera Hospitalizations - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93601,0,,,Not applicable
+93604,0,,,Not applicable
+93610,4.902,0.124,40.869,Rate is unstable interpret with caution
+93614,4.213,0.107,83.152,Rate is unstable interpret with caution
+93622,0,,,Not applicable
+93626,41.351,1.047,1493.321,Rate is unstable interpret with caution
+93636,0,,,Not applicable
+93637,5.761,0.637,22.813,Rate is unstable interpret with caution
+93638,1.67,0.042,14.849,Rate is unstable interpret with caution
+93643,0,,,Not applicable
+93644,25.99,3.619,226.263,Rate is unstable interpret with caution
+93645,0,,,Not applicable
+93653,37.412,0.947,2575.213,Rate is unstable interpret with caution
+93669,0,,,Not applicable
+93720,35.307,19.947,59.293,Rate is stable
+California,15.35,14.957,15.75,Rate is stable
+Madera,5.665,2.737,11.265,Rate may be unstable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

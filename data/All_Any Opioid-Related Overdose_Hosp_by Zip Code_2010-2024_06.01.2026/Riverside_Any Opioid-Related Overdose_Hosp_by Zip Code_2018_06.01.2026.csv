@@ -1,0 +1,88 @@
+Riverside Hospitalizations - by Zip Code 2018,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+91752,1.973,0.05,26.431,Rate is unstable interpret with caution
+92028,15.249,6.583,32.856,Rate may be unstable
+92059,0,,,Not applicable
+92201,11.651,4.939,24.731,Rate may be unstable
+92203,11.518,2.731,35.284,Rate is unstable interpret with caution
+92210,0,,,Not applicable
+92211,43.847,15.63,108.033,Rate may be unstable
+92220,11.155,2.2,36.369,Rate is unstable interpret with caution
+92223,10.695,3.821,25.152,Rate may be unstable
+92225,14.515,3.921,45.155,Rate is unstable interpret with caution
+92230,58.129,1.472,443.566,Rate is unstable interpret with caution
+92234,22.087,12.195,38.665,Rate is stable
+92236,3.519,0.089,24.83,Rate is unstable interpret with caution
+92239,0,,,Not applicable
+92240,34.495,17.954,62.416,Rate is stable
+92241,3.96,0.1,107.598,Rate is unstable interpret with caution
+92253,3.967,0.794,20.337,Rate is unstable interpret with caution
+92254,0,,,Not applicable
+92260,17.765,6.136,44.499,Rate may be unstable
+92262,3.294,0.399,28.391,Rate is unstable interpret with caution
+92264,30.013,6.762,97.894,Rate is unstable interpret with caution
+92270,5.562,1.8,123.052,Rate may be unstable
+92274,21.292,0.539,118.633,Rate is unstable interpret with caution
+92276,0,,,Not applicable
+92282,0,,,Not applicable
+92320,4.449,0.113,139.125,Rate is unstable interpret with caution
+92324,12.122,5.205,26.089,Rate may be unstable
+92337,4.351,0.527,42.391,Rate is unstable interpret with caution
+92373,12.812,3.826,34.829,Rate may be unstable
+92399,9.161,2.829,23.416,Rate may be unstable
+92501,23.842,8.367,71.909,Rate may be unstable
+92503,7.182,2.822,16.467,Rate may be unstable
+92504,8.998,2.856,22.224,Rate may be unstable
+92505,1.941,0.049,14.123,Rate is unstable interpret with caution
+92506,3.818,0.38,17.184,Rate is unstable interpret with caution
+92507,3.831,0.236,19.863,Rate is unstable interpret with caution
+92508,7.115,1.426,29.489,Rate is unstable interpret with caution
+92509,6.658,2.062,17.336,Rate may be unstable
+92518,0,,,Not applicable
+92530,14.904,5.945,37.462,Rate may be unstable
+92532,17.013,4.413,81.222,Rate is unstable interpret with caution
+92536,0,,,Not applicable
+92539,68.603,9.469,453.696,Rate is unstable interpret with caution
+92543,45.926,25.639,79.253,Rate is stable
+92544,14.797,5.606,32.902,Rate may be unstable
+92545,16.54,6.988,37.044,Rate may be unstable
+92548,11.004,0.279,89.404,Rate is unstable interpret with caution
+92549,26.715,3.235,449.958,Rate is unstable interpret with caution
+92551,6.643,0.805,88.785,Rate is unstable interpret with caution
+92553,12.791,5.784,28.67,Rate may be unstable
+92555,9.514,2.584,34.545,Rate is unstable interpret with caution
+92557,5.877,1.107,23.424,Rate is unstable interpret with caution
+92561,0,,,Not applicable
+92562,10.01,3.952,23.136,Rate may be unstable
+92563,11.453,4.935,26.905,Rate may be unstable
+92567,0,,,Not applicable
+92570,10.291,3.273,25.01,Rate may be unstable
+92571,1.629,0.041,24.312,Rate is unstable interpret with caution
+92582,12.755,1.544,74.1,Rate is unstable interpret with caution
+92583,6.968,1.434,24.631,Rate is unstable interpret with caution
+92584,9.976,3.193,24.459,Rate may be unstable
+92585,12.337,2.479,48.336,Rate is unstable interpret with caution
+92586,10.248,3.752,56.065,Rate may be unstable
+92587,20.47,3.801,67.036,Rate is unstable interpret with caution
+92590,10.284,0.26,212.482,Rate is unstable interpret with caution
+92591,17.157,6.691,38.527,Rate may be unstable
+92592,11.261,5.06,22.751,Rate may be unstable
+92595,20.489,7.047,48.165,Rate may be unstable
+92596,3.313,0.084,50.868,Rate is unstable interpret with caution
+92860,16.913,5.222,46.314,Rate may be unstable
+92862,0,,,Not applicable
+92879,3.817,0.458,17.447,Rate is unstable interpret with caution
+92880,0,,,Not applicable
+92881,0,,,Not applicable
+92882,2.726,0.307,13.724,Rate is unstable interpret with caution
+92883,7.823,1.58,27.839,Rate is unstable interpret with caution
+California,8.385,8.11,8.665,Rate is stable
+Riverside,10.402,9.188,11.748,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

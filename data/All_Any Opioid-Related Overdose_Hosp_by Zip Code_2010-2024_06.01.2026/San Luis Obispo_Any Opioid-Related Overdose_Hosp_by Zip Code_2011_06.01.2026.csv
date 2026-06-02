@@ -1,0 +1,35 @@
+San Luis Obispo Hospitalizations - by Zip Code 2011,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93252,0,,,Not applicable
+93401,29.882,11.183,68.992,Rate may be unstable
+93402,7.738,0.929,54.045,Rate is unstable interpret with caution
+93405,0.689,0.017,50.704,Rate is unstable interpret with caution
+93407,0,,,Not applicable
+93420,6.04,0.692,30.381,Rate is unstable interpret with caution
+93422,16.536,5.258,43.614,Rate may be unstable
+93426,0,,,Not applicable
+93428,0,,,Not applicable
+93430,86.902,2.2,1512.818,Rate is unstable interpret with caution
+93432,0,,,Not applicable
+93433,7.316,0.185,54.711,Rate is unstable interpret with caution
+93442,21.587,4.007,107.378,Rate is unstable interpret with caution
+93444,12.88,2.636,48.168,Rate is unstable interpret with caution
+93445,10.98,0.278,103.243,Rate is unstable interpret with caution
+93446,32.973,17.861,57.338,Rate is stable
+93449,13.524,1.638,160.638,Rate is unstable interpret with caution
+93451,29.065,0.736,544.094,Rate is unstable interpret with caution
+93452,0,,,Not applicable
+93453,46.615,5.197,584.218,Rate is unstable interpret with caution
+93454,7.959,1.635,27.375,Rate is unstable interpret with caution
+93461,0,,,Not applicable
+93465,12.16,1.473,76.544,Rate is unstable interpret with caution
+California,12.762,12.405,13.127,Rate is stable
+San Luis Obispo,17.413,12.97,23.255,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

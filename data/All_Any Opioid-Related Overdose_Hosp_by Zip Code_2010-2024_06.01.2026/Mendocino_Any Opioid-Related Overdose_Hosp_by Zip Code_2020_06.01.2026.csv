@@ -1,0 +1,38 @@
+Mendocino Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95410,34.362,0.87,2990.461,Rate is unstable interpret with caution
+95415,0,,,Not applicable
+95417,0,,,Not applicable
+95420,0,,,Not applicable
+95427,0,,,Not applicable
+95428,32.289,0.817,351.097,Rate is unstable interpret with caution
+95429,0,,,Not applicable
+95432,0,,,Not applicable
+95437,8.342,1.709,55.983,Rate is unstable interpret with caution
+95445,0,,,Not applicable
+95449,64.803,1.641,1819.333,Rate is unstable interpret with caution
+95454,78.862,8.129,852.863,Rate is unstable interpret with caution
+95456,0,,,Not applicable
+95459,0,,,Not applicable
+95460,12.324,0.312,771.421,Rate is unstable interpret with caution
+95466,0,,,Not applicable
+95468,0,,,Not applicable
+95469,36.92,0.935,1182.138,Rate is unstable interpret with caution
+95470,0,,,Not applicable
+95482,24.425,11.312,48.202,Rate may be unstable
+95488,0,,,Not applicable
+95490,47.31,20.594,119.696,Rate may be unstable
+95494,0,,,Not applicable
+95585,0,,,Not applicable
+95587,0,,,Not applicable
+95589,0,,,Not applicable
+California,10.188,9.881,10.501,Rate is stable
+Mendocino,21.087,13.655,32.505,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

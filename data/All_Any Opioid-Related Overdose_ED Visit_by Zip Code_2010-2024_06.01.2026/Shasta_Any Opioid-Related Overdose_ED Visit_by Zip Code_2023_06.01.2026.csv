@@ -1,0 +1,37 @@
+Shasta ED Visits - by Zip Code 2023,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+96001,475.673,395.398,568.486,Rate is stable
+96002,184.286,135.558,245.91,Rate is stable
+96003,146.397,108.162,195.388,Rate is stable
+96007,140.793,88.161,215.897,Rate is stable
+96008,136.961,3.468,2813.409,Rate is unstable interpret with caution
+96013,121.385,30.709,413.464,Rate is unstable interpret with caution
+96016,0,,,Not applicable
+96019,114.853,54.471,224.137,Rate may be unstable
+96022,72.007,29.558,151.697,Rate may be unstable
+96025,288.967,87.759,800.611,Rate may be unstable
+96028,1104.537,39.38,5847.05,Rate is unstable interpret with caution
+96033,0,,,Not applicable
+96040,0,,,Not applicable
+96047,1498.896,408.399,4255.448,Rate may be unstable
+96051,0,,,Not applicable
+96056,0,,,Not applicable
+96062,54.403,1.377,1297.732,Rate is unstable interpret with caution
+96065,0,,,Not applicable
+96069,107.064,2.711,1216.489,Rate is unstable interpret with caution
+96071,0,,,Not applicable
+96073,55.365,6.062,355.993,Rate is unstable interpret with caution
+96076,0,,,Not applicable
+96087,277.592,7.028,8212.823,Rate is unstable interpret with caution
+96088,137.373,30.994,469.52,Rate is unstable interpret with caution
+96096,263.515,6.672,3558.456,Rate is unstable interpret with caution
+California,60.517,59.712,61.33,Rate is stable
+Shasta,87.1,72.823,103.595,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

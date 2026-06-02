@@ -1,0 +1,36 @@
+Santa Barbara Hospitalizations - by Zip Code 2014,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93013,5.644,0.143,45.425,Rate is unstable interpret with caution
+93067,0,,,Not applicable
+93101,24.241,11.285,56.265,Rate may be unstable
+93103,6.842,0.173,43.838,Rate is unstable interpret with caution
+93105,16.964,4.171,51.37,Rate is unstable interpret with caution
+93106,0,,,Not applicable
+93108,3.25,0.082,129.438,Rate is unstable interpret with caution
+93109,5.092,0.129,106.045,Rate is unstable interpret with caution
+93110,14.042,2.896,52.619,Rate is unstable interpret with caution
+93111,3.946,0.1,41.526,Rate is unstable interpret with caution
+93117,1.199,0.247,15.817,Rate is unstable interpret with caution
+93252,0,,,Not applicable
+93254,0,,,Not applicable
+93427,20.984,0.531,197.849,Rate is unstable interpret with caution
+93429,0,,,Not applicable
+93434,12.501,0.316,161.514,Rate is unstable interpret with caution
+93436,10.895,4.332,24.227,Rate may be unstable
+93437,0,,,Not applicable
+93441,0,,,Not applicable
+93454,12.537,4.465,31.701,Rate may be unstable
+93455,14.656,5.043,35.591,Rate may be unstable
+93458,10.941,2.597,32.59,Rate is unstable interpret with caution
+93460,18.901,0.479,465.937,Rate is unstable interpret with caution
+93463,50.975,6.121,188.951,Rate is unstable interpret with caution
+California,12.245,11.907,12.595,Rate is stable
+Santa Barbara,11.062,8.242,14.698,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

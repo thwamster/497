@@ -1,0 +1,24 @@
+Tehama Hospitalizations - by Zip Code 2010,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+95428,0,,,Not applicable
+95963,26.281,6.903,72.752,Rate is unstable interpret with caution
+95973,33.301,17.022,60.825,Rate is stable
+96021,38.508,15.305,87.64,Rate may be unstable
+96022,48.475,22.271,100.415,Rate may be unstable
+96035,0,,,Not applicable
+96055,57.266,4.414,258.78,Rate is unstable interpret with caution
+96059,253.732,6.424,1766.682,Rate is unstable interpret with caution
+96063,242.466,6.139,12418.841,Rate is unstable interpret with caution
+96075,284.18,7.195,3007.93,Rate is unstable interpret with caution
+96076,0,,,Not applicable
+96080,30.915,14.389,61.357,Rate may be unstable
+California,12.692,12.335,13.058,Rate is stable
+Tehama,30.747,18.988,48.46,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

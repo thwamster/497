@@ -1,0 +1,34 @@
+Merced Hospitalizations - by Zip Code 2020,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93610,4.433,0.112,46.668,Rate is unstable interpret with caution
+93620,0,,,Not applicable
+93622,0,,,Not applicable
+93635,6.308,0.751,23.946,Rate is unstable interpret with caution
+95301,16.182,6.493,35.37,Rate may be unstable
+95303,0,,,Not applicable
+95315,9.865,1.172,100.456,Rate is unstable interpret with caution
+95316,0,,,Not applicable
+95317,0,,,Not applicable
+95322,0,,,Not applicable
+95324,25.718,4.287,115.09,Rate is unstable interpret with caution
+95333,0,,,Not applicable
+95334,0,,,Not applicable
+95340,20.263,7.738,45.564,Rate may be unstable
+95341,1.515,0.038,30.161,Rate is unstable interpret with caution
+95348,2.616,0.066,21.301,Rate is unstable interpret with caution
+95360,0,,,Not applicable
+95365,0,,,Not applicable
+95369,0,,,Not applicable
+95374,236.214,5.98,1316.102,Rate is unstable interpret with caution
+95380,12.279,3.824,31.115,Rate may be unstable
+95388,0,,,Not applicable
+California,10.188,9.881,10.501,Rate is stable
+Merced,7.485,4.6,11.71,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

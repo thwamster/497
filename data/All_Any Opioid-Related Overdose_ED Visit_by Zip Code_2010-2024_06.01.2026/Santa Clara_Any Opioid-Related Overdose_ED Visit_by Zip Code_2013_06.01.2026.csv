@@ -1,0 +1,75 @@
+Santa Clara ED Visits - by Zip Code 2013,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94022,8.692,0.22,73.234,Rate is unstable interpret with caution
+94024,0,,,Not applicable
+94035,0,,,Not applicable
+94040,6.361,0.746,28.842,Rate is unstable interpret with caution
+94041,0,,,Not applicable
+94043,3.804,0.096,30.809,Rate is unstable interpret with caution
+94085,9.126,1.662,59.033,Rate is unstable interpret with caution
+94086,4.322,0.519,23.599,Rate is unstable interpret with caution
+94087,4.903,0.491,20.341,Rate is unstable interpret with caution
+94089,10.257,1.237,42.654,Rate is unstable interpret with caution
+94301,6.274,0.159,54.619,Rate is unstable interpret with caution
+94303,6.172,1.266,21.454,Rate is unstable interpret with caution
+94304,0,,,Not applicable
+94305,0,,,Not applicable
+94306,3.536,0.09,23.907,Rate is unstable interpret with caution
+94550,17.846,7.495,37.294,Rate may be unstable
+95002,0,,,Not applicable
+95008,13.834,5.388,32.803,Rate may be unstable
+95013,0,,,Not applicable
+95014,3.034,0.363,15.401,Rate is unstable interpret with caution
+95020,18.87,9.38,37.088,Rate may be unstable
+95023,21.796,10.858,40.583,Rate may be unstable
+95030,4.943,0.125,86.661,Rate is unstable interpret with caution
+95032,8.665,1.763,39.953,Rate is unstable interpret with caution
+95033,38.37,2.2,186.119,Rate is unstable interpret with caution
+95035,6.816,2.191,18.597,Rate may be unstable
+95037,17.004,6.724,37.697,Rate may be unstable
+95046,0,,,Not applicable
+95050,6.456,0.549,28.359,Rate is unstable interpret with caution
+95051,13.519,4.832,31.289,Rate may be unstable
+95053,0,,,Not applicable
+95054,0,,,Not applicable
+95070,10.747,1.039,55.409,Rate is unstable interpret with caution
+95076,27.646,17.61,42.145,Rate is stable
+95110,6.307,0.16,82.481,Rate is unstable interpret with caution
+95111,9.798,3.581,26.238,Rate may be unstable
+95112,9.247,2.853,28.115,Rate may be unstable
+95113,465.096,84.057,2624.564,Rate is unstable interpret with caution
+95116,5.417,1.108,18.185,Rate is unstable interpret with caution
+95117,3.051,0.077,29.485,Rate is unstable interpret with caution
+95118,3.983,0.101,22.497,Rate is unstable interpret with caution
+95119,49.538,5.999,230.822,Rate is unstable interpret with caution
+95120,9.85,0.802,43.832,Rate is unstable interpret with caution
+95121,10.129,2.737,30.827,Rate is unstable interpret with caution
+95122,9.984,3.65,24.912,Rate may be unstable
+95123,5.046,1.02,18.256,Rate is unstable interpret with caution
+95124,13.762,4.459,32.368,Rate may be unstable
+95125,3.851,0.423,16.3,Rate is unstable interpret with caution
+95126,14.713,4.486,47.137,Rate may be unstable
+95127,5.639,1.523,16.222,Rate is unstable interpret with caution
+95128,0,,,Not applicable
+95129,0,,,Not applicable
+95130,25.621,6.863,77.273,Rate is unstable interpret with caution
+95131,2.963,0.075,42.398,Rate is unstable interpret with caution
+95132,0,,,Not applicable
+95133,3.808,0.096,26.36,Rate is unstable interpret with caution
+95134,0,,,Not applicable
+95135,0,,,Not applicable
+95136,5.527,1.14,23.504,Rate is unstable interpret with caution
+95138,0,,,Not applicable
+95139,0,,,Not applicable
+95140,0,,,Not applicable
+95148,0,,,Not applicable
+California,17.56,17.15,17.983,Rate is stable
+Santa Clara,6.848,5.71,8.157,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Emergency Department Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

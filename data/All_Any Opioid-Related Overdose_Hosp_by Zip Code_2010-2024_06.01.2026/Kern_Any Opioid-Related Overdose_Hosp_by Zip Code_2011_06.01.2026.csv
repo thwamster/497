@@ -1,0 +1,62 @@
+Kern Hospitalizations - by Zip Code 2011,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+93203,21.892,0.554,131.29,Rate is unstable interpret with caution
+93205,667.889,23.891,3535.384,Rate is unstable interpret with caution
+93206,58.407,1.479,732.296,Rate is unstable interpret with caution
+93215,3.436,0.087,22.046,Rate is unstable interpret with caution
+93224,0,,,Not applicable
+93225,40.776,7.907,249.845,Rate is unstable interpret with caution
+93226,0,,,Not applicable
+93238,50.192,6.067,14675.434,Rate is unstable interpret with caution
+93240,0,,,Not applicable
+93241,0,,,Not applicable
+93243,157.926,3.998,1154.446,Rate is unstable interpret with caution
+93249,0,,,Not applicable
+93250,0,,,Not applicable
+93251,0,,,Not applicable
+93252,0,,,Not applicable
+93255,231.22,28.002,1779.897,Rate is unstable interpret with caution
+93263,27.364,7.322,106.383,Rate is unstable interpret with caution
+93268,9.539,1.145,66.735,Rate is unstable interpret with caution
+93276,0,,,Not applicable
+93280,0,,,Not applicable
+93283,0,,,Not applicable
+93285,72.481,14.662,817.126,Rate is unstable interpret with caution
+93287,0,,,Not applicable
+93301,56.069,20.416,131.927,Rate may be unstable
+93304,19.326,8.251,39.029,Rate may be unstable
+93305,7.61,1.467,33.826,Rate is unstable interpret with caution
+93306,6.245,1.599,17.814,Rate is unstable interpret with caution
+93307,16.047,7.449,33.215,Rate may be unstable
+93308,25.679,13.939,45.132,Rate is stable
+93309,15.492,6.998,31.101,Rate may be unstable
+93311,11.713,3.792,39.085,Rate may be unstable
+93312,34.344,18.651,62.071,Rate is stable
+93313,10.406,1.605,38.34,Rate is unstable interpret with caution
+93314,0,,,Not applicable
+93461,0,,,Not applicable
+93501,28.911,0.732,218.521,Rate is unstable interpret with caution
+93505,14.781,1.789,99.984,Rate is unstable interpret with caution
+93516,42.954,1.088,380.518,Rate is unstable interpret with caution
+93518,0,,,Not applicable
+93519,0,,,Not applicable
+93523,0,,,Not applicable
+93524,0,,,Not applicable
+93527,44.492,1.126,472.32,Rate is unstable interpret with caution
+93528,0,,,Not applicable
+93531,0,,,Not applicable
+93536,8.577,2.671,22.615,Rate may be unstable
+93554,0,,,Not applicable
+93555,23.327,9.855,49.519,Rate may be unstable
+93560,15.382,3.165,86.51,Rate is unstable interpret with caution
+93561,4.616,0.542,21.121,Rate is unstable interpret with caution
+California,12.762,12.405,13.127,Rate is stable
+Kern,15.377,12.75,18.468,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,

@@ -1,0 +1,39 @@
+Marin Hospitalizations - by Zip Code 2013,,,,
+Any Opioid : Age-Adjusted Rate per 100k Residents,,,,Any Opioid : Age-Adjusted Rate per 100k Residents
+Zip Code,Age-Adjusted Rate,95% LCL,95% UCL,Stability
+94901,11.629,4.24,28.884,Rate may be unstable
+94903,5.314,0.984,28.241,Rate is unstable interpret with caution
+94904,0,,,Not applicable
+94920,0,,,Not applicable
+94924,0,,,Not applicable
+94925,12.362,0.313,115.934,Rate is unstable interpret with caution
+94929,0,,,Not applicable
+94930,0,,,Not applicable
+94933,0,,,Not applicable
+94937,0,,,Not applicable
+94938,0,,,Not applicable
+94939,24.561,0.622,379.581,Rate is unstable interpret with caution
+94940,0,,,Not applicable
+94941,3.523,0.089,33.015,Rate is unstable interpret with caution
+94945,21.255,3.634,71.449,Rate is unstable interpret with caution
+94946,0,,,Not applicable
+94947,8.615,1.777,35.195,Rate is unstable interpret with caution
+94949,20.44,4.006,69.635,Rate is unstable interpret with caution
+94952,14.279,5.307,34.693,Rate may be unstable
+94956,92.527,2.343,666.217,Rate is unstable interpret with caution
+94960,13.467,0.341,80.561,Rate is unstable interpret with caution
+94963,0,,,Not applicable
+94964,0,,,Not applicable
+94965,46.175,11.913,145.62,Rate is unstable interpret with caution
+94970,0,,,Not applicable
+94971,0,,,Not applicable
+94973,16.971,0.43,780.458,Rate is unstable interpret with caution
+California,11.955,11.617,12.3,Rate is stable
+Marin,12.69,8.508,18.495,Rate is stable
+Note: Missing values are intentionally left blank and are considered not applicable.,,,,
+Source: California Department of Health Care Access and Information - Inpatient Discharge Data,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,06.01.2026,,
+Suggested Citation: ,,,,
+California Overdose Surveillance Dashboard. Prepared by California Department of Public Health (CDPH) - Substance and Addiction Prevention Branch (SAPB).,,,,
+Accessed ,06/01/26., https://skylab.cdph.ca.gov/ODdash/,,
